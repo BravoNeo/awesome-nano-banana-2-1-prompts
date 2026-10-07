@@ -1,0 +1,359 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts/blob/main/schema/entry.schema.json",
+  "title": "Reviewed source-attributed image prompt entry",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "author",
+    "sourceUrl",
+    "promptSourceUrl",
+    "mediaSourceUrl",
+    "originalPrompt",
+    "originalPromptSha256",
+    "verification",
+    "workIdentity",
+    "modelClaim",
+    "mediaBinding",
+    "title",
+    "description",
+    "category",
+    "tags",
+    "originalLanguage",
+    "promptKind",
+    "inputRequirement",
+    "publishedAt",
+    "rights",
+    "media",
+    "referenceAssets"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^x-[0-9]{15,22}$"
+    },
+    "slug": {
+      "type": "string",
+      "maxLength": 120,
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "author": {
+      "type": "object",
+      "required": ["name", "handle"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "handle": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_]{1,15}$"
+        }
+      }
+    },
+    "sourceUrl": {
+      "type": "string",
+      "pattern": "^https://(x\\.com|twitter\\.com)/[A-Za-z0-9_]{1,15}/status/[0-9]{15,22}$"
+    },
+    "promptSourceUrl": {
+      "type": "string",
+      "pattern": "^https://(x\\.com|twitter\\.com)/[A-Za-z0-9_]{1,15}/status/[0-9]{15,22}$"
+    },
+    "mediaSourceUrl": {
+      "type": "string",
+      "pattern": "^https://(x\\.com|twitter\\.com)/[A-Za-z0-9_]{1,15}/status/[0-9]{15,22}$"
+    },
+    "originalPrompt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 12000
+    },
+    "originalPromptSha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "status",
+        "promptCompleteness",
+        "modelAttribution",
+        "evidencePath",
+        "evidenceSha256",
+        "reviewedAt"
+      ],
+      "properties": {
+        "status": {
+          "const": "reviewed"
+        },
+        "promptCompleteness": {
+          "const": "full-original"
+        },
+        "modelAttribution": {
+          "const": "explicit-author-statement"
+        },
+        "evidencePath": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000
+        },
+        "evidenceSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "reviewedAt": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100
+        }
+      }
+    },
+    "workIdentity": {
+      "type": "object",
+      "required": ["semanticGroupId", "reviewed", "reviewNote"],
+      "properties": {
+        "semanticGroupId": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "reviewed": {
+          "const": true
+        },
+        "reviewNote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 3000
+        }
+      }
+    },
+    "modelClaim": {
+      "type": "object",
+      "required": ["name", "quote", "sourceUrl", "independentlyVerified"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 3000
+        },
+        "sourceUrl": {
+          "type": "string",
+          "pattern": "^https://(x\\.com|twitter\\.com)/[A-Za-z0-9_]{1,15}/status/[0-9]{15,22}$"
+        },
+        "independentlyVerified": {
+          "const": false
+        }
+      }
+    },
+    "mediaBinding": {
+      "enum": ["direct-source", "author-thread-output", "author-quoted-output"]
+    },
+    "pairingEvidence": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 3000
+    },
+    "title": {
+      "type": "object",
+      "required": ["en"],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "required": ["en"],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 3000
+        }
+      }
+    },
+    "category": {
+      "enum": [
+        "portraits",
+        "posters",
+        "products",
+        "edits",
+        "styles",
+        "storyboards"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 100
+      }
+    },
+    "originalLanguage": {
+      "enum": ["en", "zh", "ja", "ko", "es", "fr", "de", "pt", "it", "ar"]
+    },
+    "promptKind": {
+      "enum": ["text-to-image", "image-editing"]
+    },
+    "inputRequirement": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 3000
+    },
+    "publishedAt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "rights": {
+      "type": "object",
+      "required": ["basis", "note"],
+      "properties": {
+        "basis": {
+          "const": "third-party-source"
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 3000
+        }
+      }
+    },
+    "media": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "$ref": "#/$defs/asset"
+      }
+    },
+    "referenceAssets": {
+      "type": "array",
+      "maxItems": 20,
+      "items": {
+        "$ref": "#/$defs/asset"
+      }
+    }
+  },
+  "$defs": {
+    "variant": {
+      "type": "object",
+      "required": ["url", "sha256", "mimeType", "width", "height", "bytes"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.webp$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "mimeType": {
+          "const": "image/webp"
+        },
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "cdn": {
+      "type": "object",
+      "required": [
+        "url",
+        "sha256",
+        "mimeType",
+        "width",
+        "height",
+        "bytes",
+        "originalSha256",
+        "variants"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.webp$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "mimeType": {
+          "const": "image/webp"
+        },
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "originalSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "variants": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/variant"
+          }
+        }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "required": ["url", "sourceUrl", "mediaKey", "alt", "role", "cdn"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://pbs\\.twimg\\.com/media/"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "pattern": "^https://(x\\.com|twitter\\.com)/[A-Za-z0-9_]{1,15}/status/[0-9]{15,22}$"
+        },
+        "mediaKey": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "alt": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "role": {
+          "enum": ["input", "output"]
+        },
+        "cdn": {
+          "$ref": "#/$defs/cdn"
+        }
+      }
+    }
+  }
+}
