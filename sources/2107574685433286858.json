@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107574685433286858",
+  "author": {
+    "handle": "thefinnmckenty",
+    "name": "Finn McKenty"
+  },
+  "sourceUrl": "https://x.com/thefinnmckenty/status/2107574685433286858",
+  "promptSourceUrl": "https://x.com/thefinnmckenty/status/2107574685433286858",
+  "mediaSourceUrl": "https://x.com/thefinnmckenty/status/2107574685433286858",
+  "modelEvidence": "Nano Banana 2.1 is here 🍌\n\nTesting it in @floraai vs Nano Banana Pro for style transfer (which is what I care about the most).",
+  "modelEvidenceSourceUrl": "https://x.com/thefinnmckenty/status/2107574685433286858",
+  "originalPrompt": "Create an image of the content as shown in [image 1] but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of [image 2]. Objective: Style transfer from [image 1 to [image 2]",
+  "originalPromptSha256": "791a0d5503e89a9ecbaf8cd97291ffc95ecece9330b444689dc8c123faeccca5",
+  "pairingEvidence": [
+    "四张均为流程画布截图：左上内容参考，左下风格参考，右上标 NB 2.1 为目标输出，右下 NB PRO 为对照",
+    "同一提示词更换风格参考图，四个输出只计一个作品；需裁切右上目标结果",
+    "原帖完整模型名及图内 NB 2.1 标签共同确认目标模型"
+  ],
+  "displayNote": "Comparison composite: Nano Banana 2.1 is the UPPER-RIGHT output. Left panels are content/style references; lower-right is Nano Banana Pro. This is one prompt and one reviewed style example."
+}

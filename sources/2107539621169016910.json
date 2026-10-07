@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107539621169016910",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107539621169016910",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107539688760222070",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107539621169016910",
+  "modelEvidence": "I gave Nano Banana 2.1 one of the most complex prompts I've ever written: all of human history inside a nautilus shell.\n\nEach chamber is a different era, smallest to largest, the same way the shell actually grows.\n\nZoom in. Which era did it nail? 👇\nPrompt⬇️ https://t.co/9QldppUUzw",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107539621169016910",
+  "originalPrompt": "A breathtaking macro photograph of a chambered nautilus shell cut in half, resting on black velvet, its pearlescent nacre glowing with iridescent pink, gold and blue. Eight chambers along the spiral each hold a tiny, lit miniature world showing one era of human history, in order from the innermost chamber to the outermost: a cave with a campfire and handprint paintings; scribes carving hieroglyphs by oil lamp; an ancient library of scrolls; a medieval stained-glass workshop; a Renaissance artist's studio with sketches of flying machines; a steam-age workshop full of gears and a printing press; a 1960s mission control room with glowing screens; and, in the largest outer chamber, a child at a window looking up at a sky full of stars, holding a paper rocket. A thin thread of golden light passes through every chamber, connecting the eras like the shell's real siphuncle. Each miniature is warmly lit like a lantern, so the whole spiral glows from within. Cinematic studio lighting, ultra-fine detail, shallow depth of field, awe-inspiring and dreamlike, yet photographically real. Aspect ratio 4:5, 4K.",
+  "originalPromptSha256": "e76e6b654c748bf82846ed23c53bc6ad57062ed290accb997d6d7dba3f2302e4",
+  "pairingEvidence": [
+    "完整提示词来自同作者直接回复"
+  ],
+  "displayNote": ""
+}

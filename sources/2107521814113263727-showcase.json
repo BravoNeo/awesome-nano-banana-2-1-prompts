@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107521814113263727-showcase",
+  "author": {
+    "handle": "PElfines71321",
+    "name": "Jayz(ジェイズ)＠AI音楽"
+  },
+  "sourceUrl": "https://x.com/PElfines71321/status/2107521814113263727",
+  "promptSourceUrl": "https://x.com/PElfines71321/status/2107522248508850395",
+  "mediaSourceUrl": "https://x.com/PElfines71321/status/2107521814113263727",
+  "modelEvidence": "nanobanana2.1で早速画像作ってみました。",
+  "modelEvidenceSourceUrl": "https://x.com/PElfines71321/status/2107521814113263727",
+  "originalPrompt": "世界で一番高価なストラディヴァリのバイオリンをショーケースの中に入れた状態で展示している様子を、現地でプロカメラマンが撮影したスチル写真として作画して。",
+  "originalPromptSha256": "9b95c157800fbeac7b4fb156eceab39f1a3c702de8231fb9f0a37deab6d84fa1",
+  "pairingEvidence": "根帖第1张为博物馆大厅内玻璃展柜中的小提琴，前方有说明牌，与初始提示词一致。",
+  "displayNote": ""
+}

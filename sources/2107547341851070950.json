@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107547341851070950",
+  "author": {
+    "handle": "dreamydigiarts",
+    "name": "dreamy digital arts"
+  },
+  "sourceUrl": "https://x.com/dreamydigiarts/status/2107547341851070950",
+  "promptSourceUrl": "https://x.com/dreamydigiarts/status/2107547341851070950",
+  "mediaSourceUrl": "https://x.com/dreamydigiarts/status/2107547341851070950",
+  "modelEvidence": "First image created using Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/dreamydigiarts/status/2107547341851070950",
+  "originalPrompt": "A photorealistic shot of a woman walking confidently along an autumn sidewalk in the sun\n\nSubject: A young woman with long wavy brown hair, smiling broadly while looking at the camera\n\nClothing: She is wearing a vibrant red strapless mini dress and matching red heels\n\nAccessories: She wears a large wide-brimmed red hat and carries a structured brown leather handbag on her shoulder\n\nAction: Walking forward with one arm bent slightly in a relaxed gesture, exuding confidence and happiness\n\nEnvironment: A sunlit urban park path lined with trees displaying yellow fall foliage and manicured green bushes\n\nLighting: Bright natural sunlight streaming from above through the branches creating dappled shadows on the ground;",
+  "originalPromptSha256": "275c61e281c086f7841aca9c393a6edf7c46e5efe100e935162febbc01bf5e02",
+  "pairingEvidence": [
+    "保留原帖结尾分号，不补写缺失内容；原始公开提示词全文即止于此"
+  ],
+  "displayNote": ""
+}

@@ -1,10 +1,11 @@
 # Nano Banana 2.1 Prompts
 
 A source-attributed prompt data repository for the existing [ReelDance](https://reeldance.ai)
-image prompt gallery. This repository currently contains collection rules,
-validation tools and tests. **No source-reviewed community works are published yet.**
-The collection target is at least 50 independent works; this is not a claim that
-50 works have been collected.
+image prompt gallery. The reviewed catalog contains **59 independent works by 33 creators**,
+with complete original prompts, author-stated model evidence and original post links.
+59 output previews and 3 optional input references are kept separate. Media is served
+through ReelDance's existing CDN, using 154 content-addressed WebP objects with
+responsive sizes. These are archived source previews, not claimed full-resolution exports.
 
 Google's exact model is [Nano Banana 2.1](https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1?hl=en)
 (`gemini-nano-banana-2.1`); see the [DeepMind model card](https://deepmind.google/models/model-cards/nano-banana-2-1/).
@@ -30,18 +31,16 @@ retained; a public post does not itself grant unlimited reuse rights.
 ## Structure and validation
 
 ```text
-data/entries/                 # Future reviewed source records, one work per file
 sources/                      # Curated proof excerpts only; full collector data stays private
-evidence/                     # Future completeness, pairing and deduplication reviews
 schema/entry.schema.json      # Manifest structure; semantic constraints in validator
 scripts/community-image-gallery/
 scripts/validate-catalog.mjs
 config/model-policy.json
-export/catalog.json           # Only generated after real reviewed works exist
+export/catalog.json           # 59 reviewed independent works
 ```
 
-Directories without data and `export/catalog.json` are intentionally absent.
-There are no placeholder community works. Synthetic fixtures are explicitly
+There are no placeholder community works. Source proof files contain curated excerpts,
+not full collection responses. Same-post independent works have distinct work IDs. Synthetic fixtures are explicitly
 marked inside tests and are never exported as source data.
 
 With Node.js 22 or later, run:
@@ -56,8 +55,7 @@ creator/post binding, complete prompt hashes, reviewed duplicate groups,
 input/output separation and project CDN metadata. It does not prove source
 authenticity, semantic independence, reuse permission or CDN availability.
 See [the manifest contract](scripts/community-image-gallery/README.md) for fields
-and the review requirements. CI tests tooling now and validates the real
-catalog once `export/catalog.json` exists.
+and the review requirements. CI tests the importer and validates the reviewed catalog on every push.
 
 ## ReelDance synchronization
 
@@ -71,3 +69,16 @@ Media rendered on non-Blog ReelDance pages use the existing project CDN;
 original media URLs and creator links remain source provenance. This repository
 does not claim ownership of third-party prompts or artwork and does not grant
 a blanket third-party media license.
+
+## Interpreting the examples
+
+Model labels reflect explicit creator statements, not independently verified generation
+backends. Five multi-model composites clearly identify the Nano Banana 2.1 region;
+other panels are not attributed to 2.1. An editing attempt that did not move a banana
+to the ear remains labeled unsuccessful. Generated historical reconstructions, launch
+posters and football tables are examples of image output, not independently verified facts.
+
+Collection used the parent workflow’s authorized X-source collection and visual/source
+review. This repository contains curated source excerpts only, with no collector
+credentials, profiles, engagement payloads or private audit. Complete prompt hashes
+are preserved from the supplied reviewed manifest.

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107393957327995297",
+  "author": {
+    "handle": "favprompt",
+    "name": "Fav Prompt"
+  },
+  "sourceUrl": "https://x.com/favprompt/status/2107393957327995297",
+  "promptSourceUrl": "https://x.com/favprompt/status/2107393957327995297",
+  "mediaSourceUrl": "https://x.com/favprompt/status/2107393957327995297",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/favprompt/status/2107393957327995297",
+  "originalPrompt": "A hyper-realistic waist-up bathroom mirror selfie of one fictional young adult woman with the Hair And Makeup and Body Type. She wears the Top and stands naturally in the Bathroom Setting, holding a smartphone at arm's length in the mirror reflection. Use a front-camera wide-angle perspective with slightly close, imperfect framing, mild lens distortion and a casual off-center composition. Her very full, heavy bust should create a pronounced upper-body silhouette on a narrow torso while remaining anatomically natural and realistically supported by the top. Give her a relaxed soft pout, sleepy eyes and a direct gaze toward the phone lens. Use the Lighting as the only main source, with believable shadows and imperfect white balance. Preserve visible pores, fine skin texture, natural shine, flyaway hairs, realistic fabric tension and subtle smartphone sensor noise. Add gentle focus falloff and mild compression for an ordinary phone-photo feel, never a studio portrait. Show no other person, text, watermark, logo, username, interface overlay or border.\n\nUse these details:\nHair And Makeup: \"long, softly waved brunette hair with nude lipstick and minimal natural makeup\"\nBody Type: \"curvy petite figure with a very full, heavy bust and narrow ribcage\"\nTop: \"fitted black sweetheart-neck top\"\nBathroom Setting: \"a slightly lived-in bathroom with pale tile, a visible mirror and ordinary countertop details\"\nLighting: \"direct cool-white bathroom ceiling light\"",
+  "originalPromptSha256": "8e9dba6d211dc29bc24fc5d630b3229bd45f24f34d5b0bee417796f94efbc7eb",
+  "pairingEvidence": "所选第1张为浴室镜前成年女性手机自拍，黑色上装、棕色长发、天花板灯光与提示词一致；其余2张未逐张复核。",
+  "displayNote": ""
+}

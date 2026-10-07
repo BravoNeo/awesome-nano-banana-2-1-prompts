@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107636141109153812",
+  "author": {
+    "handle": "jackson99ai",
+    "name": "Wanderson Jackson"
+  },
+  "sourceUrl": "https://x.com/jackson99ai/status/2107636141109153812",
+  "promptSourceUrl": "https://x.com/jackson99ai/status/2107636141109153812",
+  "mediaSourceUrl": "https://x.com/jackson99ai/status/2107636141109153812",
+  "modelEvidence": "First = Nano Banana 2.1 |||\nSecond = GPT Image 2.5 Sunburst.",
+  "modelEvidenceSourceUrl": "https://x.com/jackson99ai/status/2107636141109153812",
+  "originalPrompt": "Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.",
+  "originalPromptSha256": "cff87cdaa74e488cc1d07b5aacd9f829e504b616276dae986cf05fb105f178c2",
+  "pairingEvidence": [
+    "第二张为 GPT Image 2.5 Sunburst，排除",
+    "同作者根帖说明使用 Avocado director mode 的角色创建工作流；公开提示词已完整照录，平台可能有未公开模板或默认设置"
+  ],
+  "displayNote": ""
+}

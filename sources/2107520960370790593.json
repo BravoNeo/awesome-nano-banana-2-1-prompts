@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107520960370790593",
+  "author": {
+    "handle": "ibexdream",
+    "name": "ibexdream"
+  },
+  "sourceUrl": "https://x.com/ibexdream/status/2107520960370790593",
+  "promptSourceUrl": "https://x.com/ibexdream/status/2107520960370790593",
+  "mediaSourceUrl": "https://x.com/ibexdream/status/2107520960370790593",
+  "modelEvidence": "Nano Banana 2.1 just dropped. 🍌\nThe new model promises improvements across the board, especially in visual design, image editing, and subject consistency, with more natural-looking results, now with up to 4K output.\n\nSo I put it through a simple 3-step test:\nPrompt adherence → Image editing → Style transformation\n\nAll generated and edited in @krea_ai\nThread below ↓",
+  "modelEvidenceSourceUrl": "https://x.com/ibexdream/status/2107520944113639486",
+  "originalPrompt": "Transform this image into an ultra-realistic oil painting while preserving the philosopher’s identity, the banana held to his ear like a telephone, the labyrinth concept, and the overall composition. Reinterpret the engraved banknote design as a richly painted fine-art scene with realistic skin, expressive brushwork, detailed robes, and a dramatic, museum-quality atmosphere. The labyrinth should become a painted architectural maze integrated into the composition. Preserve the text “THE CURRENCY OF NANOBANANA,” “THE LABYRINTH OF PROMPTS,” the motto “IN BANANA WE TRUST,” the serial number “NB-21098471,” and the banana-infinity corner icons, adapting them naturally into the painted design. The final result should feel grand, surreal, elegant, and visually impressive.",
+  "originalPromptSha256": "f6041682cfb4e776f184eac6e96d643114b6df35b6113b09dc97bf3d8360cab5",
+  "pairingEvidence": [
+    "以上一步香蕉电话纸币为参考，依赖指定输入图",
+    "型号来自同作者线程根帖；该子帖附独立输出"
+  ],
+  "displayNote": ""
+}

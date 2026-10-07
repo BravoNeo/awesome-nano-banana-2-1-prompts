@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107522346907316237",
+  "author": {
+    "handle": "sadlemonjuice",
+    "name": "Socratech"
+  },
+  "sourceUrl": "https://x.com/sadlemonjuice/status/2107522346907316237",
+  "promptSourceUrl": "https://x.com/sadlemonjuice/status/2107522346907316237",
+  "mediaSourceUrl": "https://x.com/sadlemonjuice/status/2107522346907316237",
+  "modelEvidence": "That’s crazy NB 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/sadlemonjuice/status/2107522346907316237",
+  "originalPrompt": "sonic the hedgehog characters organized perfectly making text Nano Banana 2.1 anime illustration",
+  "originalPromptSha256": "924812c8b7b152421d82997b29a149c6c9a2b51c25bfc19b563d54456fd1bebc",
+  "pairingEvidence": [
+    "同一提示词三张输出，仅计一个作品",
+    "同作者被引用帖明确写 Nano banana 2.1 can do characters"
+  ],
+  "displayNote": ""
+}

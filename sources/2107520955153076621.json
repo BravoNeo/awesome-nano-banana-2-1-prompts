@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107520955153076621",
+  "author": {
+    "handle": "ibexdream",
+    "name": "ibexdream"
+  },
+  "sourceUrl": "https://x.com/ibexdream/status/2107520955153076621",
+  "promptSourceUrl": "https://x.com/ibexdream/status/2107520955153076621",
+  "mediaSourceUrl": "https://x.com/ibexdream/status/2107520955153076621",
+  "modelEvidence": "Nano Banana 2.1 just dropped. 🍌\nThe new model promises improvements across the board, especially in visual design, image editing, and subject consistency, with more natural-looking results, now with up to 4K output.\n\nSo I put it through a simple 3-step test:\nPrompt adherence → Image editing → Style transformation\n\nAll generated and edited in @krea_ai\nThread below ↓",
+  "modelEvidenceSourceUrl": "https://x.com/ibexdream/status/2107520944113639486",
+  "originalPrompt": "Edit this image while preserving the antique engraved banknote style, the philosopher’s identity, and the overall composition. Change the philosopher so he is holding a banana to his ear as if he is speaking on a telephone. Replace the text \"THE CURRENCY OF THOUGHT\" with \"THE CURRENCY OF NANOBANANA\". Replace the text \"THE LABYRINTH OF THOUGHT\" with \"THE LABYRINTH OF PROMPTS\". Add the central motto \"IN BANANA WE TRUST\". Change the serial number to \"NB-21098471\". Redesign the corner symbols so they become banana-infinity icons. Keep the image elegant, surreal, intricate, and visually coherent, with all changes integrated naturally into the engraved banknote design.",
+  "originalPromptSha256": "f7a2b48237dbee724980b9a24b82dce3ad7b6028478684e3f1707fd9275d0cb3",
+  "pairingEvidence": [
+    "以上一步哲学家迷宫纸币为参考，依赖指定输入图",
+    "型号来自同作者线程根帖；该子帖附独立输出",
+    "输出新增标语和序号，但人物仍用手托腮，未完成要求的香蕉电话编辑；保留作为真实失败示例，不宣称完美遵循"
+  ],
+  "displayNote": "The author requested moving the banana to the ear, but the shown output still has the hand at the chin. This example preserves an unsuccessful editing attempt."
+}

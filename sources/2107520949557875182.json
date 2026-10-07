@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107520949557875182",
+  "author": {
+    "handle": "ibexdream",
+    "name": "ibexdream"
+  },
+  "sourceUrl": "https://x.com/ibexdream/status/2107520949557875182",
+  "promptSourceUrl": "https://x.com/ibexdream/status/2107520949557875182",
+  "mediaSourceUrl": "https://x.com/ibexdream/status/2107520949557875182",
+  "modelEvidence": "Nano Banana 2.1 just dropped. 🍌\nThe new model promises improvements across the board, especially in visual design, image editing, and subject consistency, with more natural-looking results, now with up to 4K output.\n\nSo I put it through a simple 3-step test:\nPrompt adherence → Image editing → Style transformation\n\nAll generated and edited in @krea_ai\nThread below ↓",
+  "modelEvidenceSourceUrl": "https://x.com/ibexdream/status/2107520944113639486",
+  "originalPrompt": "A classical philosopher depicted on an imaginary banknote, his silhouette gradually opening into an elaborate labyrinth populated by tiny anonymous figures.\nThe surrounding ornamental frame contains subtle optical illusions that change direction across the page.\nCopperplate engraving, muted ivory stock, deep navy and fluorescent coral inks, cerebral surrealism, museum-print precision.",
+  "originalPromptSha256": "647fee41c8cae73b75a17ac0a2f95797b25be493e335ed61daea45bb5569691d",
+  "pairingEvidence": [
+    "型号来自同作者线程根帖；该子帖附独立输出"
+  ],
+  "displayNote": ""
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107644949730869493",
+  "author": {
+    "handle": "Yuupapa_free",
+    "name": "結パパ"
+  },
+  "sourceUrl": "https://x.com/Yuupapa_free/status/2107644949730869493",
+  "promptSourceUrl": "https://x.com/Yuupapa_free/status/2107644949730869493",
+  "mediaSourceUrl": "https://x.com/Yuupapa_free/status/2107644949730869493",
+  "modelEvidence": "左が GPT image 2.5 で、右が Nano Banana 2.1 です",
+  "modelEvidenceSourceUrl": "https://x.com/Yuupapa_free/status/2107644949730869493",
+  "originalPrompt": "実写で、iPhone で撮影したような画質の写真。\n\n被写体は日本人の若い女性2人と若い男性2人。それぞれ見た目もバラバラで、並んで立っている構図。\n\n画角・構図：\n• アスペクト比：1:1\n• ショット：ウエストアップ（腰から上を写す）\n\n背景：\n夜の渋谷の交差点。4人は歩道の道路側に立っている感じ。",
+  "originalPromptSha256": "d58acbe5fb6d06b1f9445a004a148f935f16f76babba8c680f675783b9de9827",
+  "pairingEvidence": "所选第2张为涩谷交叉路口夜景中的2男2女合影，与提示词主题一致；构图不严格局限腰部以上，属于输出遵循不足，不是媒体错配。",
+  "displayNote": ""
+}

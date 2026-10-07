@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107548617687130522",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107548617687130522",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107548877629088059",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107548617687130522",
+  "modelEvidence": "Don't look at the shadow.\n\nNano Banana 2.1 · prompt in the replies⬇️ https://t.co/JsnHhXNZUe",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107548617687130522",
+  "originalPrompt": "Create one \"Secret Shadow\" image per upload. Never combine photos.\n\nFormat: Vertical 16:9, presented as a single instant-film photo with a slightly thicker ivory bottom border.\n\nPhoto: Keep the uploaded photo faithful. Preserve the subject, pose, faces, colors and setting. Do not redesign, restyle or replace anything. Only adjust light and shading as much as the shadow requires.\n\nLight: Add one low, warm, late-afternoon light source from the side, consistent with the scene, so the main subject casts a long, crisp shadow across the nearest wall, floor or ground.\n\nShadow Logic: Ask what this subject secretly wishes it were doing right now, based on what the photo shows. The shadow does exactly that. For example, a person at a laptop might cast the shadow of someone asleep in a hammock, a dog waiting by the door might cast the shadow of a dog driving a car, and a coffee cup might cast the shadow of a smoking volcano. Choose one clear, specific, surprising wish for each upload. Never fall back on the same idea.\n\nShadow Rules: The shadow must begin exactly where the subject touches the surface and match its outline at the base, then transform as it stretches away. It must behave like a real shadow: dark, soft-edged, flat on the surface it falls on, bending over steps and corners, with no color or inner detail. Only the main subject gets a secret shadow; everything else casts normal shadows.\n\nCaption: Handwrite one short, dry, witty English caption in black ink on the bottom border, based on the shadow's wish. Under six words, understated, never inspirational.\n\nStyle: Real photography, warm golden light, subtle film grain, quiet and cinematic. It should feel like the shadow was always there and nobody noticed.\n\nNegative: No extra subjects or props, no colored or detailed shadows, no glow or magic effects, no change to faces or identity, no text except the caption, no watermark, no logo, no UI.",
+  "originalPromptSha256": "c224b2cf4682e5d300f9959455ff3e6ba89b031959b017da594e191cffa8e03d",
+  "pairingEvidence": [
+    "完整提示词来自同作者直接回复",
+    "依赖上传原图；原始输入图未单独提供",
+    "保留原文 Vertical 16:9，即使方向与比例表述矛盾"
+  ],
+  "displayNote": ""
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107540710912033099",
+  "author": {
+    "handle": "kaanakz",
+    "name": "Kaan"
+  },
+  "sourceUrl": "https://x.com/kaanakz/status/2107540710912033099",
+  "promptSourceUrl": "https://x.com/kaanakz/status/1986765997345271956",
+  "mediaSourceUrl": "https://x.com/kaanakz/status/2107540710912033099",
+  "modelEvidence": "Almost a year later, I tried the same prompt again with Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/kaanakz/status/2107540710912033099",
+  "originalPrompt": "{\n    \"promptDetails\": {\n        \"description\": \"A prompt to *create a new scene* by placing a subject (based on a reference photo) into a new atmospheric background, then overlaying a music UI.\",\n        \"styleTags\": [\n            \"Aesthetic Edit\",\n            \"Cinematic\",\n            \"Scene Compositing\",\n            \"Glassmorphism\"\n        ]\n    },\n    \"subjectReference\": {\n        \"source\": \"[UPLOADED IMAGE]\",\n        \"description\": \"Use this image *only* as a reference for the subject's face, hair, and appearance. Do *not* use its original background.\"\n    },\n    \"scene\": {\n        \"background\": {\n            \"setting\": \"the window on the bus is sad, troubled, sorrowful\",\n            \"details\": \"This is the *new* environment the subject must be placed into, completely replacing the original background.\"\n        },\n        \"subject\": {\n            \"description\": \"The young man whose appearance is defined by the `[UPLOADED IMAGE]`.\",\n            \"pose\": \"her head against the window on the bus\",\n            \"focus\": \"Subject is in sharp focus, fully integrated into the new background.\"\n        }\n    },\n    \"overlayObject\": {\n        \"type\": \"Floating Glassmorphism Music Player UI\",\n        \"relationshipToEnvironment\": \"the UI is physically bonded to the same plane as the bus window glass, not screen-space overlay\",\n        \"transform\": \"the UI matches the *exact same rotation and perspective* as the window glass surface. If the window is at a 45° angle, the UI also visually appears rotated 45° with light distortion consistent with that plane.\",\n        \"surfaceInteraction\": \"slight reflection + subtle refraction through glass, extremely thin glassmorphism layer, physically plausible\",\n        \"components\": {\n            \"songTitle\": \"Bak\",\n            \"artistName\": \"Pilli Bebek\",\n            \"position\": \"mounted onto the window plane at the middle-left region of the frame; not floating in front\"\n        }\n    },\n    \"technicalStyle\": {\n        \"aspectRatio\": \"1:1\",\n        \"photographyStyle\": \"Cinematic Portrait, Realistic Compositing\",\n        \"camera\": {\n            \"shotType\": \"Medium Shot or Medium Close-Up\",\n            \"angle\": \"Eye-level\",\n            \"depthOfField\": \"Shallow, to blur the new background (bokeh).\"\n        },\n        \"lighting\": {\n            \"type\": \"Soft, Ambient, Moody\",\n            \"description\": \"Lighting on the subject *must match* the lighting of the new background setting (e.g., neon reflections, soft cafe light).\"\n        },\n        \"color\": {\n            \"palette\": \"Muted, cinematic color grading.\"\n        }\n    },\n    \"audioDevice\": {\n        \"type\": \"subtle in-ear wireless earbuds\",\n        \"fit\": \"naturally seated in both ears with correct realistic skin contact\",\n        \"color\": \"matte black or dark neutral tone\",\n        \"consistencyNote\": \"no cable, no bulky gaming headset\"\n    },\n    \"moodReinforcement\": \"earbuds imply the sad music 'Bak - Pilli Bebek' is what the subject is listening to.\"\n}",
+  "originalPromptSha256": "19181b05abe03940dbaca83a679262aa1e0ae8e1477dd2d79df94c1f3288adf7",
+  "pairingEvidence": [
+    "2026-10-06 的新生成作品复用作者 2025-11-07 旧帖提示词；提示词来自被引用旧帖",
+    "提示词要求人物参考照，但参考照未在这次作品帖中单独指明",
+    "仅选择第一张，符合完整提示词中歌曲 Bak；第二张曲名有变化而未公开差异提示词，不单独计数"
+  ],
+  "displayNote": ""
+}

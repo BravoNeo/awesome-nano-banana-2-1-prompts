@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107532275529273535",
+  "author": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+  },
+  "sourceUrl": "https://x.com/marcthecreatorr/status/2107532275529273535",
+  "promptSourceUrl": "https://x.com/marcthecreatorr/status/2107532275529273535",
+  "mediaSourceUrl": "https://x.com/marcthecreatorr/status/2107532275529273535",
+  "modelEvidence": "nano banana 2.1 is live and my first output already looks really good.",
+  "modelEvidenceSourceUrl": "https://x.com/marcthecreatorr/status/2107532275529273535",
+  "originalPrompt": "create a realistic timeline of google’s ceo from childhood to now while keeping the same face throughout.",
+  "originalPromptSha256": "aa90caeef3d5a9d76dd780e08b6150d8928299f104fa3c0558f981c5f9f00738",
+  "pairingEvidence": [
+    "图内上方为 GPT IMAGE 2.5，下方明确标注 NANO BANANA 2.1；需裁切下半部分",
+    "童年形象是生成内容，不能作为人物真实历史照片"
+  ],
+  "displayNote": "Comparison image: Nano Banana 2.1 is the BOTTOM panel and GPT Image 2.5 is above. The childhood scenes are AI-imagined, not historical photographs."
+}

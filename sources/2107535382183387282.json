@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107535382183387282",
+  "author": {
+    "handle": "hakmgpt",
+    "name": "Hakm"
+  },
+  "sourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+  "promptSourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+  "mediaSourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+  "modelEvidence": "image models comparssion \nNano banana 2.1 \nGPT-image 2.5\nMuse-image\nQwen-image 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+  "originalPrompt": "A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.",
+  "originalPromptSha256": "b9cefed4ffa29c5acc3683d154d23dfb1f3c6d00f44d83e8778342249da1f59d",
+  "pairingEvidence": [
+    "四宫格比较图；图内左上明确标注 nano banana 2.1，其余为比较模型；需裁切左上目标输出"
+  ],
+  "displayNote": "Four-model comparison: Nano Banana 2.1 is the UPPER-LEFT panel; the other three panels are different models."
+}

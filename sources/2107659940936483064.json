@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107659940936483064",
+  "author": {
+    "handle": "EvoLinkAi",
+    "name": "EvoLink.ai"
+  },
+  "sourceUrl": "https://x.com/EvoLinkAi/status/2107659940936483064",
+  "promptSourceUrl": "https://x.com/EvoLinkAi/status/2107659940936483064",
+  "mediaSourceUrl": "https://x.com/EvoLinkAi/status/2107659940936483064",
+  "modelEvidence": "Nano Banana 2.1: $0.046 / 30s",
+  "modelEvidenceSourceUrl": "https://x.com/EvoLinkAi/status/2107659940936483064",
+  "originalPrompt": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
+  "originalPromptSha256": "c571141582dd5bd1953f9713a4cd436db1173e8baf5e51a6b4ad34888aae2edc",
+  "pairingEvidence": [
+    "媒体为左右对比拼图；图内左栏明确标注 Nano Banana 2.1，右栏为 Nano Banana 2。展示时需选左侧结果。"
+  ],
+  "displayNote": "Comparison image: Nano Banana 2.1 is the LEFT panel; the right panel is Nano Banana 2."
+}

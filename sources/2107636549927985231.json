@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107636549927985231",
+  "author": {
+    "handle": "jackson99ai",
+    "name": "Wanderson Jackson"
+  },
+  "sourceUrl": "https://x.com/jackson99ai/status/2107636549927985231",
+  "promptSourceUrl": "https://x.com/jackson99ai/status/2107636549927985231",
+  "mediaSourceUrl": "https://x.com/jackson99ai/status/2107636549927985231",
+  "modelEvidence": "First = Nano Banana 2.1 ||| Second = GPT Image 2.5 Sunburst.",
+  "modelEvidenceSourceUrl": "https://x.com/jackson99ai/status/2107636549927985231",
+  "originalPrompt": "Character: Jess, 26, UGC content creator, authentic smartphone-camera realism, no retouching, natural skin texture, blonde balayage hair in a claw clip, beige ribbed lounge set, white socks, small gold hoop earrings. Candid, slightly imperfect lighting as if shot on an iPhone front camera.",
+  "originalPromptSha256": "946d35fc24f527292bb473548d93bebaf3d41a03043dada1daa62c0245c68b6d",
+  "pairingEvidence": [
+    "第二张为 GPT Image 2.5 Sunburst，排除",
+    "同作者根帖说明使用 Avocado director mode 的角色创建工作流；公开提示词已完整照录，平台可能有未公开模板或默认设置"
+  ],
+  "displayNote": ""
+}

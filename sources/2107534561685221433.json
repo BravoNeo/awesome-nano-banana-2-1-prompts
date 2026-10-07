@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534561685221433",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107534561685221433",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107534561685221433",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107534561685221433",
+  "modelEvidence": "Nano Banana 2.1 dropped today, so I tried to break it.\n\n6 languages in one image, a clock at 7:43, a full newspaper page and an 8:1 panorama.\n\nEvery result and prompt below 🧵 https://t.co/dYbELXtokj",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107532293732790541",
+  "originalPrompt": "A 4-panel comic strip in a clean modern style. The same four characters appear in every panel with identical faces, hair and outfits: Ali, a tall man with a beard and a green hoodie; Sara, a woman with a red hijab and round glasses; Max, a small orange cat; and Rob, a silver robot with one blue eye. Panel 1: they find a giant banana in a park. Panel 2: Rob scans it, and his screen reads \"2.1\". Panel 3: Sara takes a photo while Max sniffs it. Panel 4: Ali says in a speech bubble, \"Okay, this one actually gets the text right.\" Aspect ratio 1:1, 2K.",
+  "originalPromptSha256": "27ea23fb84b33ad7ee5d50cc22ffe97e04174c00a1d7c938d5d449a3d298a4dc",
+  "pairingEvidence": [
+    "型号来自同作者直接父帖；该子帖附独立输出"
+  ],
+  "displayNote": ""
+}

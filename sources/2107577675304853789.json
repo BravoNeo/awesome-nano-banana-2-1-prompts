@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107577675304853789",
+  "author": {
+    "handle": "heathergreen",
+    "name": "Heather Green"
+  },
+  "sourceUrl": "https://x.com/heathergreen/status/2107577675304853789",
+  "promptSourceUrl": "https://x.com/heathergreen/status/2107577675304853789",
+  "mediaSourceUrl": "https://x.com/heathergreen/status/2107577675304853789",
+  "modelEvidence": "#promptshare with the new Nano Banana 2.1 generated with @magnific",
+  "modelEvidenceSourceUrl": "https://x.com/heathergreen/status/2107577675304853789",
+  "originalPrompt": "A cute green dinosaur wearing a Santa hat is sitting and tangled in colorful Christmas lights. The dinosaur has a big smile and is holding the string of lights with its hands. Around the dinosaur are several snowflakes and stars. To the left of the dinosaur, there is a red gift box with a white ribbon.",
+  "originalPromptSha256": "3b01df0a27d2ec5bf22c98e423f4643e555cab6607714b81efb2e548bdd58dda",
+  "pairingEvidence": [
+    "作者使用 Magnific 自定义风格，提示词完整但复现还依赖该风格设置；风格链接在原帖"
+  ],
+  "displayNote": ""
+}

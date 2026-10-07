@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107551234366537916",
+  "author": {
+    "handle": "DanjiTosaka",
+    "name": "DANJI"
+  },
+  "sourceUrl": "https://x.com/DanjiTosaka/status/2107551234366537916",
+  "promptSourceUrl": "https://x.com/DanjiTosaka/status/2107551262220685576",
+  "mediaSourceUrl": "https://x.com/DanjiTosaka/status/2107551234366537916",
+  "modelEvidence": "I need a snack 🍫\n\nNano Banana 2.1 prompt 👇 https://t.co/kkMwwhuEpd",
+  "modelEvidenceSourceUrl": "https://x.com/DanjiTosaka/status/2107551234366537916",
+  "originalPrompt": "A photorealistic full-length side profile of a tall young Korean woman with a slim athletic build and long legs, standing upright beside a brightly lit refrigerated beverage case in a gas station parking lot at night. Her black hair is cut in a sleek, glossy wolf cut with face-framing layers and soft curtain bangs, a few strands falling over one cheek. She wears a tight black satin crop top with thin straps that clings to her torso and leaves her midriff and abs bare, a short black leather mini skirt riding high on her thighs, and black strappy stiletto sandals with thin ankle straps. Accessories: a delicate gold chain necklace resting on her collarbone, small gold hoop earrings, a thin gold waist chain, and a slim gold bracelet on her left wrist. Her right hand holds a plain matcha-green paper cup with a straw at waist height; her left hand rests on her hip, fingers relaxed, dark nail polish visible. Her face is in clean profile toward the case, neutral expression, lips closed, eyebrows slightly arched, eyes directed at the drinks and snacks inside the glass. The refrigerator interior is the main light source, cool white and cyan spill lighting one side of her body, satin, and skin while the other side falls into deep shadow. Wet asphalt mirrors the case glow and the faint sodium streetlights; fuel pumps sit softly out of focus behind her. Shot on a Sony A7R V with an 85mm f/1.8 lens at eye level, shallow depth of field, subject sharp, background gently blurred. Cinestill 800T color, cool teal highlights, natural skin texture with visible pores, no text, no watermark. Vertical 2:3 frame.",
+  "originalPromptSha256": "3324fcc1dbb8e4331ea95748a78ce65a8978eef2a86f353c82e6c66caabf1e3c",
+  "pairingEvidence": [
+    "完整提示词来自同作者直接回复",
+    "仅选第一张，服装鞋履符合公开提示词；其余三张更换服装，未提供对应差异提示词，排除"
+  ],
+  "displayNote": ""
+}

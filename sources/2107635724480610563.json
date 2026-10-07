@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107635724480610563",
+  "author": {
+    "handle": "jackson99ai",
+    "name": "Wanderson Jackson"
+  },
+  "sourceUrl": "https://x.com/jackson99ai/status/2107635724480610563",
+  "promptSourceUrl": "https://x.com/jackson99ai/status/2107635724480610563",
+  "mediaSourceUrl": "https://x.com/jackson99ai/status/2107635724480610563",
+  "modelEvidence": "First = Nano Banana 2.1 ||| second = GPT Image 2.5 Sunburst.",
+  "modelEvidenceSourceUrl": "https://x.com/jackson99ai/status/2107635724480610563",
+  "originalPrompt": "Wide 16:9 character model sheet in HEADLESS TURNAROUND layout. Left third: ONE large front-facing face close-up, neutral expression, even soft light, the only face on the sheet. Right two thirds: full-body turnaround of the same outfit, front, back and side views at identical scale in a neutral standing pose, every body view HEADLESS (cropped at the neck) so the sheet contains exactly one face. Flat neutral light-grey studio background, no text, no labels, no story action.",
+  "originalPromptSha256": "fd400f204ce7433266cb6eefedad12faf4bf7d0d7c21ea4016677216f57c5344",
+  "pairingEvidence": [
+    "第二张为 GPT Image 2.5 Sunburst，排除",
+    "同作者根帖说明使用 Avocado director mode 的角色创建工作流；公开提示词已完整照录，平台可能有未公开模板或默认设置"
+  ],
+  "displayNote": ""
+}

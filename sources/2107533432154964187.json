@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107533432154964187",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107533432154964187",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107533432154964187",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107533432154964187",
+  "modelEvidence": "Nano Banana 2.1 dropped today, so I tried to break it.\n\n6 languages in one image, a clock at 7:43, a full newspaper page and an 8:1 panorama.\n\nEvery result and prompt below 🧵 https://t.co/dYbELXtokj",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107532293732790541",
+  "originalPrompt": "A photorealistic photo of a cozy café interior in soft afternoon window light, shot on a 35mm lens. A young woman sits at a wooden table writing in a notebook with her LEFT hand, while her right hand is raised showing exactly three fingers. On the table: a wine glass filled with red wine all the way to the very brim, the surface touching the rim; a white bowl holding exactly seven green apples; and a folded newspaper with the headline \"NANO BANANA 2.1 IS HERE\" and the date \"OCTOBER 6, 2026\". On the wall behind her: an analog clock showing exactly 7:43, and a chalkboard menu that reads \"TODAY'S SPECIAL: PISTACHIO CROISSANT $4.50\" with \"NO WIFI. TALK TO EACH OTHER.\" written below it. A mirror on the side wall shows her reflection accurately, matching her pose. Natural skin texture, realistic reflections, sharp legible text. Aspect ratio 4:5, 4K.",
+  "originalPromptSha256": "216ca1f454fd7b79e828242d103d333ec346f943038e515cb385baa723d4ca50",
+  "pairingEvidence": [
+    "型号来自同作者直接父帖；该子帖附独立输出"
+  ],
+  "displayNote": ""
+}

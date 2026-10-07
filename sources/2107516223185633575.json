@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107516223185633575",
+  "author": {
+    "handle": "itnavi2022",
+    "name": "IT navi"
+  },
+  "sourceUrl": "https://x.com/itnavi2022/status/2107516223185633575",
+  "promptSourceUrl": "https://x.com/itnavi2022/status/2107516223185633575",
+  "mediaSourceUrl": "https://x.com/itnavi2022/status/2107516223185633575",
+  "modelEvidence": "👈Nano Banana 2.1　Nano Banana 2👉",
+  "modelEvidenceSourceUrl": "https://x.com/itnavi2022/status/2107516223185633575",
+  "originalPrompt": "以下のページの内容を縦長のグラレコで描いて\nhttps://t.co/jDrGPzxx3x",
+  "originalPromptSha256": "c248852d34238835a9eb65a3d93aaec8c0ec66f1d1d49f165e47a3c399247625",
+  "pairingEvidence": "所选第1张为 Claude Artifacts 用量50% OFF 日语纵向图解，主题与所引用 Claude 页面 URL 名称相符；网页事实、优惠条件未核验。",
+  "displayNote": "The source prompt includes its original shortened webpage URL. The gallery preserves the prompt and does not verify the webpage summary."
+}

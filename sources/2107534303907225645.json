@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534303907225645",
+  "author": {
+    "handle": "Dheepanratnam",
+    "name": "Dheepan Ratnam"
+  },
+  "sourceUrl": "https://x.com/Dheepanratnam/status/2107534303907225645",
+  "promptSourceUrl": "https://x.com/Dheepanratnam/status/2107534303907225645",
+  "mediaSourceUrl": "https://x.com/Dheepanratnam/status/2107534303907225645",
+  "modelEvidence": "Model: Nano Banana 2.1 on Higgsfield | 4:5 | 2K | thinking: high",
+  "modelEvidenceSourceUrl": "https://x.com/Dheepanratnam/status/2107534303907225645",
+  "originalPrompt": "{\n  \"subject\": \"an adult's right hand, palm facing camera, all five fingers spread\",\n  \"markings\": \"the numbers 1, 2, 3, 4, 5 written in black marker on the fingertips, thumb = 1 through little finger = 5\",\n  \"accessory\": \"a vintage steel wristwatch on the wrist, dial facing camera, hands showing 3:15\",\n  \"texture_1\": \"chunky cream cable-knit wool sleeve pushed up to mid-forearm, individual fibres visible\",\n  \"texture_2\": \"small water droplets on the skin of the palm\",\n  \"background\": \"dark slate grey seamless backdrop\",\n  \"camera\": \"100mm macro lens, f/8, studio softbox from the left\",\n  \"rules\": [\"exactly five fingers\", \"correct anatomy and knuckle creases\", \"numbers sharp and in the stated order\", \"watch time exactly as stated\", \"photoreal, no plastic skin\"]\n}",
+  "originalPromptSha256": "8ae358689df14e5db7109949f03ae29da6c4348c544672959069feb88f12da08",
+  "pairingEvidence": "所选第1张为手掌、五个带1至5数字的手指、腕表、奶油色针织袖和暗背景，与压力测试主题相符；时刻/左右手/水滴等逐项成功率未重新评分。",
+  "displayNote": ""
+}

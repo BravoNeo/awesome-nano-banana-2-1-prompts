@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534307627872710",
+  "author": {
+    "handle": "Dheepanratnam",
+    "name": "Dheepan Ratnam"
+  },
+  "sourceUrl": "https://x.com/Dheepanratnam/status/2107534307627872710",
+  "promptSourceUrl": "https://x.com/Dheepanratnam/status/2107534307627872710",
+  "mediaSourceUrl": "https://x.com/Dheepanratnam/status/2107534307627872710",
+  "modelEvidence": "Model: Nano Banana 2.1 on Higgsfield | 9:16 | 2K | thinking: high | web search: ON",
+  "modelEvidenceSourceUrl": "https://x.com/Dheepanratnam/status/2107534307627872710",
+  "originalPrompt": "{\n  \"task\": \"Search the web for the current English Premier League table as of 6 October 2026 and build a vertical infographic\",\n  \"data\": \"top 6 clubs with columns: position, club name, games played, points\",\n  \"title\": \"PREMIER LEAGUE - TOP 6\",\n  \"subtitle\": \"As of 6 October 2026\",\n  \"design\": \"clean editorial sports infographic, dark navy background, white type, one accent colour\",\n  \"rules\": [\"numbers must match real data\", \"no club crests or logos, text only\", \"all text legible, aligned in a proper table grid\"]\n}",
+  "originalPromptSha256": "22bc5b891e60ef90729cefcec5a971e29d2bc970d5e96c024d5e7f75c953dbfb",
+  "pairingEvidence": "所选第1张为海军蓝背景的 PREMIER LEAGUE TOP 6 表，标注6 October 2026，俱乐部与积分列清楚，符合联网信息图提示词；排名事实未联网核验。",
+  "displayNote": "Author-generated football-table infographic. Treat the displayed rankings as an image-generation example, not verified current standings."
+}

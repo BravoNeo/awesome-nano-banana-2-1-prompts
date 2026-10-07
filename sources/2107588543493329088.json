@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107588543493329088",
+  "author": {
+    "handle": "blitast_studio",
+    "name": "BLITAST STUDIO"
+  },
+  "sourceUrl": "https://x.com/blitast_studio/status/2107588543493329088",
+  "promptSourceUrl": "https://x.com/blitast_studio/status/2107588543493329088",
+  "mediaSourceUrl": "https://x.com/blitast_studio/status/2107588543493329088",
+  "modelEvidence": "Nano Banana 2.1 に作ってもらった",
+  "modelEvidenceSourceUrl": "https://x.com/blitast_studio/status/2107588543493329088",
+  "originalPrompt": "日本人のギャルが心霊スポットの廃屋で自撮りした写真。スマホで撮影された品質。加工や作られた感じではなく、現場でパッと撮影されたようなもの。敢えての素人感を強調。",
+  "originalPromptSha256": "a18a7b9311ffac3b22cb2f34c264c47c7a6ad31cb7cf37da66ac8679459bfbe8",
+  "pairingEvidence": "单图为年轻成年女性在破旧废弃屋内伸臂自拍，手机闪光/随手拍风格与提示词一致。",
+  "displayNote": ""
+}

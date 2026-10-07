@@ -1,5 +1,10 @@
 {
   "model": "Nano Banana 2.1",
-  "authorAliases": ["Nano Banana 2.1", "NanoBanana 2.1", "NanoBanana2.1"],
+  "authorAliases": [
+    "Nano Banana 2.1",
+    "NanoBanana 2.1",
+    "NanoBanana2.1",
+    "NB 2.1"
+  ],
   "minimumWorks": 50
 }

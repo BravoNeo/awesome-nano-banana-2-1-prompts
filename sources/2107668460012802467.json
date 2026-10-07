@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107668460012802467",
+  "author": {
+    "handle": "Nokosu_kansoku",
+    "name": "Nokosu"
+  },
+  "sourceUrl": "https://x.com/Nokosu_kansoku/status/2107668460012802467",
+  "promptSourceUrl": "https://x.com/Nokosu_kansoku/status/2107668460012802467",
+  "mediaSourceUrl": "https://x.com/Nokosu_kansoku/status/2107668460012802467",
+  "modelEvidence": "１枚目：Image2.5 Sunburst\n２枚目：Nanobanana2.1\n３枚目：キャラクター\n４枚目：機体",
+  "modelEvidenceSourceUrl": "https://x.com/Nokosu_kansoku/status/2107668460012802467",
+  "originalPrompt": "image1がimage2を持ち上げてダイナミックにぶん投げている画像。構図はダッチアングル",
+  "originalPromptSha256": "df5ebcdaab0bf0842287a183618c6ad956714876d93e05770c27eac4df10bc22",
+  "pairingEvidence": [
+    "第一张为 GPT Image 2.5 Sunburst，排除；第三、四张为人物及机体参考图"
+  ],
+  "displayNote": ""
+}

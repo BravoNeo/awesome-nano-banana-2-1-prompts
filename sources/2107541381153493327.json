@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107541381153493327",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107541381153493327",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107541646686740941",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107541381153493327",
+  "modelEvidence": "Look again.\nWhat did you see first? 👇\n\nMade with Nano Banana 2.1. Prompt in the first reply. https://t.co/qoie3RQC8X",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107541381153493327",
+  "originalPrompt": "A breathtaking aerial drone photo, looking straight down, of a giant flower festival in a vibrant tulip park on a sunny spring day. The whole park is designed so that, seen from above, it forms a perfect human skull: an oval of tall dark-green hedges traces the outline of the skull and jaw; two large round ponds of deep black water form the eye sockets, each with a single white swan floating in it like a glint in the eye; a triangular bed of dark-red tulips forms the nose; and two curved rows of white beach umbrellas form the upper and lower teeth. Everywhere else, the park explodes with color: rainbow stripes of tulips in pink, orange, yellow, purple and red, hundreds of tiny people picnicking on blankets, kids flying kites, a carousel, food trucks and balloons. Up close it looks like pure joy; from a distance, the skull is unmistakable. Ultra-detailed, hyperreal, saturated colors, crisp midday light. Aspect ratio 4:5, 4K.",
+  "originalPromptSha256": "9d38a1efc7714956fd82278423fcea4faf77206a18fce922d5823f4917efc3b0",
+  "pairingEvidence": [
+    "完整提示词来自同作者直接回复"
+  ],
+  "displayNote": ""
+}

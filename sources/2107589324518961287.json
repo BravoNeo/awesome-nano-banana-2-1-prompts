@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107589324518961287",
+  "author": {
+    "handle": "blitast_studio",
+    "name": "BLITAST STUDIO"
+  },
+  "sourceUrl": "https://x.com/blitast_studio/status/2107589324518961287",
+  "promptSourceUrl": "https://x.com/blitast_studio/status/2107589324518961287",
+  "mediaSourceUrl": "https://x.com/blitast_studio/status/2107589324518961287",
+  "modelEvidence": "Nano Banana 2.1 で作ってみた",
+  "modelEvidenceSourceUrl": "https://x.com/blitast_studio/status/2107589324518961287",
+  "originalPrompt": "縄文人と渡来系弥生人の顔立ちを比較する教育用図版。横長16:9、白背景、博物館の復元画のような写実的表現。左右に30歳前後の男性の正面バストショットを配置。顔の大きさ、照明、表情を統一する。\n\n左「縄文人」：横幅が広く、縦に短めの顔。眉間の隆起が目立ち、眉間から鼻の付け根にかけて凹凸のある、彫りの深い顔立ち。\n\n右「渡来系弥生人」：比較的面長の顔。額から鼻の付け根にかけて凹凸が小さく、平坦な顔立ち。鼻幅は比較的狭い。\n\n両者とも髪で顔を隠さず、肌色・髭・衣装の違いで特徴を誇張しない。輪郭・眉間・鼻に細い引き出し線を添え、上記の特徴を短い日本語で解説。美化や戯画化は避ける。\n\n下部に「骨格的傾向を参考にした想像復元。個人差・地域差があり、全員に当てはまるものではありません」と注記。",
+  "originalPromptSha256": "d0400f2316ad5b4a68ff2439fb7db7bc0ac7a13d3f8bc1cc03e20b032bca5870",
+  "pairingEvidence": "单图为两名男子正面半身对照，分别标有縄文人、渡来系弥生人并附日语解说，符合提示词构图；不背书人群特征或科学正确性。",
+  "displayNote": "AI-generated educational illustration. Appearance reconstructions are an artistic example, not validated historical or anthropological evidence."
+}

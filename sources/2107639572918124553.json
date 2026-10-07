@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107639572918124553",
+  "author": {
+    "handle": "EmilioSchwaiger",
+    "name": "Emilio"
+  },
+  "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107639572918124553",
+  "promptSourceUrl": "https://x.com/EmilioSchwaiger/status/2107639572918124553",
+  "mediaSourceUrl": "https://x.com/EmilioSchwaiger/status/2107639572918124553",
+  "modelEvidence": "Right: Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/EmilioSchwaiger/status/2107639572918124553",
+  "originalPrompt": "A chalkboard menu outside a tiny Viennese café, handwritten in chalk: \"Melange 3.80\", \"Apfelstrudel 4.50\", \"Sachertorte 5.20\", with a little doodled coffee cup, morning light",
+  "originalPromptSha256": "7f94252d4e984869c576d6d86b2236db859440090075a86a55a50c5efbba7a49",
+  "pairingEvidence": [
+    "与 Nano Banana 2 Lite 对比；仅第二张为 2.1"
+  ],
+  "displayNote": ""
+}

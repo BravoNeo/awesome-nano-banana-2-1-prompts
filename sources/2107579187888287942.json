@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107579187888287942",
+  "author": {
+    "handle": "EmilioSchwaiger",
+    "name": "Emilio"
+  },
+  "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107579187888287942",
+  "promptSourceUrl": "https://x.com/EmilioSchwaiger/status/2107579187888287942",
+  "mediaSourceUrl": "https://x.com/EmilioSchwaiger/status/2107579187888287942",
+  "modelEvidence": "Right: Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/EmilioSchwaiger/status/2107579187888287942",
+  "originalPrompt": "A photo of a tall stack of fluffy pancakes on a diner plate, the maple syrup dripping down the side naturally spells the word SUNDAY",
+  "originalPromptSha256": "3e5766f347ce660a34a8d04faecae013e3e374dd44da73332f93a1b0b523a227",
+  "pairingEvidence": [
+    "与 Nano Banana 2 Lite 对比；仅第二张为 2.1"
+  ],
+  "displayNote": ""
+}

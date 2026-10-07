@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107635339724550571",
+  "author": {
+    "handle": "jackson99ai",
+    "name": "Wanderson Jackson"
+  },
+  "sourceUrl": "https://x.com/jackson99ai/status/2107635339724550571",
+  "promptSourceUrl": "https://x.com/jackson99ai/status/2107635339724550571",
+  "mediaSourceUrl": "https://x.com/jackson99ai/status/2107635339724550571",
+  "modelEvidence": "First = Nano Banana 2.1 | second = GPT Image 2.5 Sunburst.",
+  "modelEvidenceSourceUrl": "https://x.com/jackson99ai/status/2107635339724550571",
+  "originalPrompt": "Character: Dorian Vale, mid-40s detective, cinematic film-still quality, weathered face, salt-and-pepper stubble, charcoal wool overcoat over a black turtleneck, dark trousers, leather boots. Anamorphic lens look, filmic color grade, moody but even key light on the face.",
+  "originalPromptSha256": "4b380ae95b882ee945ae6c9e77b63a89acbfc929698516529466fccdf12ede83",
+  "pairingEvidence": [
+    "完整提示词来自作者为第一张图片填写的替代文本（alt text）",
+    "第二张为 GPT Image 2.5 Sunburst，排除",
+    "同作者根帖说明使用 Avocado director mode 的角色创建工作流；公开提示词已完整照录，平台可能有未公开模板或默认设置"
+  ],
+  "displayNote": ""
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107609368434754002",
+  "author": {
+    "handle": "EmilioSchwaiger",
+    "name": "Emilio"
+  },
+  "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107609368434754002",
+  "promptSourceUrl": "https://x.com/EmilioSchwaiger/status/2107609368434754002",
+  "mediaSourceUrl": "https://x.com/EmilioSchwaiger/status/2107609368434754002",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/EmilioSchwaiger/status/2107609368434754002",
+  "originalPrompt": "A vast gradient sky from deep indigo to soft apricot at dusk, a tiny lone figure on a distant ridge, enormous empty space, film grain, small elegant serif text: \"Where the quiet meets the vast.\"",
+  "originalPromptSha256": "5bb2a9e0d32a4d38ba1d136f2f0420482342a16c81ef3f54f711ec675e60290c",
+  "pairingEvidence": [],
+  "displayNote": ""
+}

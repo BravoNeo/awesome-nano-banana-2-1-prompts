@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107533856601751752",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107533856601751752",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107533856601751752",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107533856601751752",
+  "modelEvidence": "Nano Banana 2.1 dropped today, so I tried to break it.\n\n6 languages in one image, a clock at 7:43, a full newspaper page and an 8:1 panorama.\n\nEvery result and prompt below 🧵 https://t.co/dYbELXtokj",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107532293732790541",
+  "originalPrompt": "A photorealistic close-up of a printed newspaper front page lying on a wooden desk in morning light. Masthead: \"THE DAILY PROMPT\". Date: \"TUESDAY, OCTOBER 6, 2026\". Main headline: \"GOOGLE RELEASES NANO BANANA 2.1\". Subheadline: \"Can it finally render text without mistakes?\" Three columns of readable body text, a photo of a banana captioned \"Fig. 1: The banana in question\", a weather box reading \"Lahore 31°C Sunny\", and the page number \"A1\". Every word sharp and correctly spelled. Aspect ratio 3:4, 4K.",
+  "originalPromptSha256": "d82376cd51b49dca865b6ccb8a3a8e6d84d4ce06a484abca3033054a111cb071",
+  "pairingEvidence": [
+    "型号证据来自同一作者的直接父帖 2107532293732790541"
+  ],
+  "displayNote": ""
+}

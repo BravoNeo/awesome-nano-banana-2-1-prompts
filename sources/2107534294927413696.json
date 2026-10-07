@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534294927413696",
+  "author": {
+    "handle": "Dheepanratnam",
+    "name": "Dheepan Ratnam"
+  },
+  "sourceUrl": "https://x.com/Dheepanratnam/status/2107534294927413696",
+  "promptSourceUrl": "https://x.com/Dheepanratnam/status/2107534294927413696",
+  "mediaSourceUrl": "https://x.com/Dheepanratnam/status/2107534294927413696",
+  "modelEvidence": "Model: Nano Banana 2.1 on Higgsfield | 1:1 | 2K | thinking: high",
+  "modelEvidenceSourceUrl": "https://x.com/Dheepanratnam/status/2107534294927413696",
+  "originalPrompt": "{\n  \"shot\": \"top-down flat lay, 90-degree overhead, photorealistic, sharp focus edge to edge\",\n  \"surface\": \"weathered oak table\",\n  \"lighting\": \"soft north-facing window light from the top edge of frame\",\n  \"objects\": [\n    \"exactly 3 red apples in the top-left corner\",\n    \"exactly 7 silver paperclips in a straight horizontal line along the bottom edge\",\n    \"a round analogue wall clock in the centre with hands clearly showing 10:42\",\n    \"one blue ceramic mug, handle pointing right, in the top-right corner\",\n    \"exactly 5 yellow pencils fanned out to the left of the clock\",\n    \"a single green leaf resting on top of the mug rim\",\n    \"2 white dice showing a 6 and a 3, bottom-right corner\",\n    \"an open notebook on the right of the clock with the handwritten word 'ADHERENCE'\"\n  ],\n  \"rules\": [\"every count is exact\", \"every position is exact\", \"no other objects, no people, no hands, no extra fruit\"]\n}",
+  "originalPromptSha256": "3ca1c7df99b97e4aca531e051b7422982c2f37674fca7a2291377e76a3372156",
+  "pairingEvidence": [
+    "同一提示词四张输出，仅计一个作品",
+    "作者指出部分结果在数量、骰子点数和时钟指针上出错"
+  ],
+  "displayNote": ""
+}

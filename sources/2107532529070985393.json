@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107532529070985393",
+  "author": {
+    "handle": "AIWithRaza",
+    "name": "Raza"
+  },
+  "sourceUrl": "https://x.com/AIWithRaza/status/2107532529070985393",
+  "promptSourceUrl": "https://x.com/AIWithRaza/status/2107532529070985393",
+  "mediaSourceUrl": "https://x.com/AIWithRaza/status/2107532529070985393",
+  "modelEvidence": "Nano Banana 2.1 dropped today, so I tried to break it.\n\n6 languages in one image, a clock at 7:43, a full newspaper page and an 8:1 panorama.\n\nEvery result and prompt below 🧵 https://t.co/dYbELXtokj",
+  "modelEvidenceSourceUrl": "https://x.com/AIWithRaza/status/2107532293732790541",
+  "originalPrompt": "A photorealistic night photo of a crowded street market in the rain, neon and lantern light reflecting on wet pavement, shot on a 35mm lens. Six shop signs are clearly visible, each with sharp, correctly spelled text: an Urdu sign in Nastaliq script reading \"چائے خانہ\", an Arabic sign reading \"مخبز\", a Hindi sign reading \"मिठाई की दुकान\", a Japanese sign reading \"ラーメン\", a Korean sign reading \"카페\", and an English sign reading \"OPEN ALL NIGHT\". Shoppers with umbrellas, steam rising from food stalls, realistic faces and hands. Aspect ratio 4:5, 4K.",
+  "originalPromptSha256": "42dff71cf9965dc9853cbc2bcaa6c833da5d2dfc4f8e1314326e9f9bbfe68279",
+  "pairingEvidence": [
+    "型号来自同作者直接父帖；该子帖附独立输出"
+  ],
+  "displayNote": ""
+}

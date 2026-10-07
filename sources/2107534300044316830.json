@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534300044316830",
+  "author": {
+    "handle": "Dheepanratnam",
+    "name": "Dheepan Ratnam"
+  },
+  "sourceUrl": "https://x.com/Dheepanratnam/status/2107534300044316830",
+  "promptSourceUrl": "https://x.com/Dheepanratnam/status/2107534300044316830",
+  "mediaSourceUrl": "https://x.com/Dheepanratnam/status/2107534300044316830",
+  "modelEvidence": "Model: Nano Banana 2.1 on Higgsfield | 3:4 | 2K | thinking: high",
+  "modelEvidenceSourceUrl": "https://x.com/Dheepanratnam/status/2107534300044316830",
+  "originalPrompt": "{\n  \"scene\": \"black chalkboard menu in a wooden frame, hand-lettered in white and yellow chalk, standing on the counter of a small corner coffee shop, shot straight-on, eye level, shallow depth of field on the background only\",\n  \"text_exact\": {\n    \"headline\": \"THE MORNING CUP\",\n    \"menu_lines_in_order\": [\n      \"Flat White - £3.40\",\n      \"抹茶ラテ - £4.10\",\n      \"قهوة عربية - £2.90\",\n      \"मसाला चाय - £3.00\",\n      \"Almond Croissant - £3.25\"\n    ],\n    \"footer\": \"Open 7am - 4pm  |  Card only\",\n    \"small_print_bottom_right\": \"Oat milk +40p\"\n  },\n  \"rules\": [\"render every character exactly as written\", \"Arabic reads right-to-left with correct letter joining\", \"no extra words, no invented items\", \"board text fully legible and in focus\"]\n}",
+  "originalPromptSha256": "74415cbad1e7c54a0453c2569590d98acb74a6d3c21dc2f8d2f7074ada32467f",
+  "pairingEvidence": [
+    "同一提示词四张输出，仅计一个作品"
+  ],
+  "displayNote": ""
+}

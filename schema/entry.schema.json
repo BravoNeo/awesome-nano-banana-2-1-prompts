@@ -31,7 +31,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^x-[0-9]{15,22}$"
+      "pattern": "^x-[0-9]{15,22}(?:-[a-z0-9]+(?:-[a-z0-9]+)*)?$"
     },
     "slug": {
       "type": "string",
@@ -40,7 +40,10 @@
     },
     "author": {
       "type": "object",
-      "required": ["name", "handle"],
+      "required": [
+        "name",
+        "handle"
+      ],
       "properties": {
         "name": {
           "type": "string",
@@ -112,7 +115,11 @@
     },
     "workIdentity": {
       "type": "object",
-      "required": ["semanticGroupId", "reviewed", "reviewNote"],
+      "required": [
+        "semanticGroupId",
+        "reviewed",
+        "reviewNote"
+      ],
       "properties": {
         "semanticGroupId": {
           "type": "string",
@@ -131,7 +138,12 @@
     },
     "modelClaim": {
       "type": "object",
-      "required": ["name", "quote", "sourceUrl", "independentlyVerified"],
+      "required": [
+        "name",
+        "quote",
+        "sourceUrl",
+        "independentlyVerified"
+      ],
       "properties": {
         "name": {
           "type": "string",
@@ -149,11 +161,21 @@
         },
         "independentlyVerified": {
           "const": false
+        },
+        "binding": {
+          "enum": [
+            "direct-source",
+            "same-author-thread"
+          ]
         }
       }
     },
     "mediaBinding": {
-      "enum": ["direct-source", "author-thread-output", "author-quoted-output"]
+      "enum": [
+        "direct-source",
+        "author-thread-output",
+        "author-quoted-output"
+      ]
     },
     "pairingEvidence": {
       "type": "string",
@@ -162,7 +184,9 @@
     },
     "title": {
       "type": "object",
-      "required": ["en"],
+      "required": [
+        "en"
+      ],
       "properties": {
         "en": {
           "type": "string",
@@ -173,7 +197,9 @@
     },
     "description": {
       "type": "object",
-      "required": ["en"],
+      "required": [
+        "en"
+      ],
       "properties": {
         "en": {
           "type": "string",
@@ -201,10 +227,24 @@
       }
     },
     "originalLanguage": {
-      "enum": ["en", "zh", "ja", "ko", "es", "fr", "de", "pt", "it", "ar"]
+      "enum": [
+        "en",
+        "zh",
+        "ja",
+        "ko",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "it",
+        "ar"
+      ]
     },
     "promptKind": {
-      "enum": ["text-to-image", "image-editing"]
+      "enum": [
+        "text-to-image",
+        "image-editing"
+      ]
     },
     "inputRequirement": {
       "type": "string",
@@ -218,7 +258,10 @@
     },
     "rights": {
       "type": "object",
-      "required": ["basis", "note"],
+      "required": [
+        "basis",
+        "note"
+      ],
       "properties": {
         "basis": {
           "const": "third-party-source"
@@ -244,12 +287,25 @@
       "items": {
         "$ref": "#/$defs/asset"
       }
+    },
+    "promptBinding": {
+      "enum": [
+        "direct-source",
+        "author-reply-or-quoted-prompt"
+      ]
     }
   },
   "$defs": {
     "variant": {
       "type": "object",
-      "required": ["url", "sha256", "mimeType", "width", "height", "bytes"],
+      "required": [
+        "url",
+        "sha256",
+        "mimeType",
+        "width",
+        "height",
+        "bytes"
+      ],
       "properties": {
         "url": {
           "type": "string",
@@ -327,7 +383,14 @@
     },
     "asset": {
       "type": "object",
-      "required": ["url", "sourceUrl", "mediaKey", "alt", "role", "cdn"],
+      "required": [
+        "url",
+        "sourceUrl",
+        "mediaKey",
+        "alt",
+        "role",
+        "cdn"
+      ],
       "properties": {
         "url": {
           "type": "string",
@@ -348,10 +411,17 @@
           "maxLength": 500
         },
         "role": {
-          "enum": ["input", "output"]
+          "enum": [
+            "input",
+            "output"
+          ]
         },
         "cdn": {
           "$ref": "#/$defs/cdn"
+        },
+        "displayNote": {
+          "type": "string",
+          "maxLength": 3000
         }
       }
     }

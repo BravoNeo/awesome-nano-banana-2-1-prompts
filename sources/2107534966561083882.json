@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107534966561083882",
+  "author": {
+    "handle": "DanjiTosaka",
+    "name": "DANJI"
+  },
+  "sourceUrl": "https://x.com/DanjiTosaka/status/2107534966561083882",
+  "promptSourceUrl": "https://x.com/DanjiTosaka/status/2107534996521017584",
+  "mediaSourceUrl": "https://x.com/DanjiTosaka/status/2107534966561083882",
+  "modelEvidence": "Nano Banana 2.1 ✨\n\nPrompt 👇 https://t.co/W34fX4O8On",
+  "modelEvidenceSourceUrl": "https://x.com/DanjiTosaka/status/2107534966561083882",
+  "originalPrompt": "A super close-up view of a young woman with blonde hair, wearing a black ribbed beanie featuring a prominent white \"THE DANJI FACE\" in the style of the north face logo patch. She has brown eyes, full lips, pink blush, and long false eyelashes, posed in a macro landscape portrait orientation.",
+  "originalPromptSha256": "1487e594093c3ded20f8a8196aef7816601dc843e637520f71e9fe51ce8a38fc",
+  "pairingEvidence": [
+    "同一提示词四张输出，只计一个作品",
+    "完整提示词来自同作者直接回复"
+  ],
+  "displayNote": ""
+}

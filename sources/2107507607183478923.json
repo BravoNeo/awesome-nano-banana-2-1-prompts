@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107507607183478923",
+  "author": {
+    "handle": "nicekate8888",
+    "name": "nicekate"
+  },
+  "sourceUrl": "https://x.com/nicekate8888/status/2107507607183478923",
+  "promptSourceUrl": "https://x.com/nicekate8888/status/2107507607183478923",
+  "mediaSourceUrl": "https://x.com/nicekate8888/status/2107507607183478923",
+  "modelEvidence": "Nano Banana 2.1 居然是基于 Gemini 3.6 Flash，智力上有所欠缺，下图，思考程度 high",
+  "modelEvidenceSourceUrl": "https://x.com/nicekate8888/status/2107507607183478923",
+  "originalPrompt": "Nano Banana 2.1 已推出，请搜索信息，并生成适合小红书的海报，3:4",
+  "originalPromptSha256": "ee4a0f487fcb5b131dd822438f2023c95d315d2b3db8fba20b99cffc61c5c6ca",
+  "pairingEvidence": "单图为标有 Nano Banana 2.1 的竖版中文发布宣传海报，符合小红书海报提示词；海报功能宣称未独立核验。",
+  "displayNote": "Author-generated launch poster. Text inside the artwork is not an independently verified model specification."
+}

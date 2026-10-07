@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107521311685701663",
+  "author": {
+    "handle": "OriSilver",
+    "name": "Ori Silver"
+  },
+  "sourceUrl": "https://x.com/OriSilver/status/2107521311685701663",
+  "promptSourceUrl": "https://x.com/OriSilver/status/2107521311685701663",
+  "mediaSourceUrl": "https://x.com/OriSilver/status/2107521311685701663",
+  "modelEvidence": "Nano banana 2.1 vs. Flux 3 image - IMAGE EDIT TEST",
+  "modelEvidenceSourceUrl": "https://x.com/OriSilver/status/2107521311685701663",
+  "originalPrompt": "Change that she is wearing a tanktop black sleevless and her necklece is now gold she also has her hair in a pony tail and the background behind her has dark blue walls instead of wood panels, everything else stays the same",
+  "originalPromptSha256": "26bf46e1474c03787514d8688ed243587553057b4ab1b528cb1a9fdcb131c1dc",
+  "pairingEvidence": [
+    "单张三栏比较图；左栏 ORIGINAL 是参考，中央标 NANO BANANA 2.1 EDITING 为目标，右栏为 Flux 3；需裁切中央输出",
+    "输入参考图在同一媒体的左栏"
+  ],
+  "displayNote": "Editing comparison: Nano Banana 2.1 is the MIDDLE panel. The left panel is the original reference and the right panel is Flux 3."
+}

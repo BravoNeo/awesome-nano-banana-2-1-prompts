@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107544398531637407",
+  "author": {
+    "handle": "ozansihay",
+    "name": "Ozan Sihay"
+  },
+  "sourceUrl": "https://x.com/ozansihay/status/2107544398531637407",
+  "promptSourceUrl": "https://x.com/ozansihay/status/2107544398531637407",
+  "mediaSourceUrl": "https://x.com/ozansihay/status/2107544398531637407",
+  "modelEvidence": "Aynı promptu sırasıyla şu modeller ile denedim;\n-Nano Banana 2.1\n-GPT Image 2.5\n-Grok Imagine 2.0\n-Ideogram 4.5",
+  "modelEvidenceSourceUrl": "https://x.com/ozansihay/status/2107544398531637407",
+  "originalPrompt": "Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall, slightly battered metal sides, steam rising. Hand-painted neon-style rickety sign reading “Köfteci Buğra Usta” in Turkish, glowing uneven cyan and warm amber, wires and brackets visibly DIY. Inside the open caravan, the usta grilling köfte over charcoal, orange ember glow on his face and apron. One waiter in a simple dark shirt stands in front of the stall; the same “Köfteci Buğra Usta” lettering is printed on the back of his shirt. Plastic stools and small low tables outside, a few locals eating, soft conversation. A plastic water jug (damacana) near the counter. Behind them, dark Bosphorus water with distant city lights and a faint ferry silhouette. Wet asphalt reflections, streetlamp spill, shallow depth of field, natural film grain, shot on 35mm f/1.8, candid documentary look, no CGI look, no text errors on signs.",
+  "originalPromptSha256": "1a04eb81ee0c802907f5525833b714d12c7c3964abe5167e23a0994c15d93fde",
+  "pairingEvidence": [
+    "作者明确说明模型按列出次序排列；仅第一张为 Nano Banana 2.1"
+  ],
+  "displayNote": ""
+}

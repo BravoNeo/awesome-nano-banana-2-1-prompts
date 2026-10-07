@@ -7,6 +7,6 @@
   },
   "scripts": {
     "test": "node --test scripts/community-image-gallery/catalog.test.mjs",
-    "validate": "node scripts/validate-catalog.mjs export/catalog.json"
+    "validate": "node scripts/validate-catalog.mjs export/catalog.json && node scripts/check-source-evidence.mjs"
   }
 }

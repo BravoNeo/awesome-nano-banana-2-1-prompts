@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107569908624367740",
+  "author": {
+    "handle": "lynninchis",
+    "name": "lynn"
+  },
+  "sourceUrl": "https://x.com/lynninchis/status/2107569908624367740",
+  "promptSourceUrl": "https://x.com/lynninchis/status/2107570055709938040",
+  "mediaSourceUrl": "https://x.com/lynninchis/status/2107569908624367740",
+  "modelEvidence": "tried what everyone else is trying:\n\nleft: nano banana 2.1\nright: GPT image 2.5 \n\ni honestly like them both….. but gpt feels a bit more natural?? liked the dirty skirt detail \n\nsteal my prompt below :) https://t.co/fQyPZRfEDh",
+  "modelEvidenceSourceUrl": "https://x.com/lynninchis/status/2107569908624367740",
+  "originalPrompt": "Fun travel selfie photo shot on a phone front camera, vertical 3:4, candid lighthearted Bali Instagram vibe. Use the attached\nreference image as the identity lock for the face and preserve the exact facial features, bone structure and likeness. The\nsubject is taking a selfie with one arm stretched out toward the lens, tilting her head in close beside a long-talled macaque\nmonkey perched next to her, lips pushed into a playful exaggerated kiss pout, eyes hidden behind sunglasses, the whole\nexpression cheeky and amused, while behind her the monkey just happens to raise two fingers in a peace sign right beside\nits head in a perfectly timed comedic accident. The mood is funny, carefree and full of travel joy, an authentic once-in-a-trip\nmoment. Wardrobe: oversized tortoiseshell butterfly sunglasses, a beige ruched halter crop top with a tie-front detail, a\nflowing black sarong wrapped low on the hips. Environment deep lush tropical jungle with thick hanging banyan tree roots,\ntangled vines and dense green foliage filling the background, the unmistakable look of the Ubud Monkey Forest. Lighting:\nsoft diffused daylight filtering down through the forest canopy, gentle, even and natural with no harsh shadows. Framing and\nangle: arm-length selfie point of view with both faces close together in the upper frame, slightly tilted and informal, raw\nauthentic real-photo feel",
+  "originalPromptSha256": "b4c698797fa01fefad84acbfa00024aa80592cd257a97ae33498ff704def0d8c",
+  "pairingEvidence": [
+    "左图明确标 Nano Banana 2.1；右图为 GPT Image 2.5，排除",
+    "提示词来自同作者直接回复；身份参考照片未单独附出"
+  ],
+  "displayNote": ""
+}

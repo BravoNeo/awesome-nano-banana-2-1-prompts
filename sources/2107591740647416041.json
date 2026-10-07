@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107591740647416041",
+  "author": {
+    "handle": "heathergreen",
+    "name": "Heather Green"
+  },
+  "sourceUrl": "https://x.com/heathergreen/status/2107591740647416041",
+  "promptSourceUrl": "https://x.com/heathergreen/status/2107591740647416041",
+  "mediaSourceUrl": "https://x.com/heathergreen/status/2107591740647416041",
+  "modelEvidence": "#promptshare with Nano Banana 2.1 generated with @magnific and using my custom style:",
+  "modelEvidenceSourceUrl": "https://x.com/heathergreen/status/2107591740647416041",
+  "originalPrompt": "An adorably cute Mothman cryptid creature with soft, fluffy details and oversized wings stands beside a sparkling lake at night, gazing toward the viewer with a gentle, curious expression. Fireflies glow among the trees, while a luminous full moon casts a silvery path across the water; dreamy atmosphere, delicate moonlit rim lighting, rich midnight blues, whimsical cinematic composition.",
+  "originalPromptSha256": "453edb2422276d351f5eb531a2b1307ec32898dcf69d521f2e5371724b3668d1",
+  "pairingEvidence": [
+    "作者使用 Magnific 自定义风格，提示词完整但复现还依赖该风格设置；风格链接在原帖"
+  ],
+  "displayNote": ""
+}

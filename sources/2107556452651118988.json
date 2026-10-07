@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107556452651118988",
+  "author": {
+    "handle": "vedthinks",
+    "name": "Ved Pratap Singh"
+  },
+  "sourceUrl": "https://x.com/vedthinks/status/2107556452651118988",
+  "promptSourceUrl": "https://x.com/vedthinks/status/2107556452651118988",
+  "mediaSourceUrl": "https://x.com/vedthinks/status/2107556452651118988",
+  "modelEvidence": "Nano Banana 2.1 (left) vs ChatGPT Images 2.5 (right)",
+  "modelEvidenceSourceUrl": "https://x.com/vedthinks/status/2107556452651118988",
+  "originalPrompt": "Create the high quality 4k res picture of a earth horizon short from the space and showing India.",
+  "originalPromptSha256": "3cbaea7e4debd0b1d0e6842f0532834279090fbad39090d7022add665e8ae74e",
+  "pairingEvidence": [
+    "第二张为 ChatGPT Images 2.5，排除"
+  ],
+  "displayNote": ""
+}
