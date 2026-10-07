@@ -59,7 +59,7 @@ Project URLs use the existing `https://media.reeldance.ai/galleries/assets/{sha2
 path. Validation does not upload assets or prove their HTTP accessibility.
 
 Mechanical checks cannot establish authenticity or detect all semantic
-equivalence. The source collector/reviewer must compare full X API evidence,
+equivalence. The source collector/reviewer must compare full authorized collector evidence,
 long-form/note text, thread/media relationships, exact-version statement,
 semantic duplicate clusters and permitted use before setting review fields.
 Translation and template variants belong to the same semantic group and must
@@ -78,7 +78,7 @@ the owner's approval. Structure reuses the existing data-repository convention:
 ```text
 README.md                     # Source attribution, browse links, contribution rules
 data/entries/*.json            # One reviewed independent work per record
-sources/*.json                # Sanitized full X API evidence, no auth headers/tokens
+sources/*.json                # Curated proof excerpts only; full collector payloads stay private
 evidence/*.json                # Pairing, completeness and duplicate-review decisions
 schema/entry.schema.json       # Frozen manifest contract after real collector mapping
 scripts/community-image-gallery/catalog.mjs
@@ -96,3 +96,9 @@ commit and catalog SHA-256 in a reviewed source lock. Use a thin build-sync wrap
 to call this module before Vite, following Kling's explicit integrity lock.
 Subsequent imports pass the protected source baseline. No scheduled publish,
 cross-repository secret, GitHub event or automatic deployment is required.
+
+Public export is a curated projection only: prompt, creator name/handle, exact
+source/model statement, media hashes and necessary gallery/CDN fields. Never
+commit full collector payloads, author profile objects or engagement JSON. Full
+evidence is reviewed internally; only selected proof excerpts and digests may
+be shared. Local evidence paths in review manifests are not download grants.

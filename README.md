@@ -20,8 +20,10 @@ Translations and near-identical template variations count as one semantic
 group. Multiple output images from one work do not increase work count.
 
 Collect and review the actual public source response, including long-form
-prompt text where available. Sanitized evidence must omit tokens, headers,
-private data and account credentials. Reviewer fields and hashes are not
+prompt text where available. Public records contain only curated prompt, creator name/handle, canonical source,
+model statement, media hashes and necessary gallery/CDN fields. Full collector
+responses, author profiles, engagement objects, tokens, headers and private data
+stay outside this public repository. Reviewer fields and hashes are not
 substitutes for reading the source. Existing author/source attribution is
 retained; a public post does not itself grant unlimited reuse rights.
 
@@ -29,7 +31,7 @@ retained; a public post does not itself grant unlimited reuse rights.
 
 ```text
 data/entries/                 # Future reviewed source records, one work per file
-sources/                      # Future sanitized source evidence
+sources/                      # Curated proof excerpts only; full collector data stays private
 evidence/                     # Future completeness, pairing and deduplication reviews
 schema/entry.schema.json      # Manifest structure; semantic constraints in validator
 scripts/community-image-gallery/
