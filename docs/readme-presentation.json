@@ -1,0 +1,249 @@
+{
+  "featured": [
+    "four-script-caf-menu",
+    "sunday-written-in-maple-syrup",
+    "nostalgic-photo-to-illustration-artbook",
+    "aoi-red-haired-anime-character-sheet",
+    "red-umbrella-on-a-mirror-salt-flat",
+    "rainy-market-with-six-writing-systems"
+  ],
+  "descriptions": {
+    "four-script-caf-menu": {
+      "en": "A coffee-shop chalkboard arranges a headline, prices and menu items in English, Japanese, Arabic and Devanagari. The JSON prompt specifies the text and its order.",
+      "zh": "咖啡店黑板把英文、日文、阿拉伯文与天城文菜单排在同一版面；JSON 提示词逐项指定标题、价格、文字及顺序。"
+    },
+    "sunday-written-in-maple-syrup": {
+      "en": "Maple syrup forms SUNDAY down the side of a pancake stack. A short prompt combines food photography with lettering made from the subject itself.",
+      "zh": "枫糖浆沿松饼侧面形成 SUNDAY 字样，用一条简短提示词将食物摄影与材质文字结合。"
+    },
+    "nostalgic-photo-to-illustration-artbook": {
+      "en": "A personal photograph becomes a two-part artbook page: a color photo above and an expressive black-and-white ink drawing below, surrounded by warm paper and handwritten notes. Supply a reference photo.",
+      "zh": "将一张生活照片变成上下两部分的艺术书页：上方保留彩色照片，下方化为黑白墨线画，以暖色纸张和手写注释连接。需要提供参考照片。"
+    },
+    "aoi-red-haired-anime-character-sheet": {
+      "en": "A red-haired anime character appears in front, side and rear views with face close-ups and color callouts. The creator shared an app screenshot, so its interface remains visible.",
+      "zh": "红发动漫角色以正面、侧面、背面和面部特写呈现，并配色彩标注。作者分享的是应用截图，画面保留界面元素。"
+    },
+    "red-umbrella-on-a-mirror-salt-flat": {
+      "en": "A small red umbrella and its reflection punctuate a pale salt flat. The prompt uses scale, negative space and an overcast sky to create a quiet minimal scene.",
+      "zh": "淡色盐湖上，一把小红伞与倒影成为视觉焦点；提示词通过主体尺度、留白和阴天光线营造安静的极简场景。"
+    },
+    "rainy-market-with-six-writing-systems": {
+      "en": "Rain, umbrellas, steam and neon surround six shop signs in different writing systems. The prompt requests exact lettering within a busy night-market scene.",
+      "zh": "雨水、伞、蒸汽与霓虹围绕六种文字的店铺招牌，提示词在繁忙夜市场景中提出明确的文字要求。"
+    },
+    "little-devil-super-famicom-game-poster": {
+      "en": "A little-devil character becomes the star of a Super Famicom-style game poster. The left comparison panel is Nano Banana 2.1; the right is Nano Banana 2.",
+      "zh": "把小恶魔角色设计成超级任天堂风格的游戏海报。对比图左侧为 Nano Banana 2.1，右侧为 Nano Banana 2。"
+    },
+    "viennese-caf-chalkboard-menu": {
+      "en": "Morning light falls on a Viennese café chalkboard with three handwritten items, prices and a small coffee-cup doodle.",
+      "zh": "晨光照亮维也纳咖啡馆的黑板菜单，三项餐饮、价格和咖啡杯涂鸦构成简单版面。"
+    },
+    "jess-unretouched-smartphone-portrait": {
+      "en": "A casual portrait of the fictional creator Jess uses a claw clip, ribbed lounge set and imperfect phone-camera lighting to suggest an everyday selfie.",
+      "zh": "虚构创作者 Jess 以抓夹、罗纹家居服和略不均匀的手机光线呈现日常自拍感。"
+    },
+    "ana-natural-light-commercial-character": {
+      "en": "A Brazilian mother character is developed for a dramatic commercial, with warm tired eyes, a knit cardigan and natural daylight.",
+      "zh": "为剧情广告设计巴西母亲角色，用温暖而疲惫的眼神、针织开衫与自然日光建立人物气质。"
+    },
+    "headless-turnaround-character-sheet": {
+      "en": "One face close-up sits beside front, rear and side outfit views cropped at the neck, keeping the character sheet focused on a single face.",
+      "zh": "将一个面部特写与颈部以下的正、背、侧面服装视图并列，角色设定页只保留一张脸。"
+    },
+    "dorian-vale-cinematic-detective-portrait": {
+      "en": "A weathered detective in a charcoal coat and black turtleneck is framed like a film still, with restrained color and moody face lighting.",
+      "zh": "炭灰风衣与黑色高领衫塑造饱经风霜的侦探，以克制色调和面部光线营造电影剧照感。"
+    },
+    "south-asian-casual-mirror-selfie": {
+      "en": "A structured JSON prompt builds a relaxed mirror selfie through pose, patterned clothing, phone placement and an unretouched photographic style.",
+      "zh": "用 JSON 分项描述姿态、图案服装、手机位置和自然摄影风格，构建轻松的镜面自拍。"
+    },
+    "lone-figure-beneath-an-indigo-dusk-sky": {
+      "en": "An indigo-to-apricot sky towers over a tiny figure on a ridge, with generous empty space and a quiet serif caption.",
+      "zh": "靛蓝至杏色的暮空覆盖山脊孤影，以大面积留白和一行衬线文字形成安静构图。"
+    },
+    "fluffy-mothman-by-a-moonlit-lake": {
+      "en": "A fluffy Mothman with oversized wings stands by a moonlit lake, surrounded by fireflies and deep midnight blues.",
+      "zh": "毛茸茸的大翼蛾人站在月光湖畔，萤火虫与午夜蓝色共同组成温柔奇幻场景。"
+    },
+    "christmas-dinosaur-tangled-in-lights": {
+      "en": "A smiling green dinosaur in a Santa hat tangles itself in colorful lights beside a wrapped gift.",
+      "zh": "戴圣诞帽的绿色小恐龙被彩灯缠住，礼盒、雪花和星星增添节日气氛。"
+    },
+    "street-fashion-noodle-portrait": {
+      "en": "A close, slightly tilted street-food portrait combines direct flash, hard shadows and bright highlights on noodles and sunglasses.",
+      "zh": "近距离微倾斜的吃面人像结合同机直闪、硬阴影，以及面条和墨镜上的明亮反光。"
+    },
+    "street-portrait-with-a-skull-skateboard": {
+      "en": "A red-clad skater holds a board upright against an urban street backdrop, with cargo pockets, chains and shallow background blur.",
+      "zh": "红衣滑板女孩在城市街道竖持滑板，工装口袋、金属链与柔化背景构成街头造型。"
+    },
+    "earth-horizon-over-india": {
+      "en": "A short prompt asks for an orbital view of Earth’s horizon with India visible below.",
+      "zh": "以简短提示词描绘太空视角下的地球地平线，并让印度出现在画面中。"
+    },
+    "red-dress-on-an-autumn-sidewalk": {
+      "en": "A red dress, wide-brimmed hat and heels stand out against a sunny path lined with golden autumn foliage.",
+      "zh": "红裙、宽檐帽与高跟鞋在阳光下的金色秋叶步道上形成鲜明色彩。"
+    },
+    "bosphorus-night-time-food-caravan": {
+      "en": "A makeshift köfte stall on the Bosphorus waterfront combines charcoal glow, handmade lettering, steam and wet street reflections.",
+      "zh": "博斯普鲁斯海峡边的简易烤肉车结合炭火、手写招牌、蒸汽和湿地反光，描绘夜间烟火气。"
+    },
+    "glass-music-player-on-a-bus-window": {
+      "en": "A reference subject is moved into a melancholy bus-window scene with a translucent music-player interface. Supply a subject reference photo.",
+      "zh": "把参考人物放入带忧郁氛围的公交车窗场景，再叠加半透明音乐播放器界面。需要提供人物参考照片。"
+    },
+    "eight-object-spatial-instruction-test": {
+      "en": "An overhead oak-table scene asks for exact object counts, positions and clock hands, turning a flat lay into a spatial-instruction exercise.",
+      "zh": "橡木桌俯拍场景对物体数量、位置和钟表指针提出精确要求，把静物平铺变成空间指令练习。"
+    },
+    "the-daily-prompt-newspaper-front-page": {
+      "en": "A fictional newspaper front page uses a masthead, headline, columns, caption and weather box to explore dense editorial typography.",
+      "zh": "虚构报纸头版用报头、标题、分栏、图片说明和天气栏探索密集的编辑排版。"
+    },
+    "morning-flowers-at-an-indian-shrine": {
+      "en": "A barefoot child places flowers and bread beneath a weathered shrine mural, with sunrise haze and aged neighborhood textures.",
+      "zh": "赤脚孩子在褪色神龛壁画下摆放花与面包，晨光薄雾和老街肌理营造纪实氛围。"
+    },
+    "sonic-characters-forming-nano-banana-text": {
+      "en": "Sonic characters are arranged into the words Nano Banana 2.1, combining character illustration with a typographic composition.",
+      "zh": "把 Sonic 角色排列为 Nano Banana 2.1 字样，将角色插画与文字构图结合。"
+    },
+    "movie-collage-from-ending-to-beginning": {
+      "en": "A one-line prompt asks for a favorite film to be retold in collage form, moving backward from its ending.",
+      "zh": "用一句提示词把喜爱的电影做成拼贴，并从结局向开头倒叙。"
+    },
+    "dutch-angle-mecha-throw-with-two-references": {
+      "en": "Two supplied images define a dynamic throwing scene viewed at a Dutch angle. Both input references are linked separately below.",
+      "zh": "以两张输入参考图构建倾斜镜头下的动态投掷场景，两张参考图在下方单独列出。"
+    },
+    "cobra-style-transfer-comparison": {
+      "en": "Transfer one image’s subject into another image’s medium and palette. Nano Banana 2.1 is the upper-right output; left panels are references and the lower-right output is Nano Banana Pro.",
+      "zh": "将一张图的主体迁移到另一张图的媒介与配色。右上输出为 Nano Banana 2.1，左侧是参考图，右下为 Nano Banana Pro。"
+    },
+    "vintage-screen-print-lighthouse": {
+      "en": "A colorful lighthouse casts a curved beam over a dark ocean in a textured retro screen-print style. Nano Banana 2.1 is the upper-left panel of the four-model comparison.",
+      "zh": "彩色灯塔在深色海面投出弧形光束，采用带纹理的复古丝网印刷风格。四模型对比中左上为 Nano Banana 2.1。"
+    },
+    "imagined-google-ceo-childhood-timeline": {
+      "en": "A generated timeline imagines one person across ages while retaining a consistent face. Nano Banana 2.1 is the bottom panel; the childhood scenes are fictional reconstructions.",
+      "zh": "生成时间线以同一张脸想象人物不同年龄。下方为 Nano Banana 2.1，童年场景是虚构重建画面。"
+    },
+    "tank-top-necklace-and-ponytail-edit": {
+      "en": "Edit clothing, jewelry, hairstyle and wall color while retaining the scene. Nano Banana 2.1 is the middle panel, between the original reference and Flux 3 output.",
+      "zh": "保留场景并改变衣服、首饰、发型和墙色。中间为 Nano Banana 2.1，左右分别为原图和 Flux 3 输出。"
+    },
+    "four-friends-in-night-time-shibuya": {
+      "en": "Two women and two men pose waist-up at a Shibuya crossing in a square, phone-camera-style night photograph.",
+      "zh": "两位女性和两位男性在涩谷路口并排，以方形构图和手机画质呈现夜间合影。"
+    },
+    "magical-girl-anime-key-visual": {
+      "en": "A short Japanese prompt asks for a magical-girl anime key visual finished as a poster with a title logo.",
+      "zh": "用简短日文提示词生成魔法少女动画主视觉，并完成含标题字标的海报。"
+    },
+    "neon-fashion-portrait-in-dotonbori": {
+      "en": "A street-fashion portrait places a subject adjusting an ankle chain amid Dotonbori lanterns, neon bokeh and wet-pavement reflections.",
+      "zh": "道顿堀时尚人像描绘整理脚链的瞬间，灯笼、霓虹散景与湿地反光建立夜市氛围。"
+    },
+    "j-mon-and-yayoi-museum-style-comparison": {
+      "en": "A museum-style illustration places imagined Jōmon and Yayoi portraits side by side with facial annotations. These are generated reconstructions, not historical photographs.",
+      "zh": "博物馆风格图版并列想象中的绳文与弥生人像，附面部特征标注。这是生成的重建插画，并非历史照片。"
+    },
+    "casual-selfie-in-an-abandoned-house": {
+      "en": "A phone-style selfie in an abandoned house emphasizes spontaneous framing and an intentionally amateur photographic feel.",
+      "zh": "废屋中的手机自拍强调随手构图和刻意保留的业余拍摄感。"
+    },
+    "claude-webpage-as-a-graphic-recording": {
+      "en": "A short prompt asks for a webpage to be summarized as a tall illustrated visual note, retaining the creator’s original shortened link.",
+      "zh": "用短提示词把网页概括成长幅图解笔记，并保留作者原始短链接。"
+    },
+    "four-ai-assistants-as-anime-characters": {
+      "en": "ChatGPT, Claude, Gemini and Grok become four anime characters in a single personification illustration.",
+      "zh": "将 ChatGPT、Claude、Gemini 与 Grok 拟人化为一组动漫角色。"
+    },
+    "nano-banana-2-1-launch-poster": {
+      "en": "A creator-made 3:4 launch poster explores a Xiaohongshu-style announcement layout. Its artwork text is part of the generated design.",
+      "zh": "作者制作的 3:4 发布海报探索小红书式公告排版，画中文字属于生成设计。"
+    },
+    "fictional-adult-bathroom-mirror-selfie": {
+      "en": "A fictional adult’s bathroom selfie explores close phone framing, natural skin texture, fabric tension and imperfect white balance.",
+      "zh": "虚构成年人的浴室自拍探索近距离手机构图、自然皮肤质感、衣料褶皱和略不均匀的白平衡。"
+    },
+    "playful-bali-monkey-forest-travel-selfie": {
+      "en": "A reference face is placed beside a macaque for a playful Bali travel selfie with sunglasses and a comic peace-sign moment. Supply a face reference.",
+      "zh": "把参考人物置于猕猴旁，用墨镜与偶然的剪刀手形成巴厘岛旅行自拍的趣味瞬间。需要提供面部参考图。"
+    },
+    "fashion-portrait-by-a-petrol-station-cooler": {
+      "en": "A full-length side-profile fashion portrait contrasts dark clothing and a night parking lot with a brightly lit beverage cooler.",
+      "zh": "全身侧面时尚人像以深色穿搭和夜间停车场，对比明亮的饮料冷柜。"
+    },
+    "the-danji-face-beanie-macro-portrait": {
+      "en": "A tight landscape portrait pairs facial detail with a black ribbed beanie and a custom white THE DANJI FACE patch.",
+      "zh": "横向近景人像把面部细节与黑色罗纹针织帽、白色 THE DANJI FACE 字标结合。"
+    },
+    "secret-shadow-instant-film-edit": {
+      "en": "Keep an uploaded photograph intact while a long afternoon shadow acts out the subject’s hidden wish, within an instant-film border. Supply a photo.",
+      "zh": "在即时成像相框内保留上传照片，让午后长影演出主体的隐秘愿望。需要提供照片。"
+    },
+    "skull-illusion-in-a-tulip-park": {
+      "en": "An overhead tulip festival forms a skull through hedges, ponds, flower beds and umbrellas, while visitors fill the colorful park.",
+      "zh": "鸟瞰郁金香节通过树篱、水池、花坛和遮阳伞形成骷髅轮廓，游人仍散布于彩色公园中。"
+    },
+    "silver-haired-witch-with-a-glowing-orb": {
+      "en": "A close anime portrait concentrates on silver hair, luminous eyes and a translucent glowing orb against a cool grayscale palette.",
+      "zh": "动漫近景人像聚焦银发、发光眼睛与半透明魔法球，采用冷灰色配色。"
+    },
+    "philosopher-and-labyrinth-banknote": {
+      "en": "An imaginary engraved banknote turns a philosopher’s silhouette into a labyrinth, with optical ornaments and navy-coral inks.",
+      "zh": "虚构雕版纸币把哲学家轮廓变成迷宫，以视觉错觉装饰和深蓝、珊瑚色油墨完成画面。"
+    },
+    "banana-phone-banknote-editing-attempt": {
+      "en": "An engraved banknote edit changes lettering and symbols while asking for a banana telephone. The output still leaves the hand at the chin rather than moving the banana to the ear.",
+      "zh": "雕版纸币编辑改变文字和符号，并要求香蕉电话姿态。输出仍把手留在下巴处，没有完成将香蕉移到耳边的要求。"
+    },
+    "labyrinth-banknote-to-oil-painting": {
+      "en": "Reinterpret the engraved philosopher-and-labyrinth design as a dramatic oil painting while retaining the lettering and surreal composition. Supply the preceding image.",
+      "zh": "将哲学家与迷宫的雕版设计改成戏剧感油画，同时保留文字与超现实构图。需要提供前序作品图。"
+    },
+    "human-history-inside-a-nautilus-shell": {
+      "en": "Eight miniature historical scenes fill a cut nautilus shell, connected by a golden thread and photographed against black velvet.",
+      "zh": "剖开的鹦鹉螺壳装入八个微缩历史场景，以金色光线连接，背景为黑色丝绒。"
+    },
+    "left-hand-writing-and-seven-apples-test": {
+      "en": "A café scene combines left-handed writing, exact finger and apple counts, a clock time and readable signs in one detailed instruction exercise.",
+      "zh": "咖啡馆场景把左手书写、手指与苹果数量、钟表时间和可读招牌组合成细节指令练习。"
+    },
+    "four-character-giant-banana-comic": {
+      "en": "Four recurring characters discover a giant banana across four comic panels, with consistent outfits and short dialogue.",
+      "zh": "四位重复角色在四格漫画中发现巨型香蕉，通过一致服装和简短对白连接剧情。"
+    },
+    "numbered-fingers-watch-and-fabric-test": {
+      "en": "A macro hand portrait requests numbered fingertips, a watch set to 3:15, water droplets and detailed cable-knit fibers.",
+      "zh": "手部微距要求指尖数字、显示 3:15 的手表、水珠和清晰的绞花针织纤维。"
+    },
+    "premier-league-table-infographic-attempt": {
+      "en": "A navy-and-white sports table explores aligned columns and compact information design. Treat it as an illustrative layout, not a source for live football standings.",
+      "zh": "深蓝白色体育表格探索列对齐与紧凑信息设计，用作版式示例，不能作为实时足球积分榜来源。"
+    },
+    "stradivarius-violin-in-a-display-case": {
+      "en": "A Japanese prompt asks for a professional exhibition photograph of a Stradivarius violin inside a display case.",
+      "zh": "日文提示词要求以专业展览摄影风格描绘展示柜中的斯特拉迪瓦里小提琴。"
+    },
+    "violin-exhibition-label-close-up-edit": {
+      "en": "Zoom into the explanatory label from the preceding violin exhibition scene. This is a continuation edit using that scene as context.",
+      "zh": "在前序小提琴展览场景中拉近说明牌，属于使用该场景作为上下文的连续编辑。"
+    },
+    "retro-anime-website-character-page": {
+      "en": "Recreate the feel of an early-2000s anime website’s character introduction page, using nostalgic web layout conventions.",
+      "zh": "重现 2000 年前后动画官网的角色介绍页，采用怀旧网页排版。"
+    },
+    "bonsai-couture-paris-runway-magazine": {
+      "en": "A magazine spread presents bonsai-inspired avant-garde couture on a Paris runway, with French editorial text.",
+      "zh": "杂志跨页呈现巴黎秀场上以盆栽为灵感的前卫服饰与妆容，并配法文编辑文字。"
+    }
+  },
+  "media": {}
+}

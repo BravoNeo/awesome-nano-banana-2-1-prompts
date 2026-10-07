@@ -4,58 +4,58 @@
 
 **Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
 
-ReelDance is a multi-model AI image and video creation platform. Turn text into images or videos, animate an image, and choose a model for your project.
+ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
 
-59 image prompts from 33 creators, from multilingual café menus and editorial portraits to character sheets, product scenes and photo edits. Explore the outputs, copy the complete original prompts and visit the creators’ posts.
+收集 33 位创作者的 59 个图像作品与提示词，从多语言咖啡菜单、杂志人像到角色设定、产品场景和照片编辑。可以浏览输出作品、复制完整原始提示词，并查看作者原帖。
 
-<a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Browse the online gallery</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">Explore more inspiration</a>
+<a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
 
-## About Nano Banana 2.1
+## 关于 Nano Banana 2.1
 
-<a href="https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1?hl=en" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1</a> is Google’s image generation and conversational editing model. It supports text-led creation and image references, with improvements to visual quality, character consistency and text rendering.
+<a href="https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1?hl=en" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1</a> 是 Google 的图像生成与对话式编辑模型，支持文字创作和图片参考，并改进了画面质量、角色一致性与文字渲染。
 
-## How to use these prompts
+## 如何使用
 
-1. Pick an example and expand its complete original prompt.
-2. Replace subject or location variables; for editing examples, prepare a reference image you have permission to use.
-3. Select the model in a supported tool, paste the prompt, then adapt the composition, wording or style to your project.
+1. 选择一个案例，展开完整原始提示词。
+2. 替换地点、主体等变量；编辑类作品先准备自己有权使用的参考图。
+3. 在支持该模型的工具中选择模型并粘贴提示词，再按你的目标调整构图、文字或风格。
 
-## Start with these examples
+## 从这些作品开始
 
-| Example | What to explore |
+| 作品 | 看点 |
 | --- | --- |
-| [Four-Script Café Menu](#four-script-caf-menu) | A coffee-shop chalkboard arranges a headline, prices and menu items in English, Japanese, Arabic and Devanagari. The JSON prompt specifies the text and its order. |
-| [SUNDAY Written in Maple Syrup](#sunday-written-in-maple-syrup) | Maple syrup forms SUNDAY down the side of a pancake stack. A short prompt combines food photography with lettering made from the subject itself. |
-| [Nostalgic Photo-to-Illustration Artbook](#nostalgic-photo-to-illustration-artbook) | A personal photograph becomes a two-part artbook page: a color photo above and an expressive black-and-white ink drawing below, surrounded by warm paper and handwritten notes. Supply a reference photo. |
-| [Aoi: Red-Haired Anime Character Sheet](#aoi-red-haired-anime-character-sheet) | A red-haired anime character appears in front, side and rear views with face close-ups and color callouts. The creator shared an app screenshot, so its interface remains visible. |
-| [Red Umbrella on a Mirror Salt Flat](#red-umbrella-on-a-mirror-salt-flat) | A small red umbrella and its reflection punctuate a pale salt flat. The prompt uses scale, negative space and an overcast sky to create a quiet minimal scene. |
-| [Rainy Market with Six Writing Systems](#rainy-market-with-six-writing-systems) | Rain, umbrellas, steam and neon surround six shop signs in different writing systems. The prompt requests exact lettering within a busy night-market scene. |
+| [英日阿印四种文字的咖啡菜单](#four-script-caf-menu) | 咖啡店黑板把英文、日文、阿拉伯文与天城文菜单排在同一版面；JSON 提示词逐项指定标题、价格、文字及顺序。 |
+| [枫糖浆拼出 SUNDAY 的松饼](#sunday-written-in-maple-syrup) | 枫糖浆沿松饼侧面形成 SUNDAY 字样，用一条简短提示词将食物摄影与材质文字结合。 |
+| [照片渐融为手绘的怀旧艺术书页](#nostalgic-photo-to-illustration-artbook) | 将一张生活照片变成上下两部分的艺术书页：上方保留彩色照片，下方化为黑白墨线画，以暖色纸张和手写注释连接。需要提供参考照片。 |
+| [红发少女 aoi 角色设计表](#aoi-red-haired-anime-character-sheet) | 红发动漫角色以正面、侧面、背面和面部特写呈现，并配色彩标注。作者分享的是应用截图，画面保留界面元素。 |
+| [盐湖上的一把红伞](#red-umbrella-on-a-mirror-salt-flat) | 淡色盐湖上，一把小红伞与倒影成为视觉焦点；提示词通过主体尺度、留白和阴天光线营造安静的极简场景。 |
+| [六种文字招牌的雨夜街市](#rainy-market-with-six-writing-systems) | 雨水、伞、蒸汽与霓虹围绕六种文字的店铺招牌，提示词在繁忙夜市场景中提出明确的文字要求。 |
 
 
-## Browse categories
+## 分类浏览
 
-| Category | Works |
+| 分类 | 作品 |
 | --- | ---: |
-| [Posters & typography](#posters) | 13 |
-| [Portraits](#portraits) | 13 |
-| [Character sheets & sequences](#storyboards) | 5 |
-| [Products & object studies](#products) | 5 |
-| [Photo editing](#edits) | 10 |
-| [Styles & scenes](#styles) | 13 |
+| [海报与文字排版](#posters) | 13 |
+| [人像](#portraits) | 13 |
+| [角色设定与连续画面](#storyboards) | 5 |
+| [产品与物体研究](#products) | 5 |
+| [照片编辑](#edits) | 10 |
+| [风格与场景](#styles) | 13 |
 
-## Artwork & complete prompts
+## 作品与完整提示词
 
 <a id="four-script-caf-menu"></a>
-### Four-Script Café Menu
+### 英日阿印四种文字的咖啡菜单
 
-A coffee-shop chalkboard arranges a headline, prices and menu items in English, Japanese, Arabic and Devanagari. The JSON prompt specifies the text and its order.
+咖啡店黑板把英文、日文、阿拉伯文与天城文菜单排在同一版面；JSON 提示词逐项指定标题、价格、文字及顺序。
 
 Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2107534300044316830" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Four-Script Café Menu](https://media.reeldance.ai/galleries/assets/da43205b2b85572d0304a7b31e2d2d8ce39e19145ea035bcc66b0a8b447b8840.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -79,16 +79,16 @@ Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2
 </details>
 
 <a id="sunday-written-in-maple-syrup"></a>
-### SUNDAY Written in Maple Syrup
+### 枫糖浆拼出 SUNDAY 的松饼
 
-Maple syrup forms SUNDAY down the side of a pancake stack. A short prompt combines food photography with lettering made from the subject itself.
+枫糖浆沿松饼侧面形成 SUNDAY 字样，用一条简短提示词将食物摄影与材质文字结合。
 
 Emilio (@EmilioSchwaiger) · <a href="https://x.com/EmilioSchwaiger/status/2107579187888287942" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![SUNDAY Written in Maple Syrup](https://media.reeldance.ai/galleries/assets/c774dec82c32733b48b1bbed76723befa524918a7f19381903ed6aa91a4c6789.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photo of a tall stack of fluffy pancakes on a diner plate, the maple syrup dripping down the side naturally spells the word SUNDAY
@@ -97,16 +97,16 @@ A photo of a tall stack of fluffy pancakes on a diner plate, the maple syrup dri
 </details>
 
 <a id="nostalgic-photo-to-illustration-artbook"></a>
-### Nostalgic Photo-to-Illustration Artbook
+### 照片渐融为手绘的怀旧艺术书页
 
-A personal photograph becomes a two-part artbook page: a color photo above and an expressive black-and-white ink drawing below, surrounded by warm paper and handwritten notes. Supply a reference photo.
+将一张生活照片变成上下两部分的艺术书页：上方保留彩色照片，下方化为黑白墨线画，以暖色纸张和手写注释连接。需要提供参考照片。
 
 Sharon Riley (@Just_sharon7) · <a href="https://x.com/Just_sharon7/status/2107574724041769179" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Nostalgic Photo-to-Illustration Artbook](https://media.reeldance.ai/galleries/assets/6d04e9b53040041545f7592c8c0f9006a31b43a29f0adee22315887678a6949d.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Create a nostalgic, magazine-inspired photo-and-illustration artbook spread using the reference image as the visual foundation. Maintain the original subjects, identities, poses, expressions, wardrobe, framing, and emotional tone without altering their recognizable appearance.
@@ -131,16 +131,16 @@ Maintain realistic anatomy, natural body proportions, recognizable faces, believ
 </details>
 
 <a id="aoi-red-haired-anime-character-sheet"></a>
-### Aoi: Red-Haired Anime Character Sheet
+### 红发少女 aoi 角色设计表
 
-A red-haired anime character appears in front, side and rear views with face close-ups and color callouts. The creator shared an app screenshot, so its interface remains visible.
+红发动漫角色以正面、侧面、背面和面部特写呈现，并配色彩标注。作者分享的是应用截图，画面保留界面元素。
 
 𝐚𝐨𝐢❀.*ﾟ (@GPT_AOI) · <a href="https://x.com/GPT_AOI/status/2107641922147995878" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Aoi: Red-Haired Anime Character Sheet — Author-provided mobile-app screenshot containing the output; interface elements remain visible.](https://media.reeldance.ai/galleries/assets/a5dbe6b6659a4144b866164f5a3d29113121c45390f781c5a464fd554840edff.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 masterpiece, best quality, highres, 8k, anime character design sheet, clean turnaround aesthetic, color callouts, (1girl, solo, red hair, bob cut, blunt bangs, straight bangs, cute face, autumn outfit, knit cardigan, boots), side view, profile, close-up, portrait, face focus, 名前 aoi
@@ -149,16 +149,16 @@ masterpiece, best quality, highres, 8k, anime character design sheet, clean turn
 </details>
 
 <a id="red-umbrella-on-a-mirror-salt-flat"></a>
-### Red Umbrella on a Mirror Salt Flat
+### 盐湖上的一把红伞
 
-A small red umbrella and its reflection punctuate a pale salt flat. The prompt uses scale, negative space and an overcast sky to create a quiet minimal scene.
+淡色盐湖上，一把小红伞与倒影成为视觉焦点；提示词通过主体尺度、留白和阴天光线营造安静的极简场景。
 
 Emilio (@EmilioSchwaiger) · <a href="https://x.com/EmilioSchwaiger/status/2107669756845191508" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Red Umbrella on a Mirror Salt Flat](https://media.reeldance.ai/galleries/assets/f24fd56a2facf06edb8240cb24eef3a787cd71d924a19d4d58dd46ed02b8cd51.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A minimal photograph of a single red umbrella on an endless pale salt flat under a pearl-white overcast sky, a perfect mirror reflection, the umbrella tiny in the frame, soft and silent
@@ -167,16 +167,16 @@ A minimal photograph of a single red umbrella on an endless pale salt flat under
 </details>
 
 <a id="rainy-market-with-six-writing-systems"></a>
-### Rainy Market with Six Writing Systems
+### 六种文字招牌的雨夜街市
 
-Rain, umbrellas, steam and neon surround six shop signs in different writing systems. The prompt requests exact lettering within a busy night-market scene.
+雨水、伞、蒸汽与霓虹围绕六种文字的店铺招牌，提示词在繁忙夜市场景中提出明确的文字要求。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107532529070985393" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Rainy Market with Six Writing Systems](https://media.reeldance.ai/galleries/assets/112b4dc05a6ec460cad87ec61fbf4a1c053a7e2d9840623e0f6913904c643e3d.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photorealistic night photo of a crowded street market in the rain, neon and lantern light reflecting on wet pavement, shot on a 35mm lens. Six shop signs are clearly visible, each with sharp, correctly spelled text: an Urdu sign in Nastaliq script reading "چائے خانہ", an Arabic sign reading "مخبز", a Hindi sign reading "मिठाई की दुकान", a Japanese sign reading "ラーメン", a Korean sign reading "카페", and an English sign reading "OPEN ALL NIGHT". Shoppers with umbrellas, steam rising from food stalls, realistic faces and hands. Aspect ratio 4:5, 4K.
@@ -185,19 +185,19 @@ A photorealistic night photo of a crowded street market in the rain, neon and la
 </details>
 
 <a id="posters"></a>
-## Posters & typography
+## 海报与文字排版
 
 <a id="little-devil-super-famicom-game-poster"></a>
-### Little Devil Super Famicom Game Poster
+### 小恶魔莉莉的超级任天堂游戏海报
 
-A little-devil character becomes the star of a Super Famicom-style game poster. The left comparison panel is Nano Banana 2.1; the right is Nano Banana 2.
+把小恶魔角色设计成超级任天堂风格的游戏海报。对比图左侧为 Nano Banana 2.1，右侧为 Nano Banana 2。
 
 EvoLink.ai (@EvoLinkAi) · <a href="https://x.com/EvoLinkAi/status/2107659940936483064" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Little Devil Super Famicom Game Poster — Comparison image: Nano Banana 2.1 is the LEFT panel; the right panel is Nano Banana 2.](https://media.reeldance.ai/galleries/assets/179eda74bfb18905bb2eaccbe9662d35f38f7e844d082512baecffbc3934835a.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
@@ -206,16 +206,16 @@ EvoLink.ai (@EvoLinkAi) · <a href="https://x.com/EvoLinkAi/status/2107659940936
 </details>
 
 <a id="viennese-caf-chalkboard-menu"></a>
-### Viennese Café Chalkboard Menu
+### 维也纳咖啡馆粉笔菜单
 
-Morning light falls on a Viennese café chalkboard with three handwritten items, prices and a small coffee-cup doodle.
+晨光照亮维也纳咖啡馆的黑板菜单，三项餐饮、价格和咖啡杯涂鸦构成简单版面。
 
 Emilio (@EmilioSchwaiger) · <a href="https://x.com/EmilioSchwaiger/status/2107639572918124553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Viennese Café Chalkboard Menu](https://media.reeldance.ai/galleries/assets/4cd435c6fce30a4abed6ca068c6d3090d46a7017fbaa16bbe9b684bd1839cd90.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A chalkboard menu outside a tiny Viennese café, handwritten in chalk: "Melange 3.80", "Apfelstrudel 4.50", "Sachertorte 5.20", with a little doodled coffee cup, morning light
@@ -224,16 +224,16 @@ A chalkboard menu outside a tiny Viennese café, handwritten in chalk: "Melange 
 </details>
 
 <a id="the-daily-prompt-newspaper-front-page"></a>
-### The Daily Prompt Newspaper Front Page
+### 可读头版报纸与拉合尔天气栏
 
-A fictional newspaper front page uses a masthead, headline, columns, caption and weather box to explore dense editorial typography.
+虚构报纸头版用报头、标题、分栏、图片说明和天气栏探索密集的编辑排版。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107533856601751752" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![The Daily Prompt Newspaper Front Page](https://media.reeldance.ai/galleries/assets/c3a90aad40d8e129b7c83902f98cc976305b71c77d94782837908ea72e5d7807.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photorealistic close-up of a printed newspaper front page lying on a wooden desk in morning light. Masthead: "THE DAILY PROMPT". Date: "TUESDAY, OCTOBER 6, 2026". Main headline: "GOOGLE RELEASES NANO BANANA 2.1". Subheadline: "Can it finally render text without mistakes?" Three columns of readable body text, a photo of a banana captioned "Fig. 1: The banana in question", a weather box reading "Lahore 31°C Sunny", and the page number "A1". Every word sharp and correctly spelled. Aspect ratio 3:4, 4K.
@@ -242,16 +242,16 @@ A photorealistic close-up of a printed newspaper front page lying on a wooden de
 </details>
 
 <a id="sonic-characters-forming-nano-banana-text"></a>
-### Sonic Characters Forming Nano Banana Text
+### 索尼克角色排列成 Nano Banana 字样
 
-Sonic characters are arranged into the words Nano Banana 2.1, combining character illustration with a typographic composition.
+把 Sonic 角色排列为 Nano Banana 2.1 字样，将角色插画与文字构图结合。
 
 Socratech (@sadlemonjuice) · <a href="https://x.com/sadlemonjuice/status/2107522346907316237" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Sonic Characters Forming Nano Banana Text](https://media.reeldance.ai/galleries/assets/c145da3b87388877f2d6c69f3727db5212e25c0a4210951914e722019e5ab403.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 sonic the hedgehog characters organized perfectly making text Nano Banana 2.1 anime illustration
@@ -260,16 +260,16 @@ sonic the hedgehog characters organized perfectly making text Nano Banana 2.1 an
 </details>
 
 <a id="magical-girl-anime-key-visual"></a>
-### Magical Girl Anime Key Visual
+### 魔法少女动画主视觉海报
 
-A short Japanese prompt asks for a magical-girl anime key visual finished as a poster with a title logo.
+用简短日文提示词生成魔法少女动画主视觉，并完成含标题字标的海报。
 
 SSSS.CRYPTOMAN⚡️AI (@SSSS_CRYPTOMAN) · <a href="https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Magical Girl Anime Key Visual](https://media.reeldance.ai/galleries/assets/dd724d978d200cf00c63e86d2da023c5d4dddcb73813d225fb4b0f5dbe2bf0bc.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 魔法少女アニメのキービジュアルを作成。タイトルロゴまで含めた魅力的なポスターデザインとして仕上げる。
@@ -278,16 +278,16 @@ SSSS.CRYPTOMAN⚡️AI (@SSSS_CRYPTOMAN) · <a href="https://x.com/SSSS_CRYPTOMA
 </details>
 
 <a id="j-mon-and-yayoi-museum-style-comparison"></a>
-### Jōmon and Yayoi Museum-Style Comparison
+### 绳文人与渡来系弥生人面貌比较图
 
-A museum-style illustration places imagined Jōmon and Yayoi portraits side by side with facial annotations. These are generated reconstructions, not historical photographs.
+博物馆风格图版并列想象中的绳文与弥生人像，附面部特征标注。这是生成的重建插画，并非历史照片。
 
 BLITAST STUDIO (@blitast_studio) · <a href="https://x.com/blitast_studio/status/2107589324518961287" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Jōmon and Yayoi Museum-Style Comparison — AI-generated educational illustration. Appearance reconstructions are an artistic example, not validated historical or anthropological evidence.](https://media.reeldance.ai/galleries/assets/7e11c44605023d66a7927d252f9d8a357197d21b1705415ddcb3265daaad2f75.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 縄文人と渡来系弥生人の顔立ちを比較する教育用図版。横長16:9、白背景、博物館の復元画のような写実的表現。左右に30歳前後の男性の正面バストショットを配置。顔の大きさ、照明、表情を統一する。
@@ -304,16 +304,16 @@ BLITAST STUDIO (@blitast_studio) · <a href="https://x.com/blitast_studio/status
 </details>
 
 <a id="claude-webpage-as-a-graphic-recording"></a>
-### Claude Webpage as a Graphic Recording
+### Claude 页面内容纵向图解
 
-A short prompt asks for a webpage to be summarized as a tall illustrated visual note, retaining the creator’s original shortened link.
+用短提示词把网页概括成长幅图解笔记，并保留作者原始短链接。
 
 IT navi (@itnavi2022) · <a href="https://x.com/itnavi2022/status/2107516223185633575" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Claude Webpage as a Graphic Recording — The source prompt includes its original shortened webpage URL. The gallery preserves the prompt and does not verify the webpage summary.](https://media.reeldance.ai/galleries/assets/5672f92d82ff5a1a6c327efc71fe0bc8f1d7ecf1283aad044be0e5a3a29da253.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 以下のページの内容を縦長のグラレコで描いて
@@ -323,16 +323,16 @@ https://t.co/jDrGPzxx3x
 </details>
 
 <a id="nano-banana-2-1-launch-poster"></a>
-### Nano Banana 2.1 Launch Poster
+### Nano Banana 2.1 发布小红书海报
 
-A creator-made 3:4 launch poster explores a Xiaohongshu-style announcement layout. Its artwork text is part of the generated design.
+作者制作的 3:4 发布海报探索小红书式公告排版，画中文字属于生成设计。
 
 nicekate (@nicekate8888) · <a href="https://x.com/nicekate8888/status/2107507607183478923" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Nano Banana 2.1 Launch Poster — Author-generated launch poster. Text inside the artwork is not an independently verified model specification.](https://media.reeldance.ai/galleries/assets/e306c1fa0c40abbe021e1ce1525a618c8bf4eaa055ecd4ee57f3ded0ce3ed4fe.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Nano Banana 2.1 已推出，请搜索信息，并生成适合小红书的海报，3:4
@@ -341,16 +341,16 @@ Nano Banana 2.1 已推出，请搜索信息，并生成适合小红书的海报�
 </details>
 
 <a id="philosopher-and-labyrinth-banknote"></a>
-### Philosopher and Labyrinth Banknote
+### 哲学家的迷宫纸币
 
-An imaginary engraved banknote turns a philosopher’s silhouette into a labyrinth, with optical ornaments and navy-coral inks.
+虚构雕版纸币把哲学家轮廓变成迷宫，以视觉错觉装饰和深蓝、珊瑚色油墨完成画面。
 
 ibexdream (@ibexdream) · <a href="https://x.com/ibexdream/status/2107520949557875182" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Philosopher and Labyrinth Banknote](https://media.reeldance.ai/galleries/assets/fa1c8ce5c0ab88c27c81609078a553089b0be301ad1db1920e5949b8704d312d.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A classical philosopher depicted on an imaginary banknote, his silhouette gradually opening into an elaborate labyrinth populated by tiny anonymous figures.
@@ -361,16 +361,16 @@ Copperplate engraving, muted ivory stock, deep navy and fluorescent coral inks, 
 </details>
 
 <a id="premier-league-table-infographic-attempt"></a>
-### Premier League Table Infographic Attempt
+### 英超前六排名联网信息图
 
-A navy-and-white sports table explores aligned columns and compact information design. Treat it as an illustrative layout, not a source for live football standings.
+深蓝白色体育表格探索列对齐与紧凑信息设计，用作版式示例，不能作为实时足球积分榜来源。
 
 Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2107534307627872710" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Premier League Table Infographic Attempt — Author-generated football-table infographic. Treat the displayed rankings as an image-generation example, not verified current standings.](https://media.reeldance.ai/galleries/assets/a02edd89363734a2204bbb11af88c3b9e42acfcedd4c875f9a84b654c4e79761.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -386,16 +386,16 @@ Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2
 </details>
 
 <a id="retro-anime-website-character-page"></a>
-### Retro Anime Website Character Page
+### 约2000年代动漫官网角色介绍页
 
-Recreate the feel of an early-2000s anime website’s character introduction page, using nostalgic web layout conventions.
+重现 2000 年前后动画官网的角色介绍页，采用怀旧网页排版。
 
 Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfines71321/status/2107528268069110149" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Retro Anime Website Character Page](https://media.reeldance.ai/galleries/assets/95afb7ea344e26f7b380f82d3f9541e35377d0cae46ee0673737f42fe72c77cb.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 2000年くらいに流行ったアニメの公式サイトキャラ紹介ページを作ってみて
@@ -404,16 +404,16 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 </details>
 
 <a id="bonsai-couture-paris-runway-magazine"></a>
-### Bonsai Couture Paris Runway Magazine
+### 盆栽先锋时装巴黎秀场杂志跨页
 
-A magazine spread presents bonsai-inspired avant-garde couture on a Paris runway, with French editorial text.
+杂志跨页呈现巴黎秀场上以盆栽为灵感的前卫服饰与妆容，并配法文编辑文字。
 
 Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfines71321/status/2107531113384345668" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Bonsai Couture Paris Runway Magazine](https://media.reeldance.ai/galleries/assets/8104b865ef92646621f4eba2a92578b7aa3b615a739914aa104ea21b967af6c5.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 盆栽をテーマにしたアヴァンギャルド衣装をメイク込みで着たモデルがパリコレのランウェイ路歩いている写真を乗せた雑誌の見開きを写真に映して。文字はフランス語で
@@ -422,19 +422,19 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 </details>
 
 <a id="portraits"></a>
-## Portraits
+## 人像
 
 <a id="jess-unretouched-smartphone-portrait"></a>
-### Jess: Unretouched Smartphone Portrait
+### 真实手机质感的 UGC 创作者 Jess
 
-A casual portrait of the fictional creator Jess uses a claw clip, ribbed lounge set and imperfect phone-camera lighting to suggest an everyday selfie.
+虚构创作者 Jess 以抓夹、罗纹家居服和略不均匀的手机光线呈现日常自拍感。
 
 Wanderson Jackson (@jackson99ai) · <a href="https://x.com/jackson99ai/status/2107636549927985231" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Jess: Unretouched Smartphone Portrait](https://media.reeldance.ai/galleries/assets/e92fbea600b64e810270a14f7c1bfac225a4c7cd8e2067c2a3fddc5e41c90009.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Character: Jess, 26, UGC content creator, authentic smartphone-camera realism, no retouching, natural skin texture, blonde balayage hair in a claw clip, beige ribbed lounge set, white socks, small gold hoop earrings. Candid, slightly imperfect lighting as if shot on an iPhone front camera.
@@ -443,16 +443,16 @@ Character: Jess, 26, UGC content creator, authentic smartphone-camera realism, n
 </details>
 
 <a id="ana-natural-light-commercial-character"></a>
-### Ana: Natural-Light Commercial Character
+### 自然光下的巴西母亲 Ana
 
-A Brazilian mother character is developed for a dramatic commercial, with warm tired eyes, a knit cardigan and natural daylight.
+为剧情广告设计巴西母亲角色，用温暖而疲惫的眼神、针织开衫与自然日光建立人物气质。
 
 Wanderson Jackson (@jackson99ai) · <a href="https://x.com/jackson99ai/status/2107636141109153812" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Ana: Natural-Light Commercial Character](https://media.reeldance.ai/galleries/assets/0e23015a81583532ffbf03aea0c75394ba10e0ffb13b1687bb000354ebef1177.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.
@@ -461,16 +461,16 @@ Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional d
 </details>
 
 <a id="dorian-vale-cinematic-detective-portrait"></a>
-### Dorian Vale: Cinematic Detective Portrait
+### 黑色高领风衣侦探 Dorian Vale
 
-A weathered detective in a charcoal coat and black turtleneck is framed like a film still, with restrained color and moody face lighting.
+炭灰风衣与黑色高领衫塑造饱经风霜的侦探，以克制色调和面部光线营造电影剧照感。
 
 Wanderson Jackson (@jackson99ai) · <a href="https://x.com/jackson99ai/status/2107635339724550571" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Dorian Vale: Cinematic Detective Portrait](https://media.reeldance.ai/galleries/assets/ceaa22705fb3e106cf5a72b31673acf2242247d67b6a1c95272d35df6f2484f4.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Character: Dorian Vale, mid-40s detective, cinematic film-still quality, weathered face, salt-and-pepper stubble, charcoal wool overcoat over a black turtleneck, dark trousers, leather boots. Anamorphic lens look, filmic color grade, moody but even key light on the face.
@@ -479,16 +479,16 @@ Character: Dorian Vale, mid-40s detective, cinematic film-still quality, weather
 </details>
 
 <a id="south-asian-casual-mirror-selfie"></a>
-### South Asian Casual Mirror Selfie
+### 自然生活感南亚女性镜面自拍
 
-A structured JSON prompt builds a relaxed mirror selfie through pose, patterned clothing, phone placement and an unretouched photographic style.
+用 JSON 分项描述姿态、图案服装、手机位置和自然摄影风格，构建轻松的镜面自拍。
 
 Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/2107622936278335992" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![South Asian Casual Mirror Selfie](https://media.reeldance.ai/galleries/assets/d91df452ecc27d1fd77005f4ec030b74ec278acc125d23ebf19d9dffff5fa8b3.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -559,16 +559,16 @@ Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/210
 </details>
 
 <a id="street-fashion-noodle-portrait"></a>
-### Street Fashion Noodle Portrait
+### 直闪街头时尚风吃面人像
 
-A close, slightly tilted street-food portrait combines direct flash, hard shadows and bright highlights on noodles and sunglasses.
+近距离微倾斜的吃面人像结合同机直闪、硬阴影，以及面条和墨镜上的明亮反光。
 
 Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/2107577134919127195" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Street Fashion Noodle Portrait](https://media.reeldance.ai/galleries/assets/d9173a75d3c65ef729aeb79a894bc29174eac048fc322b71fc22a1a5ed244e66.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -623,16 +623,16 @@ Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/210
 </details>
 
 <a id="street-portrait-with-a-skull-skateboard"></a>
-### Street Portrait with a Skull Skateboard
+### 手持骷髅滑板的红衣街头女孩
 
-A red-clad skater holds a board upright against an urban street backdrop, with cargo pockets, chains and shallow background blur.
+红衣滑板女孩在城市街道竖持滑板，工装口袋、金属链与柔化背景构成街头造型。
 
 dreamy digital arts (@dreamydigiarts) · <a href="https://x.com/dreamydigiarts/status/2107561535531016504" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Street Portrait with a Skull Skateboard](https://media.reeldance.ai/galleries/assets/2231336582b1fbf880a7d6ccc577c8b8e0a006219a4603b375fa48ccff53330d.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A young woman with reddish-blonde hair pulled back stands confidently on a city street holding a skateboard.
@@ -657,16 +657,16 @@ Style Details: High-resolution photography with vibrant colors and a modern stre
 </details>
 
 <a id="red-dress-on-an-autumn-sidewalk"></a>
-### Red Dress on an Autumn Sidewalk
+### 秋日街道上的红裙红帽女性
 
-A red dress, wide-brimmed hat and heels stand out against a sunny path lined with golden autumn foliage.
+红裙、宽檐帽与高跟鞋在阳光下的金色秋叶步道上形成鲜明色彩。
 
 dreamy digital arts (@dreamydigiarts) · <a href="https://x.com/dreamydigiarts/status/2107547341851070950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Red Dress on an Autumn Sidewalk](https://media.reeldance.ai/galleries/assets/4bca0f47899b2282247b8e33fee9a078ae203aac0a4909191d3fef67ed3175b8.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photorealistic shot of a woman walking confidently along an autumn sidewalk in the sun
@@ -687,16 +687,16 @@ Lighting: Bright natural sunlight streaming from above through the branches crea
 </details>
 
 <a id="four-friends-in-night-time-shibuya"></a>
-### Four Friends in Night-Time Shibuya
+### 夜间涩谷街头四人手机合照
 
-Two women and two men pose waist-up at a Shibuya crossing in a square, phone-camera-style night photograph.
+两位女性和两位男性在涩谷路口并排，以方形构图和手机画质呈现夜间合影。
 
 結パパ (@Yuupapa_free) · <a href="https://x.com/Yuupapa_free/status/2107644949730869493" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Four Friends in Night-Time Shibuya](https://media.reeldance.ai/galleries/assets/4c883faacda725605a90ce15cf8193dc68e58ff774a9e8deabdeb2a9a667970a.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 実写で、iPhone で撮影したような画質の写真。
@@ -714,16 +714,16 @@ Two women and two men pose waist-up at a Shibuya crossing in a square, phone-cam
 </details>
 
 <a id="neon-fashion-portrait-in-dotonbori"></a>
-### Neon Fashion Portrait in Dotonbori
+### 大阪道顿堀霓虹街头时尚人像
 
-A street-fashion portrait places a subject adjusting an ankle chain amid Dotonbori lanterns, neon bokeh and wet-pavement reflections.
+道顿堀时尚人像描绘整理脚链的瞬间，灯笼、霓虹散景与湿地反光建立夜市氛围。
 
 DD.Cherry (@sdjn_wgc) · <a href="https://x.com/sdjn_wgc/status/2107610628592480468" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Neon Fashion Portrait in Dotonbori](https://media.reeldance.ai/galleries/assets/9a5499fc5a47381b8657e7ff06906c37bbaad93cd6428045479367527b4878f6.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 绝美23岁东亚美女，身材匀称丰满，胸部明显自然丰满，视觉约 D 至 E 杯，具有自然重量感与柔和圆润轮廓，胸腰差明显，纤细腰部与丰满胸部形成清晰自然比例对比；气质时尚、自信、温柔。酒红色深 V 领细肩带吊带背心，领口深开至胸线，吊带与领口边缘均手工缝制黑色细密蕾丝花边增加设计感，修身剪裁紧密贴合身体曲线，下摆止于腰线上方完整露出腰腹；搭配黑色皮质 A 字超短裙，低腰设计裙腰落在胯骨，裙身采用柔软小羊皮材质，裙长仅至大腿上四分之一，右侧裙摆开有 5cm 高叉增加行动自由度。
@@ -738,16 +738,16 @@ DD.Cherry (@sdjn_wgc) · <a href="https://x.com/sdjn_wgc/status/2107610628592480
 </details>
 
 <a id="casual-selfie-in-an-abandoned-house"></a>
-### Casual Selfie in an Abandoned House
+### 废弃鬼屋里的随手自拍
 
-A phone-style selfie in an abandoned house emphasizes spontaneous framing and an intentionally amateur photographic feel.
+废屋中的手机自拍强调随手构图和刻意保留的业余拍摄感。
 
 BLITAST STUDIO (@blitast_studio) · <a href="https://x.com/blitast_studio/status/2107588543493329088" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Casual Selfie in an Abandoned House](https://media.reeldance.ai/galleries/assets/8bbbbba090dbca41868b46c92556332a18195e10b077a180cf49d2cf8554d6a3.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 日本人のギャルが心霊スポットの廃屋で自撮りした写真。スマホで撮影された品質。加工や作られた感じではなく、現場でパッと撮影されたようなもの。敢えての素人感を強調。
@@ -756,16 +756,16 @@ BLITAST STUDIO (@blitast_studio) · <a href="https://x.com/blitast_studio/status
 </details>
 
 <a id="fictional-adult-bathroom-mirror-selfie"></a>
-### Fictional Adult Bathroom Mirror Selfie
+### 浴室镜前随手自拍
 
-A fictional adult’s bathroom selfie explores close phone framing, natural skin texture, fabric tension and imperfect white balance.
+虚构成年人的浴室自拍探索近距离手机构图、自然皮肤质感、衣料褶皱和略不均匀的白平衡。
 
 Fav Prompt (@favprompt) · <a href="https://x.com/favprompt/status/2107393957327995297" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Fictional Adult Bathroom Mirror Selfie](https://media.reeldance.ai/galleries/assets/f7a6e5b444d3978e3188048ccdf7f6aa16f049334680960b7f7457401ded917c.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A hyper-realistic waist-up bathroom mirror selfie of one fictional young adult woman with the Hair And Makeup and Body Type. She wears the Top and stands naturally in the Bathroom Setting, holding a smartphone at arm's length in the mirror reflection. Use a front-camera wide-angle perspective with slightly close, imperfect framing, mild lens distortion and a casual off-center composition. Her very full, heavy bust should create a pronounced upper-body silhouette on a narrow torso while remaining anatomically natural and realistically supported by the top. Give her a relaxed soft pout, sleepy eyes and a direct gaze toward the phone lens. Use the Lighting as the only main source, with believable shadows and imperfect white balance. Preserve visible pores, fine skin texture, natural shine, flyaway hairs, realistic fabric tension and subtle smartphone sensor noise. Add gentle focus falloff and mild compression for an ordinary phone-photo feel, never a studio portrait. Show no other person, text, watermark, logo, username, interface overlay or border.
@@ -781,9 +781,9 @@ Lighting: "direct cool-white bathroom ceiling light"
 </details>
 
 <a id="fashion-portrait-by-a-petrol-station-cooler"></a>
-### Fashion Portrait by a Petrol-Station Cooler
+### 夜间加油站冷柜旁的时尚人像
 
-A full-length side-profile fashion portrait contrasts dark clothing and a night parking lot with a brightly lit beverage cooler.
+全身侧面时尚人像以深色穿搭和夜间停车场，对比明亮的饮料冷柜。
 
 DANJI (@DanjiTosaka) · <a href="https://x.com/DanjiTosaka/status/2107551234366537916" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -792,7 +792,7 @@ DANJI (@DanjiTosaka) · <a href="https://x.com/DanjiTosaka/status/21075512343665
 ![Fashion Portrait by a Petrol-Station Cooler](https://media.reeldance.ai/galleries/assets/5f26c87c252a6f92bcd1cc5442c4c4998bbe586f48b77e9b675ab3d5bb6efec3.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photorealistic full-length side profile of a tall young Korean woman with a slim athletic build and long legs, standing upright beside a brightly lit refrigerated beverage case in a gas station parking lot at night. Her black hair is cut in a sleek, glossy wolf cut with face-framing layers and soft curtain bangs, a few strands falling over one cheek. She wears a tight black satin crop top with thin straps that clings to her torso and leaves her midriff and abs bare, a short black leather mini skirt riding high on her thighs, and black strappy stiletto sandals with thin ankle straps. Accessories: a delicate gold chain necklace resting on her collarbone, small gold hoop earrings, a thin gold waist chain, and a slim gold bracelet on her left wrist. Her right hand holds a plain matcha-green paper cup with a straw at waist height; her left hand rests on her hip, fingers relaxed, dark nail polish visible. Her face is in clean profile toward the case, neutral expression, lips closed, eyebrows slightly arched, eyes directed at the drinks and snacks inside the glass. The refrigerator interior is the main light source, cool white and cyan spill lighting one side of her body, satin, and skin while the other side falls into deep shadow. Wet asphalt mirrors the case glow and the faint sodium streetlights; fuel pumps sit softly out of focus behind her. Shot on a Sony A7R V with an 85mm f/1.8 lens at eye level, shallow depth of field, subject sharp, background gently blurred. Cinestill 800T color, cool teal highlights, natural skin texture with visible pores, no text, no watermark. Vertical 2:3 frame.
@@ -801,9 +801,9 @@ A photorealistic full-length side profile of a tall young Korean woman with a sl
 </details>
 
 <a id="the-danji-face-beanie-macro-portrait"></a>
-### THE DANJI FACE Beanie Macro Portrait
+### 黑色针织帽与定制字标的微距人像
 
-A tight landscape portrait pairs facial detail with a black ribbed beanie and a custom white THE DANJI FACE patch.
+横向近景人像把面部细节与黑色罗纹针织帽、白色 THE DANJI FACE 字标结合。
 
 DANJI (@DanjiTosaka) · <a href="https://x.com/DanjiTosaka/status/2107534966561083882" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -812,7 +812,7 @@ DANJI (@DanjiTosaka) · <a href="https://x.com/DanjiTosaka/status/21075349665610
 ![THE DANJI FACE Beanie Macro Portrait](https://media.reeldance.ai/galleries/assets/5825ab9384d6c566d817360a7ad4d3df8616b40cbd5b17536aedd2f8054dcc4c.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A super close-up view of a young woman with blonde hair, wearing a black ribbed beanie featuring a prominent white "THE DANJI FACE" in the style of the north face logo patch. She has brown eyes, full lips, pink blush, and long false eyelashes, posed in a macro landscape portrait orientation.
@@ -821,19 +821,19 @@ A super close-up view of a young woman with blonde hair, wearing a black ribbed 
 </details>
 
 <a id="storyboards"></a>
-## Character sheets & sequences
+## 角色设定与连续画面
 
 <a id="headless-turnaround-character-sheet"></a>
-### Headless Turnaround Character Sheet
+### 单面部加无头三视图角色设定页
 
-One face close-up sits beside front, rear and side outfit views cropped at the neck, keeping the character sheet focused on a single face.
+将一个面部特写与颈部以下的正、背、侧面服装视图并列，角色设定页只保留一张脸。
 
 Wanderson Jackson (@jackson99ai) · <a href="https://x.com/jackson99ai/status/2107635724480610563" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Headless Turnaround Character Sheet](https://media.reeldance.ai/galleries/assets/6becaacba396df4419a0a37e98f994b7a92b914ea2823dd5e00257d9fa2124c2.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Wide 16:9 character model sheet in HEADLESS TURNAROUND layout. Left third: ONE large front-facing face close-up, neutral expression, even soft light, the only face on the sheet. Right two thirds: full-body turnaround of the same outfit, front, back and side views at identical scale in a neutral standing pose, every body view HEADLESS (cropped at the neck) so the sheet contains exactly one face. Flat neutral light-grey studio background, no text, no labels, no story action.
@@ -842,16 +842,16 @@ Wide 16:9 character model sheet in HEADLESS TURNAROUND layout. Left third: ONE l
 </details>
 
 <a id="movie-collage-from-ending-to-beginning"></a>
-### Movie Collage from Ending to Beginning
+### 从结局到开头的电影拼贴
 
-A one-line prompt asks for a favorite film to be retold in collage form, moving backward from its ending.
+用一句提示词把喜爱的电影做成拼贴，并从结局向开头倒叙。
 
 K Group News (@AllTesterhag) · <a href="https://x.com/AllTesterhag/status/2107340674001715482" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Movie Collage from Ending to Beginning](https://media.reeldance.ai/galleries/assets/b658b906f7184ff632f3d9ec9b9505214fb51a910445f1b9b56d4bc6ddb30291.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 make a collage of your favourite movie from end to start
@@ -860,16 +860,16 @@ make a collage of your favourite movie from end to start
 </details>
 
 <a id="imagined-google-ceo-childhood-timeline"></a>
-### Imagined Google CEO Childhood Timeline
+### 谷歌 CEO 从童年到现在的时间线
 
-A generated timeline imagines one person across ages while retaining a consistent face. Nano Banana 2.1 is the bottom panel; the childhood scenes are fictional reconstructions.
+生成时间线以同一张脸想象人物不同年龄。下方为 Nano Banana 2.1，童年场景是虚构重建画面。
 
 Marcel (@marcthecreatorr) · <a href="https://x.com/marcthecreatorr/status/2107532275529273535" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Imagined Google CEO Childhood Timeline — Comparison image: Nano Banana 2.1 is the BOTTOM panel and GPT Image 2.5 is above. The childhood scenes are AI-imagined, not historical photographs.](https://media.reeldance.ai/galleries/assets/e6e664293c54e0ae2987d2a1f26bb488e52fd8bdfa3176d70ab7db37b25a3573.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 create a realistic timeline of google’s ceo from childhood to now while keeping the same face throughout.
@@ -878,16 +878,16 @@ create a realistic timeline of google’s ceo from childhood to now while keepin
 </details>
 
 <a id="four-character-giant-banana-comic"></a>
-### Four-Character Giant Banana Comic
+### 四角色发现巨型香蕉的四格漫画
 
-Four recurring characters discover a giant banana across four comic panels, with consistent outfits and short dialogue.
+四位重复角色在四格漫画中发现巨型香蕉，通过一致服装和简短对白连接剧情。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107534561685221433" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Four-Character Giant Banana Comic](https://media.reeldance.ai/galleries/assets/c3eda5aa4e30e300bc3ca5880844ce6476c20b924b780f7d486eeddd25c17ba2.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A 4-panel comic strip in a clean modern style. The same four characters appear in every panel with identical faces, hair and outfits: Ali, a tall man with a beard and a green hoodie; Sara, a woman with a red hijab and round glasses; Max, a small orange cat; and Rob, a silver robot with one blue eye. Panel 1: they find a giant banana in a park. Panel 2: Rob scans it, and his screen reads "2.1". Panel 3: Sara takes a photo while Max sniffs it. Panel 4: Ali says in a speech bubble, "Okay, this one actually gets the text right." Aspect ratio 1:1, 2K.
@@ -896,19 +896,19 @@ A 4-panel comic strip in a clean modern style. The same four characters appear i
 </details>
 
 <a id="products"></a>
-## Products & object studies
+## 产品与物体研究
 
 <a id="eight-object-spatial-instruction-test"></a>
-### Eight-Object Spatial Instruction Test
+### 八类物件数量和位置遵循测试
 
-An overhead oak-table scene asks for exact object counts, positions and clock hands, turning a flat lay into a spatial-instruction exercise.
+橡木桌俯拍场景对物体数量、位置和钟表指针提出精确要求，把静物平铺变成空间指令练习。
 
 Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2107534294927413696" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Eight-Object Spatial Instruction Test](https://media.reeldance.ai/galleries/assets/c26e895a037988a95dd56a71273e0e0e9a257b60a50ed9aef55749023129480a.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -932,16 +932,16 @@ Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2
 </details>
 
 <a id="left-hand-writing-and-seven-apples-test"></a>
-### Left-Hand Writing and Seven Apples Test
+### 左手书写、七颗苹果与 7:43 咖啡馆测试
 
-A café scene combines left-handed writing, exact finger and apple counts, a clock time and readable signs in one detailed instruction exercise.
+咖啡馆场景把左手书写、手指与苹果数量、钟表时间和可读招牌组合成细节指令练习。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107533432154964187" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Left-Hand Writing and Seven Apples Test](https://media.reeldance.ai/galleries/assets/f1f3fcabf47fb7e6814be5871308b93ce7d27194ea6d556268e8eaca707cdf80.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A photorealistic photo of a cozy café interior in soft afternoon window light, shot on a 35mm lens. A young woman sits at a wooden table writing in a notebook with her LEFT hand, while her right hand is raised showing exactly three fingers. On the table: a wine glass filled with red wine all the way to the very brim, the surface touching the rim; a white bowl holding exactly seven green apples; and a folded newspaper with the headline "NANO BANANA 2.1 IS HERE" and the date "OCTOBER 6, 2026". On the wall behind her: an analog clock showing exactly 7:43, and a chalkboard menu that reads "TODAY'S SPECIAL: PISTACHIO CROISSANT $4.50" with "NO WIFI. TALK TO EACH OTHER." written below it. A mirror on the side wall shows her reflection accurately, matching her pose. Natural skin texture, realistic reflections, sharp legible text. Aspect ratio 4:5, 4K.
@@ -950,16 +950,16 @@ A photorealistic photo of a cozy café interior in soft afternoon window light, 
 </details>
 
 <a id="numbered-fingers-watch-and-fabric-test"></a>
-### Numbered Fingers, Watch and Fabric Test
+### 数字指尖、手表与织物微距压力测试
 
-A macro hand portrait requests numbered fingertips, a watch set to 3:15, water droplets and detailed cable-knit fibers.
+手部微距要求指尖数字、显示 3:15 的手表、水珠和清晰的绞花针织纤维。
 
 Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2107534303907225645" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Numbered Fingers, Watch and Fabric Test](https://media.reeldance.ai/galleries/assets/7da0912df783fe3453ba0c0b3d494e751d94a183b2fb6db4e4ae20c37bf1c290.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -977,9 +977,9 @@ Dheepan Ratnam (@Dheepanratnam) · <a href="https://x.com/Dheepanratnam/status/2
 </details>
 
 <a id="stradivarius-violin-in-a-display-case"></a>
-### Stradivarius Violin in a Display Case
+### 世界最昂贵斯特拉迪瓦里小提琴展柜摄影
 
-A Japanese prompt asks for a professional exhibition photograph of a Stradivarius violin inside a display case.
+日文提示词要求以专业展览摄影风格描绘展示柜中的斯特拉迪瓦里小提琴。
 
 Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfines71321/status/2107521814113263727" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -988,7 +988,7 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 ![Stradivarius Violin in a Display Case](https://media.reeldance.ai/galleries/assets/c65831b5976abc69f5184daf9f49ee50e9b62d6fef168e481df5007d29e71943.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 世界で一番高価なストラディヴァリのバイオリンをショーケースの中に入れた状態で展示している様子を、現地でプロカメラマンが撮影したスチル写真として作画して。
@@ -997,12 +997,12 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 </details>
 
 <a id="edits"></a>
-## Photo editing
+## 照片编辑
 
 <a id="glass-music-player-on-a-bus-window"></a>
-### Glass Music Player on a Bus Window
+### 公交车窗上的玻璃质感音乐播放器
 
-A reference subject is moved into a melancholy bus-window scene with a translucent music-player interface. Supply a subject reference photo.
+把参考人物放入带忧郁氛围的公交车窗场景，再叠加半透明音乐播放器界面。需要提供人物参考照片。
 
 Kaan (@kaanakz) · <a href="https://x.com/kaanakz/status/2107540710912033099" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1011,7 +1011,7 @@ Kaan (@kaanakz) · <a href="https://x.com/kaanakz/status/2107540710912033099" re
 ![Glass Music Player on a Bus Window](https://media.reeldance.ai/galleries/assets/000585d2af86fedc17dcff9394f7cefeeb60abaa411d2b22bb96b644cdbddc25.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 {
@@ -1079,22 +1079,22 @@ Kaan (@kaanakz) · <a href="https://x.com/kaanakz/status/2107540710912033099" re
 </details>
 
 <a id="dutch-angle-mecha-throw-with-two-references"></a>
-### Dutch-Angle Mecha Throw with Two References
+### 角色抛掷机甲的荷兰角动作场面
 
-Two supplied images define a dynamic throwing scene viewed at a Dutch angle. Both input references are linked separately below.
+以两张输入参考图构建倾斜镜头下的动态投掷场景，两张参考图在下方单独列出。
 
 Nokosu (@Nokosu_kansoku) · <a href="https://x.com/Nokosu_kansoku/status/2107668460012802467" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Dutch-Angle Mecha Throw with Two References](https://media.reeldance.ai/galleries/assets/96e709ee655d81e1ab7852868d09abda747c8b9ce68833a3916698e2d187d7b9.webp)
 
-Input references (separate from the output):
+参考输入（与输出分开）：
 
-<a href="https://media.reeldance.ai/galleries/assets/1dcb0950ffebf8f7a89c5f401bc9cb1811d6f2ce98ae432a2629ad96aec2c11a.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Input reference 1</a> · <a href="https://x.com/Nokosu_kansoku/status/2107668460012802467" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
+<a href="https://media.reeldance.ai/galleries/assets/1dcb0950ffebf8f7a89c5f401bc9cb1811d6f2ce98ae432a2629ad96aec2c11a.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">输入参考图 1</a> · <a href="https://x.com/Nokosu_kansoku/status/2107668460012802467" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/6ad70eac677b1dae872c5653d2a6d1057ba9c74fb25f86414ee45b11a649e76c.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Input reference 2</a> · <a href="https://x.com/Nokosu_kansoku/status/2107668460012802467" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
+<a href="https://media.reeldance.ai/galleries/assets/6ad70eac677b1dae872c5653d2a6d1057ba9c74fb25f86414ee45b11a649e76c.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">输入参考图 2</a> · <a href="https://x.com/Nokosu_kansoku/status/2107668460012802467" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 image1がimage2を持ち上げてダイナミックにぶん投げている画像。構図はダッチアングル
@@ -1103,16 +1103,16 @@ image1がimage2を持ち上げてダイナミックにぶん投げている画�
 </details>
 
 <a id="cobra-style-transfer-comparison"></a>
-### Cobra Style Transfer Comparison
+### 眼镜蛇的四种风格迁移
 
-Transfer one image’s subject into another image’s medium and palette. Nano Banana 2.1 is the upper-right output; left panels are references and the lower-right output is Nano Banana Pro.
+将一张图的主体迁移到另一张图的媒介与配色。右上输出为 Nano Banana 2.1，左侧是参考图，右下为 Nano Banana Pro。
 
 Finn McKenty (@thefinnmckenty) · <a href="https://x.com/thefinnmckenty/status/2107574685433286858" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Cobra Style Transfer Comparison — Comparison composite: Nano Banana 2.1 is the UPPER-RIGHT output. Left panels are content/style references; lower-right is Nano Banana Pro. This is one prompt and one reviewed style example.](https://media.reeldance.ai/galleries/assets/6905862788946ef40c6238ccc376599a91fc57d7926e0e2ea2b75712369ebd3f.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Create an image of the content as shown in [image 1] but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of [image 2]. Objective: Style transfer from [image 1 to [image 2]
@@ -1121,16 +1121,16 @@ Create an image of the content as shown in [image 1] but with the same medium, c
 </details>
 
 <a id="tank-top-necklace-and-ponytail-edit"></a>
-### Tank Top, Necklace and Ponytail Edit
+### 更换背心、项链、发型与墙面
 
-Edit clothing, jewelry, hairstyle and wall color while retaining the scene. Nano Banana 2.1 is the middle panel, between the original reference and Flux 3 output.
+保留场景并改变衣服、首饰、发型和墙色。中间为 Nano Banana 2.1，左右分别为原图和 Flux 3 输出。
 
 Ori Silver (@OriSilver) · <a href="https://x.com/OriSilver/status/2107521311685701663" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Tank Top, Necklace and Ponytail Edit — Editing comparison: Nano Banana 2.1 is the MIDDLE panel. The left panel is the original reference and the right panel is Flux 3.](https://media.reeldance.ai/galleries/assets/60ba7fad7df4a2265e5e110b1215c8d1051e877dbe61aff0c8630799824d0453.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Change that she is wearing a tanktop black sleevless and her necklece is now gold she also has her hair in a pony tail and the background behind her has dark blue walls instead of wood panels, everything else stays the same
@@ -1139,9 +1139,9 @@ Change that she is wearing a tanktop black sleevless and her necklece is now gol
 </details>
 
 <a id="playful-bali-monkey-forest-travel-selfie"></a>
-### Playful Bali Monkey-Forest Travel Selfie
+### 巴厘岛猴林的搞怪旅行自拍
 
-A reference face is placed beside a macaque for a playful Bali travel selfie with sunglasses and a comic peace-sign moment. Supply a face reference.
+把参考人物置于猕猴旁，用墨镜与偶然的剪刀手形成巴厘岛旅行自拍的趣味瞬间。需要提供面部参考图。
 
 lynn (@lynninchis) · <a href="https://x.com/lynninchis/status/2107569908624367740" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1150,7 +1150,7 @@ lynn (@lynninchis) · <a href="https://x.com/lynninchis/status/21075699086243677
 ![Playful Bali Monkey-Forest Travel Selfie](https://media.reeldance.ai/galleries/assets/58fe2232ffc8829f3cd3c85fb42e00cee09dc2c586f90de9f89057d4aa9c4359.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Fun travel selfie photo shot on a phone front camera, vertical 3:4, candid lighthearted Bali Instagram vibe. Use the attached
@@ -1170,9 +1170,9 @@ authentic real-photo feel
 </details>
 
 <a id="secret-shadow-instant-film-edit"></a>
-### Secret Shadow Instant-Film Edit
+### 透露内心愿望的秘密影子
 
-Keep an uploaded photograph intact while a long afternoon shadow acts out the subject’s hidden wish, within an instant-film border. Supply a photo.
+在即时成像相框内保留上传照片，让午后长影演出主体的隐秘愿望。需要提供照片。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107548617687130522" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1181,7 +1181,7 @@ Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/21075486176871305
 ![Secret Shadow Instant-Film Edit](https://media.reeldance.ai/galleries/assets/c3d87025ebdf602ffbc9a7bd2c13ef5cc91cae3348ca140a1b73dee26aecda75.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Create one "Secret Shadow" image per upload. Never combine photos.
@@ -1206,16 +1206,16 @@ Negative: No extra subjects or props, no colored or detailed shadows, no glow or
 </details>
 
 <a id="banana-phone-banknote-editing-attempt"></a>
-### Banana Phone Banknote Editing Attempt
+### 香蕉电话与新字样的迷宫纸币
 
-An engraved banknote edit changes lettering and symbols while asking for a banana telephone. The output still leaves the hand at the chin rather than moving the banana to the ear.
+雕版纸币编辑改变文字和符号，并要求香蕉电话姿态。输出仍把手留在下巴处，没有完成将香蕉移到耳边的要求。
 
 ibexdream (@ibexdream) · <a href="https://x.com/ibexdream/status/2107520955153076621" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Banana Phone Banknote Editing Attempt — The author requested moving the banana to the ear, but the shown output still has the hand at the chin. This example preserves an unsuccessful editing attempt.](https://media.reeldance.ai/galleries/assets/26e88139b20895804e4790bb936afc6d79fb3e605d3baad4296629cd0e40de39.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Edit this image while preserving the antique engraved banknote style, the philosopher’s identity, and the overall composition. Change the philosopher so he is holding a banana to his ear as if he is speaking on a telephone. Replace the text "THE CURRENCY OF THOUGHT" with "THE CURRENCY OF NANOBANANA". Replace the text "THE LABYRINTH OF THOUGHT" with "THE LABYRINTH OF PROMPTS". Add the central motto "IN BANANA WE TRUST". Change the serial number to "NB-21098471". Redesign the corner symbols so they become banana-infinity icons. Keep the image elegant, surreal, intricate, and visually coherent, with all changes integrated naturally into the engraved banknote design.
@@ -1224,16 +1224,16 @@ Edit this image while preserving the antique engraved banknote style, the philos
 </details>
 
 <a id="labyrinth-banknote-to-oil-painting"></a>
-### Labyrinth Banknote to Oil Painting
+### 迷宫纸币转化为超写实油画
 
-Reinterpret the engraved philosopher-and-labyrinth design as a dramatic oil painting while retaining the lettering and surreal composition. Supply the preceding image.
+将哲学家与迷宫的雕版设计改成戏剧感油画，同时保留文字与超现实构图。需要提供前序作品图。
 
 ibexdream (@ibexdream) · <a href="https://x.com/ibexdream/status/2107520960370790593" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Labyrinth Banknote to Oil Painting](https://media.reeldance.ai/galleries/assets/e99b25fbcc69b1d2c91fad7071680070fc6f826c8841f1395ab111691a655e43.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Transform this image into an ultra-realistic oil painting while preserving the philosopher’s identity, the banana held to his ear like a telephone, the labyrinth concept, and the overall composition. Reinterpret the engraved banknote design as a richly painted fine-art scene with realistic skin, expressive brushwork, detailed robes, and a dramatic, museum-quality atmosphere. The labyrinth should become a painted architectural maze integrated into the composition. Preserve the text “THE CURRENCY OF NANOBANANA,” “THE LABYRINTH OF PROMPTS,” the motto “IN BANANA WE TRUST,” the serial number “NB-21098471,” and the banana-infinity corner icons, adapting them naturally into the painted design. The final result should feel grand, surreal, elegant, and visually impressive.
@@ -1242,9 +1242,9 @@ Transform this image into an ultra-realistic oil painting while preserving the p
 </details>
 
 <a id="violin-exhibition-label-close-up-edit"></a>
-### Violin Exhibition Label Close-Up Edit
+### 小提琴展览说明牌特写编辑
 
-Zoom into the explanatory label from the preceding violin exhibition scene. This is a continuation edit using that scene as context.
+在前序小提琴展览场景中拉近说明牌，属于使用该场景作为上下文的连续编辑。
 
 Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfines71321/status/2107521814113263727" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1252,12 +1252,12 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 
 ![Violin Exhibition Label Close-Up Edit](https://media.reeldance.ai/galleries/assets/f95363f0b7e306d82871d3923a39f777a3e645704950337bf033356cc4080bbb.webp)
 
-Input references (separate from the output):
+参考输入（与输出分开）：
 
-<a href="https://media.reeldance.ai/galleries/assets/c65831b5976abc69f5184daf9f49ee50e9b62d6fef168e481df5007d29e71943.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Input reference 1</a> · <a href="https://x.com/PElfines71321/status/2107521814113263727" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
+<a href="https://media.reeldance.ai/galleries/assets/c65831b5976abc69f5184daf9f49ee50e9b62d6fef168e481df5007d29e71943.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">输入参考图 1</a> · <a href="https://x.com/PElfines71321/status/2107521814113263727" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source / 原帖</a>
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 説明プレートをクローズアップしたスチルを作って
@@ -1266,19 +1266,19 @@ Input references (separate from the output):
 </details>
 
 <a id="styles"></a>
-## Styles & scenes
+## 风格与场景
 
 <a id="lone-figure-beneath-an-indigo-dusk-sky"></a>
-### Lone Figure beneath an Indigo Dusk Sky
+### 靛蓝至杏色暮空与山脊孤影
 
-An indigo-to-apricot sky towers over a tiny figure on a ridge, with generous empty space and a quiet serif caption.
+靛蓝至杏色的暮空覆盖山脊孤影，以大面积留白和一行衬线文字形成安静构图。
 
 Emilio (@EmilioSchwaiger) · <a href="https://x.com/EmilioSchwaiger/status/2107609368434754002" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Lone Figure beneath an Indigo Dusk Sky](https://media.reeldance.ai/galleries/assets/1daea6da25eaefd188141ec1ec5dde344e4400d26a12bf363108886a0c37b8c1.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A vast gradient sky from deep indigo to soft apricot at dusk, a tiny lone figure on a distant ridge, enormous empty space, film grain, small elegant serif text: "Where the quiet meets the vast."
@@ -1287,16 +1287,16 @@ A vast gradient sky from deep indigo to soft apricot at dusk, a tiny lone figure
 </details>
 
 <a id="fluffy-mothman-by-a-moonlit-lake"></a>
-### Fluffy Mothman by a Moonlit Lake
+### 月夜湖畔的可爱毛茸茸蛾人
 
-A fluffy Mothman with oversized wings stands by a moonlit lake, surrounded by fireflies and deep midnight blues.
+毛茸茸的大翼蛾人站在月光湖畔，萤火虫与午夜蓝色共同组成温柔奇幻场景。
 
 Heather Green (@heathergreen) · <a href="https://x.com/heathergreen/status/2107591740647416041" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Fluffy Mothman by a Moonlit Lake](https://media.reeldance.ai/galleries/assets/93d41407df6b60faccc84b55a67d65903170ff6b99afebb742e0aad93aa6d7f3.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 An adorably cute Mothman cryptid creature with soft, fluffy details and oversized wings stands beside a sparkling lake at night, gazing toward the viewer with a gentle, curious expression. Fireflies glow among the trees, while a luminous full moon casts a silvery path across the water; dreamy atmosphere, delicate moonlit rim lighting, rich midnight blues, whimsical cinematic composition.
@@ -1305,16 +1305,16 @@ An adorably cute Mothman cryptid creature with soft, fluffy details and oversize
 </details>
 
 <a id="christmas-dinosaur-tangled-in-lights"></a>
-### Christmas Dinosaur Tangled in Lights
+### 缠满圣诞彩灯的绿色小恐龙
 
-A smiling green dinosaur in a Santa hat tangles itself in colorful lights beside a wrapped gift.
+戴圣诞帽的绿色小恐龙被彩灯缠住，礼盒、雪花和星星增添节日气氛。
 
 Heather Green (@heathergreen) · <a href="https://x.com/heathergreen/status/2107577675304853789" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Christmas Dinosaur Tangled in Lights](https://media.reeldance.ai/galleries/assets/74dd5aa14f4adf7e98c6ea9b7c1e6481c9e1577e6b7449be9cd27bdc1b77989f.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A cute green dinosaur wearing a Santa hat is sitting and tangled in colorful Christmas lights. The dinosaur has a big smile and is holding the string of lights with its hands. Around the dinosaur are several snowflakes and stars. To the left of the dinosaur, there is a red gift box with a white ribbon.
@@ -1323,16 +1323,16 @@ A cute green dinosaur wearing a Santa hat is sitting and tangled in colorful Chr
 </details>
 
 <a id="earth-horizon-over-india"></a>
-### Earth Horizon over India
+### 从太空俯瞰印度的地球地平线
 
-A short prompt asks for an orbital view of Earth’s horizon with India visible below.
+以简短提示词描绘太空视角下的地球地平线，并让印度出现在画面中。
 
 Ved Pratap Singh (@vedthinks) · <a href="https://x.com/vedthinks/status/2107556452651118988" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Earth Horizon over India](https://media.reeldance.ai/galleries/assets/f5d59d4cd561965631028469416f92987f2f1deafc780a347aaec230dc977614.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Create the high quality 4k res picture of a earth horizon short from the space and showing India.
@@ -1341,16 +1341,16 @@ Create the high quality 4k res picture of a earth horizon short from the space a
 </details>
 
 <a id="bosphorus-night-time-food-caravan"></a>
-### Bosphorus Night-Time Food Caravan
+### 博斯普鲁斯海峡夜间烤肉车
 
-A makeshift köfte stall on the Bosphorus waterfront combines charcoal glow, handmade lettering, steam and wet street reflections.
+博斯普鲁斯海峡边的简易烤肉车结合炭火、手写招牌、蒸汽和湿地反光，描绘夜间烟火气。
 
 Ozan Sihay (@ozansihay) · <a href="https://x.com/ozansihay/status/2107544398531637407" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Bosphorus Night-Time Food Caravan](https://media.reeldance.ai/galleries/assets/b4270a734f9021aa484e76886ea033078be46d902938db5e8b757a16dc021a90.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall, slightly battered metal sides, steam rising. Hand-painted neon-style rickety sign reading “Köfteci Buğra Usta” in Turkish, glowing uneven cyan and warm amber, wires and brackets visibly DIY. Inside the open caravan, the usta grilling köfte over charcoal, orange ember glow on his face and apron. One waiter in a simple dark shirt stands in front of the stall; the same “Köfteci Buğra Usta” lettering is printed on the back of his shirt. Plastic stools and small low tables outside, a few locals eating, soft conversation. A plastic water jug (damacana) near the counter. Behind them, dark Bosphorus water with distant city lights and a faint ferry silhouette. Wet asphalt reflections, streetlamp spill, shallow depth of field, natural film grain, shot on 35mm f/1.8, candid documentary look, no CGI look, no text errors on signs.
@@ -1359,16 +1359,16 @@ Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A 
 </details>
 
 <a id="morning-flowers-at-an-indian-shrine"></a>
-### Morning Flowers at an Indian Shrine
+### 印度晨光中在神龛前献花的男孩
 
-A barefoot child places flowers and bread beneath a weathered shrine mural, with sunrise haze and aged neighborhood textures.
+赤脚孩子在褪色神龛壁画下摆放花与面包，晨光薄雾和老街肌理营造纪实氛围。
 
 BMX (@bmx_ai13) · <a href="https://x.com/bmx_ai13/status/2107528919838867531" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Morning Flowers at an Indian Shrine](https://media.reeldance.ai/galleries/assets/30e49d45df9fa0fbca8f15e59d1a86d17c306b3277b0798b9f7f0f9aa30e8dda.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 At sunrise in an old Indian neighborhood, a young barefoot boy sits on a low stone step beneath a beautifully faded wall painting of a Hindu goddess. He carefully places a tiny flower and a small piece of bread beneath the mural, copying rituals he has seen adults perform. Soft morning light filters through the narrow lane, creating warm highlights, gentle haze and glowing dust particles. The child wears a faded brown shirt and loose trousers, with messy hair and a thoughtful expression. The surrounding architecture is aged, with cracked plaster, exposed brick, faded blue paint and weather stains. Quiet spiritual documentary scene, natural human emotion, visual poetry, authentic street photography, warm sunrise tones, soft cinematic contrast, realistic textures, 35mm lens, subtle grain, timeless atmosphere, highly detailed photorealism, no staged posing, no text, no watermark.
@@ -1377,16 +1377,16 @@ At sunrise in an old Indian neighborhood, a young barefoot boy sits on a low sto
 </details>
 
 <a id="vintage-screen-print-lighthouse"></a>
-### Vintage Screen-Print Lighthouse
+### 复古丝网印刷风的夜海灯塔
 
-A colorful lighthouse casts a curved beam over a dark ocean in a textured retro screen-print style. Nano Banana 2.1 is the upper-left panel of the four-model comparison.
+彩色灯塔在深色海面投出弧形光束，采用带纹理的复古丝网印刷风格。四模型对比中左上为 Nano Banana 2.1。
 
 Hakm (@hakmgpt) · <a href="https://x.com/hakmgpt/status/2107535382183387282" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Vintage Screen-Print Lighthouse — Four-model comparison: Nano Banana 2.1 is the UPPER-LEFT panel; the other three panels are different models.](https://media.reeldance.ai/galleries/assets/e579a5b03221dce074f1369228d968395ea821bb89b0fd7841743a1befbda694.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.
@@ -1395,16 +1395,16 @@ A spectacular vintage screen-print illustration of a tall colorful lighthouse st
 </details>
 
 <a id="four-ai-assistants-as-anime-characters"></a>
-### Four AI Assistants as Anime Characters
+### 四款 AI 助手拟人化动漫插画
 
-ChatGPT, Claude, Gemini and Grok become four anime characters in a single personification illustration.
+将 ChatGPT、Claude、Gemini 与 Grok 拟人化为一组动漫角色。
 
 IT navi (@itnavi2022) · <a href="https://x.com/itnavi2022/status/2107513221624270867" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
 ![Four AI Assistants as Anime Characters](https://media.reeldance.ai/galleries/assets/341bee8100ddbe362f2c36c5d7407825b0e0a3996d87ed11155b153da3ba0ad7.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 ChatGPT、Claude、Gemini、Grokをかわいい女の子に擬人化したアニメイラストを描いて
@@ -1413,9 +1413,9 @@ ChatGPT、Claude、Gemini、Grokをかわいい女の子に擬人化したアニ
 </details>
 
 <a id="skull-illusion-in-a-tulip-park"></a>
-### Skull Illusion in a Tulip Park
+### 鸟瞰郁金香公园形成的骷髅幻象
 
-An overhead tulip festival forms a skull through hedges, ponds, flower beds and umbrellas, while visitors fill the colorful park.
+鸟瞰郁金香节通过树篱、水池、花坛和遮阳伞形成骷髅轮廓，游人仍散布于彩色公园中。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107541381153493327" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1424,7 +1424,7 @@ Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/21075413811534933
 ![Skull Illusion in a Tulip Park](https://media.reeldance.ai/galleries/assets/76079cb085c9f7f3230f989495673c7e76be97ccd1f11f2ca65ff495255dc98d.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A breathtaking aerial drone photo, looking straight down, of a giant flower festival in a vibrant tulip park on a sunny spring day. The whole park is designed so that, seen from above, it forms a perfect human skull: an oval of tall dark-green hedges traces the outline of the skull and jaw; two large round ponds of deep black water form the eye sockets, each with a single white swan floating in it like a glint in the eye; a triangular bed of dark-red tulips forms the nose; and two curved rows of white beach umbrellas form the upper and lower teeth. Everywhere else, the park explodes with color: rainbow stripes of tulips in pink, orange, yellow, purple and red, hundreds of tiny people picnicking on blankets, kids flying kites, a carousel, food trucks and balloons. Up close it looks like pure joy; from a distance, the skull is unmistakable. Ultra-detailed, hyperreal, saturated colors, crisp midday light. Aspect ratio 4:5, 4K.
@@ -1433,9 +1433,9 @@ A breathtaking aerial drone photo, looking straight down, of a giant flower fest
 </details>
 
 <a id="silver-haired-witch-with-a-glowing-orb"></a>
-### Silver-Haired Witch with a Glowing Orb
+### 银发女巫与发光魔法球
 
-A close anime portrait concentrates on silver hair, luminous eyes and a translucent glowing orb against a cool grayscale palette.
+动漫近景人像聚焦银发、发光眼睛与半透明魔法球，采用冷灰色配色。
 
 Ark (@quimedesu) · <a href="https://x.com/quimedesu/status/2107529218758512739" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1444,7 +1444,7 @@ Ark (@quimedesu) · <a href="https://x.com/quimedesu/status/2107529218758512739"
 ![Silver-Haired Witch with a Glowing Orb](https://media.reeldance.ai/galleries/assets/793c075c5f8f08c322fd230ad18dc7da02ffec4ff52c0b2105dac6b245888b6a.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 Hyper-detailed anime portrait in close-up, a woman tilting her head back with her lips parted and tongue extended toward a glowing translucent silver orb that has two wide vertical black rectangles that look etched into the orb as eyes, with no nose, or mouth on the orb, she holds delicately between her fingertips. She has long silver-gray hair streaked with vivid electric-silver inner strands, fine flyaways catching the light, falling across her face and shoulders. Her eyes are luminous and glassy, deep sapphire-silver with intricate sparkling iris detail, bright star-shaped catchlights, and long dark lashes, half-lidded in a sultry expression with a faint tear-gloss shimmer at the corners. Her skin is rendered in cool desaturated grayscale tones, smooth and pale, set against the intense silver accents throughout. Her fingernails are long, sharp, and glowing translucent silver like polished gems, glinting with light. The orb at the center is a perfect glassy sphere swirling with marbled blue-and-white energy, casting bright caustic light onto her lips, chin, and fingers. She drips with ornate jewelry, a delicate ring chain and gemstone rings on her fingers, layered chain bracelets with dangling silver crystal charms, a teardrop earring of glowing blue gems on fine silver chains, a choker, and stacked silver necklaces ending in a faceted blue heart-shaped pendant resting on her collarbone, every gem emitting its own soft glow. Sparkles and tiny light flares scatter across the frame. Deep shadowy background fading to near-black, dramatic moody lighting, glossy specular highlights, ultra detailed digital painting, painterly anime rendering, cinematic color grading dominated by silver, deep silver , and electric cyan, sharp focus, seductive and ethereal atmosphere. She is a witch and wear a hat.
@@ -1453,9 +1453,9 @@ Hyper-detailed anime portrait in close-up, a woman tilting her head back with he
 </details>
 
 <a id="human-history-inside-a-nautilus-shell"></a>
-### Human History inside a Nautilus Shell
+### 鹦鹉螺壳八个舱室中的人类历史
 
-Eight miniature historical scenes fill a cut nautilus shell, connected by a golden thread and photographed against black velvet.
+剖开的鹦鹉螺壳装入八个微缩历史场景，以金色光线连接，背景为黑色丝绒。
 
 Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/2107539621169016910" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
 
@@ -1464,7 +1464,7 @@ Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/21075396211690169
 ![Human History inside a Nautilus Shell](https://media.reeldance.ai/galleries/assets/c948eea1ed1c50384185446fdff9b89a65cf2bb49ac3d9f06e41111f5ea63811.webp)
 
 <details>
-<summary>Complete original prompt</summary>
+<summary>完整原始提示词</summary>
 
 ```text
 A breathtaking macro photograph of a chambered nautilus shell cut in half, resting on black velvet, its pearlescent nacre glowing with iridescent pink, gold and blue. Eight chambers along the spiral each hold a tiny, lit miniature world showing one era of human history, in order from the innermost chamber to the outermost: a cave with a campfire and handprint paintings; scribes carving hieroglyphs by oil lamp; an ancient library of scrolls; a medieval stained-glass workshop; a Renaissance artist's studio with sketches of flying machines; a steam-age workshop full of gears and a printing press; a 1960s mission control room with glowing screens; and, in the largest outer chamber, a child at a window looking up at a sky full of stars, holding a paper rocket. A thin thread of golden light passes through every chamber, connecting the eras like the shell's real siphuncle. Each miniature is warmly lit like a lantern, so the whole spiral glows from within. Cinematic studio lighting, ultra-fine detail, shallow depth of field, awe-inspiring and dreamlike, yet photographically real. Aspect ratio 4:5, 4K.
@@ -1472,21 +1472,21 @@ A breathtaking macro photograph of a chambered nautilus shell cut in half, resti
 
 </details>
 
-## Discover more
+## 查看更多作品
 
-Visit the <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 gallery</a> for more examples and prompt copying, or explore <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> for a new direction.
+在 <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 在线作品库</a> 浏览与复制更多案例，或到 <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> 寻找新的创作方向。
 
-| More collections | Online gallery | GitHub |
+| 其他模型合集 | 在线浏览 | GitHub |
 | --- | --- | --- |
-| GPT Image 2.5 | <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Gallery</a> | <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
-| Kling 4.0 Flash | <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Gallery</a> | <a href="https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
+| GPT Image 2.5 | <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
+| Kling 4.0 Flash | <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
 
-## Share your work
+## 分享你的作品
 
-Have an example to share? Open a <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts/issues/new" rel="nofollow noreferrer" referrerpolicy="no-referrer">submission issue</a> with the complete original prompt, creator credit, original post, model name and corresponding output. Identify any input references separately.
+欢迎通过 <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts/issues/new" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿 Issue</a>，附完整原始提示词、作者、准确原帖、模型名称和对应输出。若用到参考图片，请与输出分开标明。
 
-## Attribution & use
+## 归属与使用
 
-Prompts and artwork belong to their creators. Original posts are linked with each example; respect the creator’s permissions and conditions for further use. Model credits follow creator statements.
+提示词和作品归各自创作者所有。作者原帖保留在每个案例中；进一步使用请尊重原作者的授权与要求。模型署名沿用创作者声明。
 
-[Maintainer and data documentation](docs/maintaining.md)
+[维护与数据说明](docs/maintaining.md)
