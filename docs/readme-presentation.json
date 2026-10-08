@@ -245,5 +245,10 @@
       "zh": "杂志跨页呈现巴黎秀场上以盆栽为灵感的前卫服饰与妆容，并配法文编辑文字。"
     }
   },
-  "media": {}
+  "media": {
+    "https://pbs.twimg.com/media/HUEpG_RWUAAsey_.jpg": "https://media.reeldance.ai/galleries/assets/30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70.webp",
+    "https://pbs.twimg.com/media/HT92PfdWAAA-_m4.jpg": "https://media.reeldance.ai/galleries/assets/efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b.webp",
+    "https://pbs.twimg.com/media/HUCUnHtbsAA5YCa.jpg": "https://media.reeldance.ai/galleries/assets/c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158.webp",
+    "https://pbs.twimg.com/media/HUCGKTTbcAAGYQV.jpg": "https://media.reeldance.ai/galleries/assets/168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392.webp"
+  }
 }

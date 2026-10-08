@@ -6,7 +6,7 @@
 
 ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
 
-收集 33 位创作者的 59 个图像作品与提示词，从多语言咖啡菜单、杂志人像到角色设定、产品场景和照片编辑。可以浏览输出作品、复制完整原始提示词，并查看作者原帖。
+收集 36 位创作者的 63 个图像作品与提示词，从多语言咖啡菜单、杂志人像到角色设定、产品场景和照片编辑。可以浏览输出作品、复制完整原始提示词，并查看作者原帖。
 
 <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
 
@@ -37,11 +37,11 @@ ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生
 | 分类 | 作品 |
 | --- | ---: |
 | [海报与文字排版](#posters) | 13 |
-| [人像](#portraits) | 13 |
+| [人像](#portraits) | 14 |
 | [角色设定与连续画面](#storyboards) | 5 |
-| [产品与物体研究](#products) | 5 |
+| [产品与物体研究](#products) | 6 |
 | [照片编辑](#edits) | 10 |
-| [风格与场景](#styles) | 13 |
+| [风格与场景](#styles) | 15 |
 
 ## 作品与完整提示词
 
@@ -820,6 +820,96 @@ A super close-up view of a young woman with blonde hair, wearing a black ribbed 
 
 </details>
 
+<a id="terrace-palm-seated-lifestyle"></a>
+### 棕榈旁的露台坐姿人像
+
+棕榈旁的露台坐姿人像
+
+Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/2108031379770617941" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Seated Terrace Portrait beside a Fan Palm](https://media.reeldance.ai/galleries/assets/efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b.webp)
+
+<details>
+<summary>完整原始提示词</summary>
+
+```text
+{
+  "prompt": {
+    "style": "authentic outdoor lifestyle portrait, natural smartphone photography, candid vacation aesthetic, realistic and minimally retouched",
+    "subject": {
+      "gender": "young woman",
+      "appearance": "young South Asian woman with a warm medium skin tone, dark brown eyes, naturally defined eyebrows, soft facial features",
+      "hair": "long dark brown to black hair, center-parted, loose natural waves cascading over the shoulders",
+      "expression": "calm, relaxed, slightly thoughtful expression",
+      "gaze": "looking naturally toward the left side of the frame rather than directly at the camera",
+      "pose": "seated comfortably on an outdoor cushioned lounge chair, upper body upright, left arm resting naturally beside her, right hand resting casually on her thigh"
+    },
+    "outfit": {
+      "top": "fitted lavender-purple ribbed camisole crop top with thin spaghetti straps and a square neckline",
+      "bottom": "flowy white high-waisted skirt with a lightweight semi-sheer fabric and a high side opening",
+      "accessories": [
+        "very thin delicate gold necklace",
+        "simple slim gold bracelet on the left wrist"
+      ]
+    },
+    "environment": {
+      "location": "elevated outdoor terrace or balcony overlooking a scenic landscape",
+      "seating": "large cushioned outdoor lounge chair with dark patterned floral upholstery",
+      "plants": "large tropical fan palm plant positioned prominently on the right side of the frame",
+      "background": "lush green trees, distant mountain peaks, glass or metal balcony railing, clear open sky",
+      "architecture": "subtle upscale terrace setting with a large stone planter surrounding the palm",
+      "time_of_day": "late afternoon or early evening",
+      "lighting": "soft warm natural sunlight coming from the left/front, gentle highlights on the subject and natural soft shadows"
+    },
+    "composition": {
+      "camera": "smartphone portrait photography",
+      "orientation": "vertical 4:5",
+      "framing": "medium-full seated portrait, subject occupying the central portion of the frame",
+      "camera_angle": "eye-level or slightly above eye level",
+      "perspective": "natural smartphone lens perspective without wide-angle distortion",
+      "background_balance": "subject clearly separated from the lush greenery while mountains and palm leaves remain visible",
+      "depth_of_field": "moderate natural depth of field, subject sharp with background slightly softened but still recognizable"
+    },
+    "photographic_quality": {
+      "look": "authentic Instagram travel/lifestyle photograph",
+      "camera_quality": "modern smartphone camera",
+      "skin": "natural realistic skin texture with subtle pores and minor imperfections",
+      "colors": "soft warm natural tones, pastel lavender top, bright white skirt, rich greens and pale blue sky",
+      "contrast": "moderate natural contrast",
+      "sharpness": "realistic smartphone sharpness without artificial oversharpening",
+      "processing": "minimal computational photography, no beauty filter, no excessive HDR",
+      "atmosphere": "peaceful upscale vacation terrace feeling"
+    },
+    "negative_prompt": [
+      "studio photography",
+      "professional fashion shoot",
+      "heavy makeup",
+      "beauty filter",
+      "plastic skin",
+      "over-smoothed skin",
+      "unrealistic body proportions",
+      "exaggerated curves",
+      "extra fingers",
+      "deformed hands",
+      "extra limbs",
+      "distorted face",
+      "warped clothing",
+      "duplicate jewelry",
+      "artificial background",
+      "fake mountains",
+      "oversaturated colors",
+      "extreme HDR",
+      "dramatic cinematic lighting",
+      "text",
+      "watermark",
+      "logo"
+    ]
+  }
+}
+```
+
+</details>
+
 <a id="storyboards"></a>
 ## 角色设定与连续画面
 
@@ -992,6 +1082,30 @@ Jayz(ジェイズ)＠AI音楽 (@PElfines71321) · <a href="https://x.com/PElfine
 
 ```text
 世界で一番高価なストラディヴァリのバイオリンをショーケースの中に入れた状態で展示している様子を、現地でプロカメラマンが撮影したスチル写真として作画して。
+```
+
+</details>
+
+<a id="three-stage-tint-stick-ugc"></a>
+### 三阶段腮红棒创作者广告
+
+三阶段腮红棒创作者广告
+
+Justin Lord (@Justin_lords) · <a href="https://x.com/Justin_lords/status/2107832260032606378" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Three-Stage Tint-Stick Creator Advertisement](https://media.reeldance.ai/galleries/assets/168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392.webp)
+
+<details>
+<summary>完整原始提示词</summary>
+
+```text
+Create a photorealistic first frame for a human-led beauty advertisement. An original fictional adult woman aged 28, warm medium-brown skin with visible natural pores and a few faint freckles, dark brown eyes, shoulder-length dark-brown wavy hair worn loose, simple small gold stud earrings, plain cream cotton crew-neck T-shirt. Friendly expressive face with normal asymmetry. Subtle natural makeup, not airbrushed.A believable modest apartment bathroom beside a window, soft morning daylight, cream painted wall, muted green tile detail, blurred ordinary towel in background. Casual premium creator UGC, recorded on a good smartphone, natural depth of field, mild phone-camera grain, realistic everyday exposure. Portrait framing. No studio glamour lighting, no cinematic teal-orange grade, no beauty filter.She stands facing the phone camera, framed from mid-chest to just above her head, eyes looking directly into the lens, with an engaged conversational expression and mouth gently closed. One small unbranded lip-and-cheek tint stick: short matte warm-ivory cylindrical barrel, muted terracotta band around its base, rounded dusty-rose cream tip exposed. Simple solid geometry, no text, no logo, no transparent packaging. A cosmetic concept product, not a real brand.She holds exactly one tint stick upright in her right hand at upper-chest height, clearly visible beside her face. Five anatomically correct fingers and a natural relaxed grip, product not touching her face. Her other hand is out of frame. Hair tucked away from her right cheek.Leave modest room above her head and below the product for small later captions. Single person. No writing, overlay, collage, inset, watermark or logos. Skin and hands must look like an ordinary unretouched phone photograph.
+
+APPLICATION
+Keep the same woman, clothes, hair, bathroom and light. Move to a slight three-quarter close-up. Put a tiny dusty-rose dot on her right cheek, with two fingertips beside it, ready to blend. Preserve natural skin texture.
+
+FINISHED LOOK
+Keep the same woman, room and tint stick. She holds it beside her shoulder. Add restrained rose colour to lips and cheeks. Keep her pores, freckles and face shape unchanged. Natural phone-camera portrait.
 ```
 
 </details>
@@ -1468,6 +1582,58 @@ Raza (@AIWithRaza) · <a href="https://x.com/AIWithRaza/status/21075396211690169
 
 ```text
 A breathtaking macro photograph of a chambered nautilus shell cut in half, resting on black velvet, its pearlescent nacre glowing with iridescent pink, gold and blue. Eight chambers along the spiral each hold a tiny, lit miniature world showing one era of human history, in order from the innermost chamber to the outermost: a cave with a campfire and handprint paintings; scribes carving hieroglyphs by oil lamp; an ancient library of scrolls; a medieval stained-glass workshop; a Renaissance artist's studio with sketches of flying machines; a steam-age workshop full of gears and a printing press; a 1960s mission control room with glowing screens; and, in the largest outer chamber, a child at a window looking up at a sky full of stars, holding a paper rocket. A thin thread of golden light passes through every chamber, connecting the eras like the shell's real siphuncle. Each miniature is warmly lit like a lantern, so the whole spiral glows from within. Cinematic studio lighting, ultra-fine detail, shallow depth of field, awe-inspiring and dreamlike, yet photographically real. Aspect ratio 4:5, 4K.
+```
+
+</details>
+
+<a id="paint-tube-relief-art-grid"></a>
+### 颜料管挤出四幅立体画
+
+颜料管挤出四幅立体画
+
+Gadgetify (@Gdgtify) · <a href="https://x.com/Gdgtify/status/2108132040474280332" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Paint Tubes Squeezing Four Relief Paintings](https://media.reeldance.ai/galleries/assets/30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70.webp)
+
+<details>
+<summary>完整原始提示词</summary>
+
+```text
+Do this for Scream <instructions> I want you to act as a world class painting expert and visual artist. I want you to analyze the input by the user (painting name or artist), it style, subject, character, and come up with 4 paintings by artists past or present, no matter what country, who are less known but have a similar in style. 
+
+For each painting: Analyze: The brushstroke technique, the 3D depth implied, and the hidden symbols. Goal: A "Paint Tube Squeeze." A giant, realistic oil paint tube sitting on a palette. Rules: Action: The tube is being squeezed, and the paint coming out is not just a blob, but it forms the 3D landscape of the painting. The main feature is emerging in 3D relief from the 2D smear of paint. Texture: Viscous, thick oil paint texture (impasto). Props: Paintbrushes, a dirty rag, a palette knife, plus culture appropriate tools and environment and tiny 3D printed version of the painter on the desk drawing it on a tiny easel and a newspaper headline covering the inspiration behind it. Lighting: North-light studio lighting, true color representation.  artistic process" aesthetic. 
+Output: 2x2 grid, each grid with a different painting
+</instruction>
+```
+
+</details>
+
+<a id="six-styles-futuristic-night-market"></a>
+### 六种角色画风共处未来夜市
+
+六种角色画风共处未来夜市
+
+Valora (@Valora_Lab) · <a href="https://x.com/Valora_Lab/status/2107848090304880976" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Six Character Art Styles in One Futuristic Night Market](https://media.reeldance.ai/galleries/assets/c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158.webp)
+
+<details>
+<summary>完整原始提示词</summary>
+
+```text
+
+A bustling, visually stunning candid snapshot of a crowded night festival and street party set in a vibrant, multi-level futuristic sci-fi hyper realistic night market , packed with celebrations and bringing together completely different, highly contrasting animation and illustration styles in one rich scene.
+
+In the foreground and midground, a group of unique, stylistically diverse characters socialize at outdoor makeshift metal and wooden tables on a busy street:
+- On the left, a bulky, expressive stop-motion claymation creature (an alien mechanic/goblin) with tactile, uneven clay textures, wearing patchwork overalls and a goggles strap, is busy at a neon-lit snack and drink cart, happily serving colorful, bubbling exotic beverages in glowing cups.
+- Seated at a street-side table in the center-left is a 2D futuristic anime-style young woman with vibrant cyan and purple hair, wearing an oversized glowing cybernetic jacket and a tech visor rested on her forehead. She is laughing and gesturing over a digital interactive menu, with glowing drinks, futuristic street food, and interactive gadgets scattered on the cluttered table.
+- Sharing her table is a 1930s "rubber-hose" retro toon character (ink-black-and-white style) of a vintage robotic droid wearing a bowler hat and bow tie, gesturing animatedly with gloved hands and a giant toothy grin as it sits on a crate.
+- Across from them is a 3D Pixar-style CGI explorer (an expressive young space voyager or elf-like creature) with big, glowing eyes and a decorated flight jacket, laughing and holding a holographic camera or gadget, utterly fascinated.
+- On the right, a rugged, older cybernetic traveler rendered in gritty, cinematic realism sits at the table. He has a metallic prosthetic arm, a weathered face, a flat cap, and a worn-down leather pilot's coat. He is laughing heartily, holding a cup and interacting warmly with the group.
+- Slightly behind him on the right, a stylized comic-book/webtoon-style cyberpunk with glasses and a graffiti-painted jacket is standing by a neon bar, holding a drink and looking out over the crowd.
+
+Setting and Ambience:
+The scene is set in a cluttered, sprawling futuristic alleyway and rooftop bazaar at night, overflowing with party decorations, paper lanterns, neon signs, and strings of colorful fairy lights. Multi-colored strobe and cybernetic lights (pink, cyan, violet, and gold) wash over the packed crowd. A DJ booth is visible in the background, set on an elevated, glowing stage where a performer plays for a dancing, densely packed crowd of varied species and styles \\ realistic). Sky-high futuristic buildings, flying vehicles with light trails, and towering holographic advertisements fill the dark night sky above. The ground is littered with festive confetti and debris, capturing the chaotic, joyful energy of a bustling street festival. Shot with a natural, crowded, and candid perspective, filled with layered details like wires, stalls, and people mingling.
 ```
 
 </details>

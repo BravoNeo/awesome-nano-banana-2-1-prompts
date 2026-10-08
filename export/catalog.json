@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "model": "Nano Banana 2.1",
-  "count": 59,
+  "count": 63,
   "entries": [
     {
       "id": "x-2107669756845191508",
@@ -5977,6 +5977,346 @@
           }
         }
       ],
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108132040474280332",
+      "slug": "paint-tube-relief-art-grid",
+      "title": {
+        "en": "Paint Tubes Squeezing Four Relief Paintings",
+        "zh": "颜料管挤出四幅立体画"
+      },
+      "description": {
+        "en": "Creator-attributed Nano Banana 2.1 example: paint tubes squeezing four relief paintings. Complete original prompt and original output are source-linked.",
+        "zh": "颜料管挤出四幅立体画"
+      },
+      "author": {
+        "handle": "Gdgtify",
+        "name": "Gadgetify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2108132040474280332",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2108132040474280332",
+      "mediaSourceUrl": "https://x.com/Gdgtify/status/2108132040474280332",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "Do this for Scream <instructions> I want you to act as a world class painting expert and visual artist. I want you to analyze the input by the user (painting name or artist), it style, subject, character, and come up with 4 paintings by artists past or present, no matter what country, who are less known but have a similar in style. \n\nFor each painting: Analyze: The brushstroke technique, the 3D depth implied, and the hidden symbols. Goal: A \"Paint Tube Squeeze.\" A giant, realistic oil paint tube sitting on a palette. Rules: Action: The tube is being squeezed, and the paint coming out is not just a blob, but it forms the 3D landscape of the painting. The main feature is emerging in 3D relief from the 2D smear of paint. Texture: Viscous, thick oil paint texture (impasto). Props: Paintbrushes, a dirty rag, a palette knife, plus culture appropriate tools and environment and tiny 3D printed version of the painter on the desk drawing it on a tiny easel and a newspaper headline covering the inspiration behind it. Lighting: North-light studio lighting, true color representation.  artistic process\" aesthetic. \nOutput: 2x2 grid, each grid with a different painting\n</instruction>",
+      "originalPromptSha256": "5dba86bd39d5fdd2bad885930bcdf06654fc4f35e0ddf63c0dc728ad1a58b511",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "paint-tube-relief-art-grid"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEpG_RWUAAsey_.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Gdgtify/status/2108132040474280332",
+          "alt": "Paint Tubes Squeezing Four Relief Paintings",
+          "mediaKey": "3_2108011300626255872",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70.webp",
+            "sha256": "30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70",
+            "bytes": 363614,
+            "mimeType": "image/webp",
+            "width": 1024,
+            "height": 1024,
+            "originalSha256": "033c2843debbe1463657bf434c9c906a0d0cbd1d16c6d5d4781d6af1adce1783",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70.webp",
+                "sha256": "30675b16dfb38cc2d281fa3804db8d488059ac14b1e48c2888c0cbe59e4a9e70",
+                "bytes": 363614,
+                "mimeType": "image/webp",
+                "width": 1024,
+                "height": 1024
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Gdgtify/status/2108132040474280332",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Viewed complete 2x2 output: four squeezed paint tubes form thick relief paintings on palettes, each with tiny painter/easel and newspaper. One work, not four. Distinct from existing nautilus history diorama and banknote-to-oil painting.",
+      "workIdentity": {
+        "semanticGroupId": "paint-tube-relief-art-grid",
+        "reviewed": true,
+        "reviewNote": "Viewed complete 2x2 output: four squeezed paint tubes form thick relief paintings on palettes, each with tiny painter/easel and newspaper. One work, not four. Distinct from existing nautilus history diorama and banknote-to-oil painting."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108132040474280332.json",
+        "evidenceSha256": "d5f0fa569e412d66d1ceef4199fc2865a22ca0fcd30515fa7d856850ea136884",
+        "reviewedAt": "2026-10-08T10:20:53.864Z"
+      },
+      "publishedAt": "2026-10-08T09:47:00.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108031379770617941",
+      "slug": "terrace-palm-seated-lifestyle",
+      "title": {
+        "en": "Seated Terrace Portrait beside a Fan Palm",
+        "zh": "棕榈旁的露台坐姿人像"
+      },
+      "description": {
+        "en": "Creator-attributed Nano Banana 2.1 example: seated terrace portrait beside a fan palm. Complete original prompt and original output are source-linked.",
+        "zh": "棕榈旁的露台坐姿人像"
+      },
+      "author": {
+        "handle": "hardik_lut83675",
+        "name": "Ryan Fox"
+      },
+      "sourceUrl": "https://x.com/hardik_lut83675/status/2108031379770617941",
+      "promptSourceUrl": "https://x.com/hardik_lut83675/status/2108031379770617941",
+      "mediaSourceUrl": "https://x.com/hardik_lut83675/status/2108031379770617941",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "{\n  \"prompt\": {\n    \"style\": \"authentic outdoor lifestyle portrait, natural smartphone photography, candid vacation aesthetic, realistic and minimally retouched\",\n    \"subject\": {\n      \"gender\": \"young woman\",\n      \"appearance\": \"young South Asian woman with a warm medium skin tone, dark brown eyes, naturally defined eyebrows, soft facial features\",\n      \"hair\": \"long dark brown to black hair, center-parted, loose natural waves cascading over the shoulders\",\n      \"expression\": \"calm, relaxed, slightly thoughtful expression\",\n      \"gaze\": \"looking naturally toward the left side of the frame rather than directly at the camera\",\n      \"pose\": \"seated comfortably on an outdoor cushioned lounge chair, upper body upright, left arm resting naturally beside her, right hand resting casually on her thigh\"\n    },\n    \"outfit\": {\n      \"top\": \"fitted lavender-purple ribbed camisole crop top with thin spaghetti straps and a square neckline\",\n      \"bottom\": \"flowy white high-waisted skirt with a lightweight semi-sheer fabric and a high side opening\",\n      \"accessories\": [\n        \"very thin delicate gold necklace\",\n        \"simple slim gold bracelet on the left wrist\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"elevated outdoor terrace or balcony overlooking a scenic landscape\",\n      \"seating\": \"large cushioned outdoor lounge chair with dark patterned floral upholstery\",\n      \"plants\": \"large tropical fan palm plant positioned prominently on the right side of the frame\",\n      \"background\": \"lush green trees, distant mountain peaks, glass or metal balcony railing, clear open sky\",\n      \"architecture\": \"subtle upscale terrace setting with a large stone planter surrounding the palm\",\n      \"time_of_day\": \"late afternoon or early evening\",\n      \"lighting\": \"soft warm natural sunlight coming from the left/front, gentle highlights on the subject and natural soft shadows\"\n    },\n    \"composition\": {\n      \"camera\": \"smartphone portrait photography\",\n      \"orientation\": \"vertical 4:5\",\n      \"framing\": \"medium-full seated portrait, subject occupying the central portion of the frame\",\n      \"camera_angle\": \"eye-level or slightly above eye level\",\n      \"perspective\": \"natural smartphone lens perspective without wide-angle distortion\",\n      \"background_balance\": \"subject clearly separated from the lush greenery while mountains and palm leaves remain visible\",\n      \"depth_of_field\": \"moderate natural depth of field, subject sharp with background slightly softened but still recognizable\"\n    },\n    \"photographic_quality\": {\n      \"look\": \"authentic Instagram travel/lifestyle photograph\",\n      \"camera_quality\": \"modern smartphone camera\",\n      \"skin\": \"natural realistic skin texture with subtle pores and minor imperfections\",\n      \"colors\": \"soft warm natural tones, pastel lavender top, bright white skirt, rich greens and pale blue sky\",\n      \"contrast\": \"moderate natural contrast\",\n      \"sharpness\": \"realistic smartphone sharpness without artificial oversharpening\",\n      \"processing\": \"minimal computational photography, no beauty filter, no excessive HDR\",\n      \"atmosphere\": \"peaceful upscale vacation terrace feeling\"\n    },\n    \"negative_prompt\": [\n      \"studio photography\",\n      \"professional fashion shoot\",\n      \"heavy makeup\",\n      \"beauty filter\",\n      \"plastic skin\",\n      \"over-smoothed skin\",\n      \"unrealistic body proportions\",\n      \"exaggerated curves\",\n      \"extra fingers\",\n      \"deformed hands\",\n      \"extra limbs\",\n      \"distorted face\",\n      \"warped clothing\",\n      \"duplicate jewelry\",\n      \"artificial background\",\n      \"fake mountains\",\n      \"oversaturated colors\",\n      \"extreme HDR\",\n      \"dramatic cinematic lighting\",\n      \"text\",\n      \"watermark\",\n      \"logo\"\n    ]\n  }\n}",
+      "originalPromptSha256": "99aa52a621ff0444305cffdec97a855b8adc0cc6b409444dcceb40479272a2de",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "terrace-palm-seated-lifestyle"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HT92PfdWAAA-_m4.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/hardik_lut83675/status/2108031379770617941",
+          "alt": "Seated Terrace Portrait beside a Fan Palm",
+          "mediaKey": "3_2107533159147372544",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b.webp",
+            "sha256": "efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b",
+            "bytes": 199430,
+            "mimeType": "image/webp",
+            "width": 768,
+            "height": 1376,
+            "originalSha256": "88db61e4355969069e1f63b59688bfbfe6e36ac90dcd923a4b2497a9fbf311e1",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b.webp",
+                "sha256": "efd0b9b9cd7e0e90af1ec1a73a9797d381c9f2131f268e7686a572c7368fa59b",
+                "bytes": 199430,
+                "mimeType": "image/webp",
+                "width": 768,
+                "height": 1376
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+      },
+      "category": "portraits",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/hardik_lut83675/status/2108031379770617941",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Viewed seated woman on floral lounge chair, lavender camisole, white skirt, foreground palm and distant mountains. Complete JSON closes normally. Distinct from existing mirror selfie, monkey selfie, lake bench and petrol station standing portrait.",
+      "workIdentity": {
+        "semanticGroupId": "terrace-palm-seated-lifestyle",
+        "reviewed": true,
+        "reviewNote": "Viewed seated woman on floral lounge chair, lavender camisole, white skirt, foreground palm and distant mountains. Complete JSON closes normally. Distinct from existing mirror selfie, monkey selfie, lake bench and petrol station standing portrait."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108031379770617941.json",
+        "evidenceSha256": "07e80e5a1748911f9a8cc96185d36d84751cc3a5fdd9f77bec12371204c36bf7",
+        "reviewedAt": "2026-10-08T10:20:53.864Z"
+      },
+      "publishedAt": "2026-10-08T03:07:00.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107848090304880976",
+      "slug": "six-styles-futuristic-night-market",
+      "title": {
+        "en": "Six Character Art Styles in One Futuristic Night Market",
+        "zh": "六种角色画风共处未来夜市"
+      },
+      "description": {
+        "en": "Creator-attributed Nano Banana 2.1 example: six character art styles in one futuristic night market. Complete original prompt and original output are source-linked.",
+        "zh": "六种角色画风共处未来夜市"
+      },
+      "author": {
+        "handle": "Valora_Lab",
+        "name": "Valora"
+      },
+      "sourceUrl": "https://x.com/Valora_Lab/status/2107848090304880976",
+      "promptSourceUrl": "https://x.com/Valora_Lab/status/2107848090304880976",
+      "mediaSourceUrl": "https://x.com/Valora_Lab/status/2107848090304880976",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "\nA bustling, visually stunning candid snapshot of a crowded night festival and street party set in a vibrant, multi-level futuristic sci-fi hyper realistic night market , packed with celebrations and bringing together completely different, highly contrasting animation and illustration styles in one rich scene.\n\nIn the foreground and midground, a group of unique, stylistically diverse characters socialize at outdoor makeshift metal and wooden tables on a busy street:\n- On the left, a bulky, expressive stop-motion claymation creature (an alien mechanic/goblin) with tactile, uneven clay textures, wearing patchwork overalls and a goggles strap, is busy at a neon-lit snack and drink cart, happily serving colorful, bubbling exotic beverages in glowing cups.\n- Seated at a street-side table in the center-left is a 2D futuristic anime-style young woman with vibrant cyan and purple hair, wearing an oversized glowing cybernetic jacket and a tech visor rested on her forehead. She is laughing and gesturing over a digital interactive menu, with glowing drinks, futuristic street food, and interactive gadgets scattered on the cluttered table.\n- Sharing her table is a 1930s \"rubber-hose\" retro toon character (ink-black-and-white style) of a vintage robotic droid wearing a bowler hat and bow tie, gesturing animatedly with gloved hands and a giant toothy grin as it sits on a crate.\n- Across from them is a 3D Pixar-style CGI explorer (an expressive young space voyager or elf-like creature) with big, glowing eyes and a decorated flight jacket, laughing and holding a holographic camera or gadget, utterly fascinated.\n- On the right, a rugged, older cybernetic traveler rendered in gritty, cinematic realism sits at the table. He has a metallic prosthetic arm, a weathered face, a flat cap, and a worn-down leather pilot's coat. He is laughing heartily, holding a cup and interacting warmly with the group.\n- Slightly behind him on the right, a stylized comic-book/webtoon-style cyberpunk with glasses and a graffiti-painted jacket is standing by a neon bar, holding a drink and looking out over the crowd.\n\nSetting and Ambience:\nThe scene is set in a cluttered, sprawling futuristic alleyway and rooftop bazaar at night, overflowing with party decorations, paper lanterns, neon signs, and strings of colorful fairy lights. Multi-colored strobe and cybernetic lights (pink, cyan, violet, and gold) wash over the packed crowd. A DJ booth is visible in the background, set on an elevated, glowing stage where a performer plays for a dancing, densely packed crowd of varied species and styles \\\\ realistic). Sky-high futuristic buildings, flying vehicles with light trails, and towering holographic advertisements fill the dark night sky above. The ground is littered with festive confetti and debris, capturing the chaotic, joyful energy of a bustling street festival. Shot with a natural, crowded, and candid perspective, filled with layered details like wires, stalls, and people mingling.",
+      "originalPromptSha256": "a41ab8e4119e89451dde1d7aa312c9466ebb6759c3f9b2674e53b8f9a9d34c73",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "six-styles-futuristic-night-market"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCUnHtbsAA5YCa.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Valora_Lab/status/2107848090304880976",
+          "alt": "Six Character Art Styles in One Futuristic Night Market",
+          "mediaKey": "3_2107848025414807552",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158.webp",
+            "sha256": "c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158",
+            "bytes": 260656,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 805,
+            "originalSha256": "d61ddc552bffd776ac5562b243c6885fbf286587e7f1803c5335b1ffe7985ed1",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158.webp",
+                "sha256": "c1e6f040a5100a7dddbdd11e1cfdca9043f5a2fde4557bf4aebc00581b872158",
+                "bytes": 260656,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 805
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Valora_Lab/status/2107848090304880976",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Viewed one night-market image combining clay creature, cyan anime woman, monochrome rubber-hose robot, CGI boy, realistic older cyborg and comic man. One work. Distinct from six-writing-systems rainy market, whose task is text rendering.",
+      "workIdentity": {
+        "semanticGroupId": "six-styles-futuristic-night-market",
+        "reviewed": true,
+        "reviewNote": "Viewed one night-market image combining clay creature, cyan anime woman, monochrome rubber-hose robot, CGI boy, realistic older cyborg and comic man. One work. Distinct from six-writing-systems rainy market, whose task is text rendering."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107848090304880976.json",
+        "evidenceSha256": "e13a20250632bc74be8043d73a54cd44830733ff810c74e8c0f088e133669da8",
+        "reviewedAt": "2026-10-08T10:20:53.864Z"
+      },
+      "publishedAt": "2026-10-07T14:58:41.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107832260032606378",
+      "slug": "three-stage-tint-stick-ugc",
+      "title": {
+        "en": "Three-Stage Tint-Stick Creator Advertisement",
+        "zh": "三阶段腮红棒创作者广告"
+      },
+      "description": {
+        "en": "Creator-attributed Nano Banana 2.1 example: three-stage tint-stick creator advertisement. Complete original prompt and original output are source-linked.",
+        "zh": "三阶段腮红棒创作者广告"
+      },
+      "author": {
+        "handle": "Justin_lords",
+        "name": "Justin Lord"
+      },
+      "sourceUrl": "https://x.com/Justin_lords/status/2107832260032606378",
+      "promptSourceUrl": "https://x.com/Justin_lords/status/2107832260032606378",
+      "mediaSourceUrl": "https://x.com/Justin_lords/status/2107832260032606378",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "Create a photorealistic first frame for a human-led beauty advertisement. An original fictional adult woman aged 28, warm medium-brown skin with visible natural pores and a few faint freckles, dark brown eyes, shoulder-length dark-brown wavy hair worn loose, simple small gold stud earrings, plain cream cotton crew-neck T-shirt. Friendly expressive face with normal asymmetry. Subtle natural makeup, not airbrushed.A believable modest apartment bathroom beside a window, soft morning daylight, cream painted wall, muted green tile detail, blurred ordinary towel in background. Casual premium creator UGC, recorded on a good smartphone, natural depth of field, mild phone-camera grain, realistic everyday exposure. Portrait framing. No studio glamour lighting, no cinematic teal-orange grade, no beauty filter.She stands facing the phone camera, framed from mid-chest to just above her head, eyes looking directly into the lens, with an engaged conversational expression and mouth gently closed. One small unbranded lip-and-cheek tint stick: short matte warm-ivory cylindrical barrel, muted terracotta band around its base, rounded dusty-rose cream tip exposed. Simple solid geometry, no text, no logo, no transparent packaging. A cosmetic concept product, not a real brand.She holds exactly one tint stick upright in her right hand at upper-chest height, clearly visible beside her face. Five anatomically correct fingers and a natural relaxed grip, product not touching her face. Her other hand is out of frame. Hair tucked away from her right cheek.Leave modest room above her head and below the product for small later captions. Single person. No writing, overlay, collage, inset, watermark or logos. Skin and hands must look like an ordinary unretouched phone photograph.\n\nAPPLICATION\nKeep the same woman, clothes, hair, bathroom and light. Move to a slight three-quarter close-up. Put a tiny dusty-rose dot on her right cheek, with two fingertips beside it, ready to blend. Preserve natural skin texture.\n\nFINISHED LOOK\nKeep the same woman, room and tint stick. She holds it beside her shoulder. Add restrained rose colour to lips and cheeks. Keep her pores, freckles and face shape unchanged. Natural phone-camera portrait.",
+      "originalPromptSha256": "7c3d2da5806d96bd67d7040ca9882a539a92ae3941aa324c5aab4e79686a0e32",
+      "promptKind": "text-to-image",
+      "inputRequirement": "Generate the first portrait from text, then reuse that generated frame as the reference for the two follow-up edits.",
+      "tags": [
+        "three-stage-tint-stick-ugc"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCGKTTbcAAGYQV.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Justin_lords/status/2107832260032606378",
+          "alt": "Three-Stage Tint-Stick Creator Advertisement",
+          "mediaKey": "3_2107832137147969536",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392.webp",
+            "sha256": "168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392",
+            "bytes": 156378,
+            "mimeType": "image/webp",
+            "width": 1800,
+            "height": 1100,
+            "originalSha256": "b1db2a013ea0c76f2e5ae50571308132ff0d7b11277527e969f9bbf12d62a2e8",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392.webp",
+                "sha256": "168d6a5db2155f839674e41ff95752bf6a45134d46f1867e0a10fbaa30ac3392",
+                "bytes": 156378,
+                "mimeType": "image/webp",
+                "width": 1800,
+                "height": 1100
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+      },
+      "category": "products",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Justin_lords/status/2107832260032606378",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Viewed triptych matching first tint-stick portrait, cheek-dot application and finished makeup. All three prompts are preserved as one workflow; do not count panels independently. Attached Grok video is excluded from Nano output evidence.",
+      "workIdentity": {
+        "semanticGroupId": "three-stage-tint-stick-ugc",
+        "reviewed": true,
+        "reviewNote": "Viewed triptych matching first tint-stick portrait, cheek-dot application and finished makeup. All three prompts are preserved as one workflow; do not count panels independently. Attached Grok video is excluded from Nano output evidence."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107832260032606378.json",
+        "evidenceSha256": "6dcf05b361480b24c7c2760575acc8fa98c6382492c4efef571d5a852932ca1c",
+        "reviewedAt": "2026-10-08T10:20:53.864Z"
+      },
+      "publishedAt": "2026-10-07T13:55:47.000Z",
       "referenceAssets": []
     }
   ]
