@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107992135031025750",
+  "author": {
+    "handle": "HairnetNation",
+    "name": "Mainstream Madness"
+  },
+  "sourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+  "promptSourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+  "mediaSourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+  "originalPrompt": "Astra Militarum last stand against a Tyranid swarm on a ruined gothic street at dusk.",
+  "originalPromptSha256": "63d06d0e425cbc7d0e6ee5898c5d423c149ee3148827b8ee7e4e3c793291cd5f",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/HairnetNation/status/2107992135031025750",
+      "authorHandle": "HairnetNation",
+      "fullText": "Astra Militarum last stand against a Tyranid swarm on a ruined gothic street at dusk.\nSame prompt. The left was done with GPT Image 2, the right was done with Nano Banana 2.1 https://t.co/5ApelMxplZ",
+      "fullTextSha256": "51f4ade28647e6cfeb23e76026de4665282fa4c8bfaddcdea62e60e554f4e0cd",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEXNoVbIAEuL_K.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

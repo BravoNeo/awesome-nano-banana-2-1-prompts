@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "model": "Nano Banana 2.1",
-  "count": 63,
+  "count": 73,
   "entries": [
     {
       "id": "x-2107669756845191508",
@@ -6317,6 +6317,856 @@
         "reviewedAt": "2026-10-08T10:20:53.864Z"
       },
       "publishedAt": "2026-10-07T13:55:47.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108332864999661910",
+      "slug": "overhead-crosswalk-street-fashion-geometry",
+      "title": {
+        "en": "Overhead Crosswalk Street Fashion",
+        "zh": "俯拍斑马线街头时尚"
+      },
+      "description": {
+        "en": "Overhead Crosswalk Street Fashion.",
+        "zh": "俯拍斑马线街头时尚。"
+      },
+      "author": {
+        "handle": "hardik_lut83675",
+        "name": "Ryan Fox"
+      },
+      "sourceUrl": "https://x.com/hardik_lut83675/status/2108332864999661910",
+      "promptSourceUrl": "https://x.com/hardik_lut83675/status/2108332864999661910",
+      "mediaSourceUrl": "https://x.com/hardik_lut83675/status/2108332864999661910",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "{\n  \"prompt\": {\n    \"style\": \"authentic candid street-style photograph, early-2000s inspired fashion aesthetic, realistic smartphone photography, slightly grainy film-like texture\",\n    \"subject\": {\n      \"gender\": \"young woman\",\n      \"appearance\": \"young South Asian woman with warm medium skin tone, long dark brown wavy hair parted near the center, naturally full eyebrows, soft facial features\",\n      \"expression\": \"calm, confident, slightly serious expression while looking directly toward the camera\",\n      \"pose\": \"standing on a pedestrian crossing, photographed from a high overhead angle, looking upward toward the camera, both hands casually placed near the front pockets of her jeans\"\n    },\n    \"outfit\": {\n      \"top\": \"fitted white asymmetrical one-shoulder crop top with subtle ruched fabric\",\n      \"bottom\": \"loose-fitting low-rise washed blue denim jeans with a relaxed baggy silhouette\",\n      \"footwear\": \"white sneakers, partially visible\",\n      \"accessories\": [\n        \"small rectangular black sunglasses\",\n        \"short pearl necklace\",\n        \"multiple chunky silver bangles on both wrists\",\n        \"silver rings\",\n        \"layered silver chain belt hanging loosely around the waist\"\n      ]\n    },\n    \"hair\": {\n      \"style\": \"long, voluminous naturally wavy dark brown hair flowing over both shoulders\",\n      \"texture\": \"slightly tousled with individual strands visible\",\n      \"movement\": \"subtle natural movement from outdoor breeze\"\n    },\n    \"environment\": {\n      \"location\": \"urban street intersection\",\n      \"ground\": \"dark textured asphalt with broad white pedestrian crossing stripes\",\n      \"background\": \"only the street surface and crosswalk visible due to the steep overhead camera angle\",\n      \"lighting\": \"strong warm late-afternoon golden sunlight creating defined shadows across the asphalt\",\n      \"shadows\": \"long diagonal architectural or environmental shadows crossing the pedestrian stripes\"\n    },\n    \"composition\": {\n      \"camera_angle\": \"high-angle overhead shot looking downward at approximately 60–70 degrees\",\n      \"framing\": \"vertical portrait composition, subject centered in the frame from head to below the knees\",\n      \"perspective\": \"slightly wide smartphone lens perspective\",\n      \"orientation\": \"vertical 4:5\",\n      \"subject_position\": \"woman positioned slightly toward the center-left while looking directly upward into the lens\"\n    },\n    \"photographic_quality\": {\n      \"camera\": \"modern smartphone camera\",\n      \"look\": \"authentic Instagram street-fashion photograph\",\n      \"color\": \"warm golden-hour tones with slightly muted blacks and natural skin tones\",\n      \"texture\": \"visible fine film grain and realistic asphalt texture\",\n      \"dynamic_range\": \"natural contrast with slightly blown warm highlights\",\n      \"retouching\": \"minimal, natural skin texture preserved\",\n      \"depth\": \"sharp subject with realistic environmental detail\"\n    },\n    \"negative_prompt\": [\n      \"studio photography\",\n      \"artificial posing\",\n      \"heavy makeup\",\n      \"beauty filter\",\n      \"plastic skin\",\n      \"excessive skin smoothing\",\n      \"unrealistic body proportions\",\n      \"extra fingers\",\n      \"deformed hands\",\n      \"extra limbs\",\n      \"distorted sunglasses\",\n      \"duplicate jewelry\",\n      \"blurred face\",\n      \"oversaturated colors\",\n      \"extreme HDR\",\n      \"cinematic bokeh\",\n      \"text\",\n      \"watermark\",\n      \"logo\"\n    ]\n  }\n}",
+      "originalPromptSha256": "d0a36f7832f9754144accf07f83b5405ea1d244a5f5ee9c94568bedd3c1f34b8",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "overhead-crosswalk-street-fashion-geometry"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HT91x6RWcAA48iD.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/hardik_lut83675/status/2108332864999661910",
+          "alt": "Overhead Crosswalk Street Fashion",
+          "mediaKey": "3_2107532650948751360",
+          "cdn": {
+            "sha256": "cd916b3e652d01babbc1393c9bf2621a4acdcae9445e472a307e75ab419aacb9",
+            "bytes": 184390,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/cd916b3e652d01babbc1393c9bf2621a4acdcae9445e472a307e75ab419aacb9.webp",
+            "width": 670,
+            "height": 1200,
+            "originalSha256": "0964c2b2a26bc7ad5e18e00a1585f01cbeb744da01aefaa75b7903fb6bde4e14",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/cd916b3e652d01babbc1393c9bf2621a4acdcae9445e472a307e75ab419aacb9.webp",
+                "sha256": "cd916b3e652d01babbc1393c9bf2621a4acdcae9445e472a307e75ab419aacb9",
+                "bytes": 184390,
+                "mimeType": "image/webp",
+                "width": 670,
+                "height": 1200
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "portraits",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/hardik_lut83675/status/2108332864999661910",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Adult looking up on crosswalk, white one-shoulder top, jeans, sunglasses, pearls, silver bangles; diagonal markings and harsh warm shadow.",
+      "workIdentity": {
+        "semanticGroupId": "overhead-crosswalk-street-fashion-geometry",
+        "reviewed": true,
+        "reviewNote": "Read full mirror and terrace JSON baselines. Overhead standing gaze and diagonal asphalt/shadow geometry create a different camera construction, not an outfit variant."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108332864999661910.json",
+        "evidenceSha256": "ab56ad94f63d9722a3f4b6cff62e7c8871367b96538fe76c6c9160a26f9fb5c8",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T23:05:00.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108234166114341071",
+      "slug": "eighties-witch-cauldron-film-scene",
+      "title": {
+        "en": "1980s Witch and Cauldron Film Scene",
+        "zh": "八十年代女巫坩埚电影场景"
+      },
+      "description": {
+        "en": "1980s Witch and Cauldron Film Scene.",
+        "zh": "八十年代女巫坩埚电影场景。"
+      },
+      "author": {
+        "handle": "nonameoasis",
+        "name": "nonameoasis"
+      },
+      "sourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+      "promptSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+      "mediaSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "hq quality film scene of a classic blonde witch. 1980s fantasy film, 35 mm film No text, letters, numbers, typography, logos or watermarks.",
+      "originalPromptSha256": "8f93e0e55754981bcb32945477d31767c738ef298a8613138b14fd5874e99169",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "eighties-witch-cauldron-film-scene"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUHzrtLWcAAOxnq.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+          "alt": "1980s Witch and Cauldron Film Scene",
+          "mediaKey": "3_2108234032773230592",
+          "cdn": {
+            "sha256": "d4596fdbfcc449db6b06b2f808ebf018cb62abe59ba13a2dea149c42c199ffb9",
+            "bytes": 110670,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/d4596fdbfcc449db6b06b2f808ebf018cb62abe59ba13a2dea149c42c199ffb9.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "7a407b6cdd3d79b56ef2042d1420ce779afbe82259e7a42cd139734c948360ba",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/d4596fdbfcc449db6b06b2f808ebf018cb62abe59ba13a2dea149c42c199ffb9.webp",
+                "sha256": "d4596fdbfcc449db6b06b2f808ebf018cb62abe59ba13a2dea149c42c199ffb9",
+                "bytes": 110670,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Blonde adult witch, pointed hat, black clothing by smoking cauldron; stone interior and candles, visible film grain.",
+      "workIdentity": {
+        "semanticGroupId": "eighties-witch-cauldron-film-scene",
+        "reviewed": true,
+        "reviewNote": "Read full silver-haired anime witch/orb portrait. New photographic film set, cauldron smoke and practical stone/candle scene differ from ornate close-up anime orb interaction."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108234166114341071.json",
+        "evidenceSha256": "06a4a321ee03c823a3e86de67eadb010495f5f5eef2fe7bb92d1cfe30b4dda0a",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T16:32:48.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108231697171169618",
+      "slug": "continuous-optical-line-field-topic-grid",
+      "title": {
+        "en": "Optical Line-Field Topic Grid",
+        "zh": "连续光学线场主题网格"
+      },
+      "description": {
+        "en": "Optical Line-Field Topic Grid.",
+        "zh": "连续光学线场主题网格。"
+      },
+      "author": {
+        "handle": "Gdgtify",
+        "name": "Gadgetify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+      "mediaSourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "2x2 grid, 16:9 Anchor: AI picks topics (e.g., human eye / sunflower / vinyl record / cat's face) \n\nSUBJECT            ::= infer_most_iconic_visual_form(TOPIC)\nSILHOUETTE         ::= extract_primary_shape(SUBJECT)\nFEATURES           ::= infer_recognition_critical_features(SUBJECT)\nFIELD_TYPE         ::= choose(radial | concentric | wave | vortex | contour | hybrid)\nLINE_DENSITY       ::= high\nCOLOR              ::= black_on_white\nSTYLE              ::= op_art + moiré + engraved contour illusion\n\nBASE_FIELD ::=\ngenerate_parallel_or_concentric_lines(\n    spacing = uniform,\n    thickness = constant_or_slightly_variable\n)\n\nDEFORMATION_FIELD(x,y) ::=\nΣ influence(\n    FEATURES,\n    silhouette_boundary,\n    depth_estimate,\n    focal_points\n)\n\nFINAL_LINES :=\nwarp(\n    BASE_FIELD,\n    vector_field = DEFORMATION_FIELD\n)\n\nRULES ::=\n- SUBJECT must emerge only through deformation of continuous black lines\n- avoid conventional outlines wherever possible\n- contours bend, compress, expand, spiral, or redirect to reveal form\n- preserve uninterrupted optical rhythm across figure and background\n- high-information regions receive denser curvature changes\n- low-information regions remain smoother\n- negative space may define eyes, highlights, holes, or focal voids\n- all lines remain crisp monochrome vector-like marks\n- no shading except line-frequency shading\n- no gray fills\n- no hardcoded subject\n\nOBJECTIVE :=\nmaximize(\n    topic_recognition\n    × optical_illusion_strength\n    × line_continuity\n    × moire_energy\n    × black_white_balance\n)",
+      "originalPromptSha256": "ecc1e687fcc5d94b25d38c91c1d6acfcbc9f2f1abd72a4a93b40d81bc84185bc",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "continuous-optical-line-field-topic-grid"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEqVhHW0AABTR7.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+          "alt": "Optical Line-Field Topic Grid",
+          "mediaKey": "3_2108012649740947456",
+          "cdn": {
+            "sha256": "c249b14c5f6ac8a83167764bc47e1ac723724d387ac69229a327a0d1d91220f6",
+            "bytes": 401798,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/c249b14c5f6ac8a83167764bc47e1ac723724d387ac69229a327a0d1d91220f6.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "3bebc2c35c95386880ac2923e95cf7e2b8cc947068f171fdf2e797e6da219fa9",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/c249b14c5f6ac8a83167764bc47e1ac723724d387ac69229a327a0d1d91220f6.webp",
+                "sha256": "c249b14c5f6ac8a83167764bc47e1ac723724d387ac69229a327a0d1d91220f6",
+                "bytes": 401798,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Four cells: eye, sunflower, vinyl and cat emerge from curved concentric black line fields; no grayscale fill.",
+      "workIdentity": {
+        "semanticGroupId": "continuous-optical-line-field-topic-grid",
+        "reviewed": true,
+        "reviewNote": "Compared woodcut and negative-space architecture. Shape encoded through optical line frequency/continuity rather than filled silhouettes, carved planes or architectural text."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108231697171169618.json",
+        "evidenceSha256": "4e784d1fb1c8632e22c3127ca6102c8d1058c2acf6557258ce286bc0e1a1dd3a",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T16:23:00.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2108096230211412085",
+      "slug": "woven-mushroom-moonlit-forest",
+      "title": {
+        "en": "Woven Mushrooms in a Moonlit Forest",
+        "zh": "月夜森林中的编织蘑菇"
+      },
+      "description": {
+        "en": "Woven Mushrooms in a Moonlit Forest.",
+        "zh": "月夜森林中的编织蘑菇。"
+      },
+      "author": {
+        "handle": "Shinebynous",
+        "name": "Shine by Nous ✨"
+      },
+      "sourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+      "promptSourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+      "mediaSourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "Mysterious mushroom-shaped creatures, glowing pink spores, a fantasy forest setting at night with moonlight casting shadows, creating an otherworldly atmosphere. This digital painting, in the style of Ruth Asawa, uses vibrant colors and intricate details to capture the mystical ambiance of magic mushrooms in an enchanted woodland environment",
+      "originalPromptSha256": "7fba06f7c9aabf15c53cd39242034952c7e351578ced561bac251e9b9ad19ae4",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "woven-mushroom-moonlit-forest"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUF2VysXYAAbv_G.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+          "alt": "Woven Mushrooms in a Moonlit Forest",
+          "mediaKey": "3_2108096217343287296",
+          "cdn": {
+            "sha256": "8c0a296992ec48a436466b8b28aed8aee63ad0d04e7ef61c68a0c3098a6b18cd",
+            "bytes": 261112,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/8c0a296992ec48a436466b8b28aed8aee63ad0d04e7ef61c68a0c3098a6b18cd.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "454754f0428f93523a33888316ee4a7708daec036c89b9f779c0da0f13a34d2d",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/8c0a296992ec48a436466b8b28aed8aee63ad0d04e7ef61c68a0c3098a6b18cd.webp",
+                "sha256": "8c0a296992ec48a436466b8b28aed8aee63ad0d04e7ef61c68a0c3098a6b18cd",
+                "bytes": 261112,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Open wire-like woven mushrooms, pink glowing spores, blue moon and dark forest canopy.",
+      "workIdentity": {
+        "semanticGroupId": "woven-mushroom-moonlit-forest",
+        "reviewed": true,
+        "reviewNote": "Compared Mothman lake and material-collage baselines. Organic open-wire forest installation and spores differ from realistic creature encounter or knitted city."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2108096230211412085.json",
+        "evidenceSha256": "252a4272d7c024fc360f6c59e836cd2af2c743b6821e47da0904110e49a55c8d",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T07:24:42.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107999025966330111",
+      "slug": "orbital-gothic-fleet-versus-hive-battle",
+      "title": {
+        "en": "Gothic Fleet above a Hive World",
+        "zh": "巢都世界上空的哥特舰队"
+      },
+      "description": {
+        "en": "Gothic Fleet above a Hive World.",
+        "zh": "巢都世界上空的哥特舰队。"
+      },
+      "author": {
+        "handle": "HairnetNation",
+        "name": "Mainstream Madness"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+      "promptSourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+      "mediaSourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "Imperial Navy battlegroup against a Tyranid hive fleet above a dark hive world.",
+      "originalPromptSha256": "b2708fc29a259cdb3895948019333b9c8c9559335088cb6f50ee89e82033c1dd",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "orbital-gothic-fleet-versus-hive-battle"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEdQ7cXEAAqzWS.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+          "alt": "Gothic Fleet above a Hive World",
+          "mediaKey": "3_2107998277257859072",
+          "cdn": {
+            "sha256": "3185ec117143c640b01e599cb97cac59fdd158236ce9cfbab679c35508c75628",
+            "bytes": 141518,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/3185ec117143c640b01e599cb97cac59fdd158236ce9cfbab679c35508c75628.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "fa0d54e110d99a4b95078411247ff1fe2e785c933ad6435af81de611471e6c4a",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/3185ec117143c640b01e599cb97cac59fdd158236ce9cfbab679c35508c75628.webp",
+                "sha256": "3185ec117143c640b01e599cb97cac59fdd158236ce9cfbab679c35508c75628",
+                "bytes": 141518,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Right-hand output: gothic capital ships above dark planet versus biological ships by purple rift; laser exchange visible. Author notes friendly fire; not accurate battle logic.",
+      "workIdentity": {
+        "semanticGroupId": "orbital-gothic-fleet-versus-hive-battle",
+        "reviewed": true,
+        "reviewNote": "Source explicitly assigns Nano 2.1 to right image. Orbital ships, planet scale and opposing fleet silhouettes differ from ground infantry/street staging and all baselines."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107999025966330111.json",
+        "evidenceSha256": "da1e0d293cb45c4a9c6590160ee7dbb8b94881d5862900d1f3237e2ae23d238f",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T00:58:27.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107992135031025750",
+      "slug": "gothic-street-infantry-versus-alien-swarm",
+      "title": {
+        "en": "Infantry Last Stand on a Gothic Street",
+        "zh": "哥特街道步兵最后防线"
+      },
+      "description": {
+        "en": "Infantry Last Stand on a Gothic Street.",
+        "zh": "哥特街道步兵最后防线。"
+      },
+      "author": {
+        "handle": "HairnetNation",
+        "name": "Mainstream Madness"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+      "promptSourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+      "mediaSourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "Astra Militarum last stand against a Tyranid swarm on a ruined gothic street at dusk.",
+      "originalPromptSha256": "63d06d0e425cbc7d0e6ee5898c5d423c149ee3148827b8ee7e4e3c793291cd5f",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "gothic-street-infantry-versus-alien-swarm"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEXNoVbIAEuL_K.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+          "alt": "Infantry Last Stand on a Gothic Street",
+          "mediaKey": "3_2107991623519117313",
+          "cdn": {
+            "sha256": "a8a125dfbee02ae981bf116e11143a307c898105cb1ada3a50fc2407a18ffe6a",
+            "bytes": 134078,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/a8a125dfbee02ae981bf116e11143a307c898105cb1ada3a50fc2407a18ffe6a.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "a70d738515eb7ba8dded6b747ec08e0d96c344f268e699b27da44e077fbbb24a",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/a8a125dfbee02ae981bf116e11143a307c898105cb1ada3a50fc2407a18ffe6a.webp",
+                "sha256": "a8a125dfbee02ae981bf116e11143a307c898105cb1ada3a50fc2407a18ffe6a",
+                "bytes": 134078,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/HairnetNation/status/2107992135031025750",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Right output: green armored infantry fire red tracers/white muzzle flashes at purple aliens in ruined smoky gothic street at dusk; non-graphic.",
+      "workIdentity": {
+        "semanticGroupId": "gothic-street-infantry-versus-alien-swarm",
+        "reviewed": true,
+        "reviewNote": "Source explicitly assigns right image to Nano 2.1. Ground formation, street perspective and swarm encounter differ from orbital fleets and existing action prompts."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107992135031025750.json",
+        "evidenceSha256": "b7ada6c65c9b2cae87a61775f0350d3bdee3448f3ffd6868fda1a0b036d0b20e",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-08T00:31:04.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107971985640956014",
+      "slug": "giant-origami-koi-flooded-shopping-arcade",
+      "title": {
+        "en": "Giant Origami Koi in a Shopping Arcade",
+        "zh": "商店街中的巨型折纸锦鲤"
+      },
+      "description": {
+        "en": "Giant Origami Koi in a Shopping Arcade.",
+        "zh": "商店街中的巨型折纸锦鲤。"
+      },
+      "author": {
+        "handle": "Aki_LIG",
+        "name": "Aki | CuratorOfJoy"
+      },
+      "sourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+      "promptSourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+      "mediaSourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "ja",
+      "originalPrompt": "Photograph an extraordinary original art installation in an empty old Japanese shopping arcade at dawn. A gigantic red and ivory origami koi floats gracefully through the vaulted corridor above a shallow mirror of water. The folded paper scales and angular fins are unmistakably handmade, long rows of closed shop shutters recede into soft haze. Quiet documentary architectural photography, believable paper texture and reflections, striking sense of scale, no readable signs or text.",
+      "originalPromptSha256": "af8438d74246d34de743a6190b02b24a139336ff91f576e752d54bbcac3b7191",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "giant-origami-koi-flooded-shopping-arcade"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCP3LuaUAAuPaj.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+          "alt": "Giant Origami Koi in a Shopping Arcade",
+          "mediaKey": "3_2107842803812421632",
+          "cdn": {
+            "sha256": "fda73aa5d23c81827a7bce7ceb24b56b84aad2f010b41697b7cc6afc54906fc9",
+            "bytes": 201166,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/fda73aa5d23c81827a7bce7ceb24b56b84aad2f010b41697b7cc6afc54906fc9.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "313247f3a61dc087c9d2a10b3f8cda6c651adac976e4a730888a31f60cbddf58",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/fda73aa5d23c81827a7bce7ceb24b56b84aad2f010b41697b7cc6afc54906fc9.webp",
+                "sha256": "fda73aa5d23c81827a7bce7ceb24b56b84aad2f010b41697b7cc6afc54906fc9",
+                "bytes": 201166,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Huge red/ivory folded paper koi in empty vaulted arcade; closed shutters and shallow reflected water establish installation scale.",
+      "workIdentity": {
+        "semanticGroupId": "giant-origami-koi-flooded-shopping-arcade",
+        "reviewed": true,
+        "reviewNote": "Compared city drawings and material miniatures. Handmade origami installation in architectural corridor with reflected water differs from cities rendered in alternate drawing styles."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107971985640956014.json",
+        "evidenceSha256": "086ee0f715e1d9cc0f3555a15e9772c94f10bcc672431e963a16d91652d76116",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-07T23:11:00.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107842447577321841",
+      "slug": "raised-thread-night-train-textile",
+      "title": {
+        "en": "Embroidered Night Train Textile",
+        "zh": "刺绣夜行列车织物"
+      },
+      "description": {
+        "en": "Embroidered Night Train Textile.",
+        "zh": "刺绣夜行列车织物。"
+      },
+      "author": {
+        "handle": "Aki_LIG",
+        "name": "Aki | CuratorOfJoy"
+      },
+      "sourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+      "promptSourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+      "mediaSourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "ja",
+      "originalPrompt": "An exquisite original hand-embroidered textile artwork photographed in rich macro detail: a tiny night train travels through snowy mountains beneath a sky of metallic-thread stars on deep indigo cloth. Satin stitches, raised wool snow, fine gold running stitches for windows, subtle silk-thread aurora; the landscape tells a quiet imaginative story. Warm directional craft-studio light reveals every fiber, sophisticated composition, no words or logos.",
+      "originalPromptSha256": "c52ee4147d276416a551669ee44dc6d89ac96cb367d0edcdf27a3890e54bf12a",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "raised-thread-night-train-textile"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCPcm-bUAA-pfw.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+          "alt": "Embroidered Night Train Textile",
+          "mediaKey": "3_2107842347270885376",
+          "cdn": {
+            "sha256": "c16580706e9ba50b2f5ea7e94a67328ed7581f2bccfa7e7c22394a32b58b8974",
+            "bytes": 239376,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/c16580706e9ba50b2f5ea7e94a67328ed7581f2bccfa7e7c22394a32b58b8974.webp",
+            "width": 1200,
+            "height": 896,
+            "originalSha256": "ce88c0baf3ffe02bc0caec02deb80b61bee2014cb9da19618831ff3dd460115a",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/c16580706e9ba50b2f5ea7e94a67328ed7581f2bccfa7e7c22394a32b58b8974.webp",
+                "sha256": "c16580706e9ba50b2f5ea7e94a67328ed7581f2bccfa7e7c22394a32b58b8974",
+                "bytes": 239376,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 896
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Indigo cloth macro: raised wool snow mountains, dark train/gold windows, metallic thread stars and green/lilac silk aurora, visible fibers.",
+      "workIdentity": {
+        "semanticGroupId": "raised-thread-night-train-textile",
+        "reviewed": true,
+        "reviewNote": "Read knitted city diorama baseline. New flat hand-embroidered textile macro uses stitches, wool relief and metallic thread, rather than constructing a 3D miniature city."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107842447577321841.json",
+        "evidenceSha256": "ede9c4b8e3c9b83bec5ae015e882c0cc99bb29b9c6159a61f3a54c2b34a37d54",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-07T14:36:15.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107790561126010965",
+      "slug": "misty-lake-rowboat-stillness-print",
+      "title": {
+        "en": "Misty Lake Rowboat Print",
+        "zh": "雾湖木舟静谧画"
+      },
+      "description": {
+        "en": "Misty Lake Rowboat Print.",
+        "zh": "雾湖木舟静谧画。"
+      },
+      "author": {
+        "handle": "EmilioSchwaiger",
+        "name": "Emilio"
+      },
+      "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+      "promptSourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+      "mediaSourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "en",
+      "originalPrompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"stillness is a place\"",
+      "originalPromptSha256": "5ef797774d1fe723f9508ed7177877eea8c5b76587d4f09847a7373f11cf6146",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "misty-lake-rowboat-stillness-print"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUBgWGbWgAAbXUJ.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+          "alt": "Misty Lake Rowboat Print",
+          "mediaKey": "3_2107790558408114176",
+          "cdn": {
+            "sha256": "435e18bf0262fe517d8e5bfcafb3befd85788d2d1450a8871885471341ddccb2",
+            "bytes": 17994,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/435e18bf0262fe517d8e5bfcafb3befd85788d2d1450a8871885471341ddccb2.webp",
+            "width": 1200,
+            "height": 670,
+            "originalSha256": "c9edc819014e0e4a53ec21dcace0c751cb17ff60b31f46dba9a9ede5fc35946a",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/435e18bf0262fe517d8e5bfcafb3befd85788d2d1450a8871885471341ddccb2.webp",
+                "sha256": "435e18bf0262fe517d8e5bfcafb3befd85788d2d1450a8871885471341ddccb2",
+                "bytes": 17994,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 670
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "Nano Banana 2.1",
+        "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Single wooden rowing boat on grey-green still lake, faint shore/tree reflections, correct small serif stillness is a place caption.",
+      "workIdentity": {
+        "semanticGroupId": "misty-lake-rowboat-stillness-print",
+        "reviewed": true,
+        "reviewNote": "Read full lone-figure indigo sky and red-umbrella salt-flat baselines. Wooden vessel within layered lake/shore mist and mirrored water differs from sky/ridge silhouette and salt-flat geometry, not merely a palette change."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107790561126010965.json",
+        "evidenceSha256": "a7b680f26a86c6c5fef78a473a888cffb5df797b1e7388c3dce5f985846c0ff4",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-07T11:10:05.000Z",
+      "referenceAssets": []
+    },
+    {
+      "id": "x-2107776204766134593",
+      "slug": "galaxy-reflection-aurora-lotus-lake",
+      "title": {
+        "en": "Galaxy Reflection and Aurora Lotus Lake",
+        "zh": "银河倒影与极光莲花湖"
+      },
+      "description": {
+        "en": "Galaxy Reflection and Aurora Lotus Lake.",
+        "zh": "银河倒影与极光莲花湖。"
+      },
+      "author": {
+        "handle": "ryoiwa24",
+        "name": "りょう@IT Consultant"
+      },
+      "sourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+      "promptSourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+      "mediaSourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+      "mediaBinding": "direct-source",
+      "originalLanguage": "ja",
+      "originalPrompt": "銀河が映る鏡のような湖面に佇む幻想的な少女、パステルカラーのオーロラ、浮かぶ玉虫色の蓮の花、シュルレアリスム、超高精細。",
+      "originalPromptSha256": "b42e7eae8bd31511d453b7aa912aa07e63d0bdeae167cd1c53c2037ddc12f78f",
+      "promptKind": "text-to-image",
+      "inputRequirement": "No separate input reference image is required.",
+      "tags": [
+        "galaxy-reflection-aurora-lotus-lake"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUBTIUqbgAA6RWJ.jpg",
+          "role": "output",
+          "sourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+          "alt": "Galaxy Reflection and Aurora Lotus Lake",
+          "mediaKey": "3_2107776028060123136",
+          "cdn": {
+            "sha256": "2d1ddfbbdf220dc5b3470b588156ef788a8165ef440d0542587953c8ef592927",
+            "bytes": 148908,
+            "mimeType": "image/webp",
+            "url": "https://media.reeldance.ai/galleries/assets/2d1ddfbbdf220dc5b3470b588156ef788a8165ef440d0542587953c8ef592927.webp",
+            "width": 1024,
+            "height": 1024,
+            "originalSha256": "e54874913143ed68695b957203ab14b5005efc2c01b131adcc8b90384bc3e994",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/2d1ddfbbdf220dc5b3470b588156ef788a8165ef440d0542587953c8ef592927.webp",
+                "sha256": "2d1ddfbbdf220dc5b3470b588156ef788a8165ef440d0542587953c8ef592927",
+                "bytes": 148908,
+                "mimeType": "image/webp",
+                "width": 1024,
+                "height": 1024
+              }
+            ]
+          }
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+      },
+      "category": "styles",
+      "promptBinding": "direct-source",
+      "modelClaim": {
+        "name": "Nano Banana 2.1",
+        "quote": "NANO BANANA 2.1",
+        "sourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+        "independentlyVerified": false,
+        "binding": "direct-source"
+      },
+      "pairingEvidence": "Third output: clothed fantasy girl standing in reflected shallow water among iridescent lotus, galaxy and pink/green aurora mirrored below. Source labels third 2.1-minimal.",
+      "workIdentity": {
+        "semanticGroupId": "galaxy-reflection-aurora-lotus-lake",
+        "reviewed": true,
+        "reviewNote": "Read full lone-figure indigo dusk-sky and fantasy portraits. Reflective water, repeated lotus and mirrored galactic/auroral environment use a different composition from empty ridge/sky caption. Media 2 is explicitly Nano 2.1."
+      },
+      "verification": {
+        "status": "reviewed",
+        "promptCompleteness": "full-original",
+        "modelAttribution": "explicit-author-statement",
+        "evidencePath": "sources/2107776204766134593.json",
+        "evidenceSha256": "6d949cca3267318f1d362e3a2eca81099aa3bbe4571dba87e240d1ab69a6f59f",
+        "reviewedAt": "2026-10-09T02:59:59.595Z"
+      },
+      "publishedAt": "2026-10-07T10:13:02.000Z",
       "referenceAssets": []
     }
   ]

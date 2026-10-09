@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107999025966330111",
+  "author": {
+    "handle": "HairnetNation",
+    "name": "Mainstream Madness"
+  },
+  "sourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+  "promptSourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+  "mediaSourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/HairnetNation/status/2107999025966330111",
+  "originalPrompt": "Imperial Navy battlegroup against a Tyranid hive fleet above a dark hive world.",
+  "originalPromptSha256": "b2708fc29a259cdb3895948019333b9c8c9559335088cb6f50ee89e82033c1dd",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/HairnetNation/status/2107999025966330111",
+      "authorHandle": "HairnetNation",
+      "fullText": "Imperial Navy battlegroup against a Tyranid hive fleet above a dark hive world.\nThe same prompt. GPT Image 2 on the left, Nano Banana 2.1 on the right. Yeah, I know about the friendly fire on the right image. https://t.co/k2BCqmsEIa",
+      "fullTextSha256": "92c826a1d92dc643e0eb83cd90405dd99ec9e992944f4109e85a23389137746a",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEdQ7cXEAAqzWS.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

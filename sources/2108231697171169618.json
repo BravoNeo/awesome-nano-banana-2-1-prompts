@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2108231697171169618",
+  "author": {
+    "handle": "Gdgtify",
+    "name": "Gadgetify"
+  },
+  "sourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+  "promptSourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+  "mediaSourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/Gdgtify/status/2108231697171169618",
+  "originalPrompt": "2x2 grid, 16:9 Anchor: AI picks topics (e.g., human eye / sunflower / vinyl record / cat's face) \n\nSUBJECT            ::= infer_most_iconic_visual_form(TOPIC)\nSILHOUETTE         ::= extract_primary_shape(SUBJECT)\nFEATURES           ::= infer_recognition_critical_features(SUBJECT)\nFIELD_TYPE         ::= choose(radial | concentric | wave | vortex | contour | hybrid)\nLINE_DENSITY       ::= high\nCOLOR              ::= black_on_white\nSTYLE              ::= op_art + moiré + engraved contour illusion\n\nBASE_FIELD ::=\ngenerate_parallel_or_concentric_lines(\n    spacing = uniform,\n    thickness = constant_or_slightly_variable\n)\n\nDEFORMATION_FIELD(x,y) ::=\nΣ influence(\n    FEATURES,\n    silhouette_boundary,\n    depth_estimate,\n    focal_points\n)\n\nFINAL_LINES :=\nwarp(\n    BASE_FIELD,\n    vector_field = DEFORMATION_FIELD\n)\n\nRULES ::=\n- SUBJECT must emerge only through deformation of continuous black lines\n- avoid conventional outlines wherever possible\n- contours bend, compress, expand, spiral, or redirect to reveal form\n- preserve uninterrupted optical rhythm across figure and background\n- high-information regions receive denser curvature changes\n- low-information regions remain smoother\n- negative space may define eyes, highlights, holes, or focal voids\n- all lines remain crisp monochrome vector-like marks\n- no shading except line-frequency shading\n- no gray fills\n- no hardcoded subject\n\nOBJECTIVE :=\nmaximize(\n    topic_recognition\n    × optical_illusion_strength\n    × line_continuity\n    × moire_energy\n    × black_white_balance\n)",
+  "originalPromptSha256": "ecc1e687fcc5d94b25d38c91c1d6acfcbc9f2f1abd72a4a93b40d81bc84185bc",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/Gdgtify/status/2108231697171169618",
+      "authorHandle": "Gdgtify",
+      "fullText": "Working on next level illusions with Nano Banana 2.1\n\nPrompt: 2x2 grid, 16:9 Anchor: AI picks topics (e.g., human eye / sunflower / vinyl record / cat's face) \n\nSUBJECT            ::= infer_most_iconic_visual_form(TOPIC)\nSILHOUETTE         ::= extract_primary_shape(SUBJECT)\nFEATURES           ::= infer_recognition_critical_features(SUBJECT)\nFIELD_TYPE         ::= choose(radial | concentric | wave | vortex | contour | hybrid)\nLINE_DENSITY       ::= high\nCOLOR              ::= black_on_white\nSTYLE              ::= op_art + moiré + engraved contour illusion\n\nBASE_FIELD ::=\ngenerate_parallel_or_concentric_lines(\n    spacing = uniform,\n    thickness = constant_or_slightly_variable\n)\n\nDEFORMATION_FIELD(x,y) ::=\nΣ influence(\n    FEATURES,\n    silhouette_boundary,\n    depth_estimate,\n    focal_points\n)\n\nFINAL_LINES :=\nwarp(\n    BASE_FIELD,\n    vector_field = DEFORMATION_FIELD\n)\n\nRULES ::=\n- SUBJECT must emerge only through deformation of continuous black lines\n- avoid conventional outlines wherever possible\n- contours bend, compress, expand, spiral, or redirect to reveal form\n- preserve uninterrupted optical rhythm across figure and background\n- high-information regions receive denser curvature changes\n- low-information regions remain smoother\n- negative space may define eyes, highlights, holes, or focal voids\n- all lines remain crisp monochrome vector-like marks\n- no shading except line-frequency shading\n- no gray fills\n- no hardcoded subject\n\nOBJECTIVE :=\nmaximize(\n    topic_recognition\n    × optical_illusion_strength\n    × line_continuity\n    × moire_energy\n    × black_white_balance\n)",
+      "fullTextSha256": "caf74efedb6c46cc5712e57cbc125c3ed1611181c5611c8652e65ca64ab3fde9",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUEqVhHW0AABTR7.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

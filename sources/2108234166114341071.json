@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2108234166114341071",
+  "author": {
+    "handle": "nonameoasis",
+    "name": "nonameoasis"
+  },
+  "sourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+  "promptSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+  "mediaSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+  "originalPrompt": "hq quality film scene of a classic blonde witch. 1980s fantasy film, 35 mm film No text, letters, numbers, typography, logos or watermarks.",
+  "originalPromptSha256": "8f93e0e55754981bcb32945477d31767c738ef298a8613138b14fd5874e99169",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/nonameoasis/status/2108234166114341071",
+      "authorHandle": "nonameoasis",
+      "fullText": "Nano Banana 2.1 Prompt 🍌 ⤵️\n\nhq quality film scene of a classic blonde witch. 1980s fantasy film, 35 mm film No text, letters, numbers, typography, logos or watermarks.",
+      "fullTextSha256": "70d3bfbe8b185bd8babb7a88850113e55a8f5b72f027644cc16824e87814a6c5",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUHzrtLWcAAOxnq.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

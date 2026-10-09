@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107776204766134593",
+  "author": {
+    "handle": "ryoiwa24",
+    "name": "りょう@IT Consultant"
+  },
+  "sourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+  "promptSourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+  "mediaSourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+  "modelEvidence": "NANO BANANA 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/ryoiwa24/status/2107776204766134593",
+  "originalPrompt": "銀河が映る鏡のような湖面に佇む幻想的な少女、パステルカラーのオーロラ、浮かぶ玉虫色の蓮の花、シュルレアリスム、超高精細。",
+  "originalPromptSha256": "b42e7eae8bd31511d453b7aa912aa07e63d0bdeae167cd1c53c2037ddc12f78f",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/ryoiwa24/status/2107776204766134593",
+      "authorHandle": "ryoiwa24",
+      "fullText": "NANO BANANA 2.1が使えるようになったので\n早速試してみました。\n\nPrompt\n銀河が映る鏡のような湖面に佇む幻想的な少女、パステルカラーのオーロラ、浮かぶ玉虫色の蓮の花、シュルレアリスム、超高精細。\n\n左から\n2-minimal,2 Lite-minimal,2.1-minimal , 2.1-High https://t.co/uZ4duWDCa6",
+      "fullTextSha256": "525ea9714b3e84dcf20156f39da7690ddf1473ba94eec2bf7335293a71367342",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUBTIUqbgAA6RWJ.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

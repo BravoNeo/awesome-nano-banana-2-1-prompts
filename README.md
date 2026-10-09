@@ -6,7 +6,7 @@
 
 ReelDance is a multi-model AI image and video creation platform. Turn text into images or videos, animate an image, and choose a model for your project.
 
-63 image prompts from 36 creators, from multilingual café menus and editorial portraits to character sheets, product scenes and photo edits. Explore the outputs, copy the complete original prompts and visit the creators’ posts.
+73 image prompts from 41 creators, from multilingual café menus and editorial portraits to character sheets, product scenes and photo edits. Explore the outputs, copy the complete original prompts and visit the creators’ posts.
 
 <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Browse the online gallery</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">Explore more inspiration</a>
 
@@ -37,11 +37,11 @@ ReelDance is a multi-model AI image and video creation platform. Turn text into 
 | Category | Works |
 | --- | ---: |
 | [Posters & typography](#posters) | 13 |
-| [Portraits](#portraits) | 14 |
+| [Portraits](#portraits) | 15 |
 | [Character sheets & sequences](#storyboards) | 5 |
 | [Products & object studies](#products) | 6 |
 | [Photo editing](#edits) | 10 |
-| [Styles & scenes](#styles) | 15 |
+| [Styles & scenes](#styles) | 24 |
 
 ## Artwork & complete prompts
 
@@ -910,6 +910,95 @@ Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/210
 
 </details>
 
+<a id="overhead-crosswalk-street-fashion-geometry"></a>
+### Overhead Crosswalk Street Fashion
+
+Overhead Crosswalk Street Fashion.
+
+Ryan Fox (@hardik_lut83675) · <a href="https://x.com/hardik_lut83675/status/2108332864999661910" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Overhead Crosswalk Street Fashion](https://media.reeldance.ai/galleries/assets/cd916b3e652d01babbc1393c9bf2621a4acdcae9445e472a307e75ab419aacb9.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+{
+  "prompt": {
+    "style": "authentic candid street-style photograph, early-2000s inspired fashion aesthetic, realistic smartphone photography, slightly grainy film-like texture",
+    "subject": {
+      "gender": "young woman",
+      "appearance": "young South Asian woman with warm medium skin tone, long dark brown wavy hair parted near the center, naturally full eyebrows, soft facial features",
+      "expression": "calm, confident, slightly serious expression while looking directly toward the camera",
+      "pose": "standing on a pedestrian crossing, photographed from a high overhead angle, looking upward toward the camera, both hands casually placed near the front pockets of her jeans"
+    },
+    "outfit": {
+      "top": "fitted white asymmetrical one-shoulder crop top with subtle ruched fabric",
+      "bottom": "loose-fitting low-rise washed blue denim jeans with a relaxed baggy silhouette",
+      "footwear": "white sneakers, partially visible",
+      "accessories": [
+        "small rectangular black sunglasses",
+        "short pearl necklace",
+        "multiple chunky silver bangles on both wrists",
+        "silver rings",
+        "layered silver chain belt hanging loosely around the waist"
+      ]
+    },
+    "hair": {
+      "style": "long, voluminous naturally wavy dark brown hair flowing over both shoulders",
+      "texture": "slightly tousled with individual strands visible",
+      "movement": "subtle natural movement from outdoor breeze"
+    },
+    "environment": {
+      "location": "urban street intersection",
+      "ground": "dark textured asphalt with broad white pedestrian crossing stripes",
+      "background": "only the street surface and crosswalk visible due to the steep overhead camera angle",
+      "lighting": "strong warm late-afternoon golden sunlight creating defined shadows across the asphalt",
+      "shadows": "long diagonal architectural or environmental shadows crossing the pedestrian stripes"
+    },
+    "composition": {
+      "camera_angle": "high-angle overhead shot looking downward at approximately 60–70 degrees",
+      "framing": "vertical portrait composition, subject centered in the frame from head to below the knees",
+      "perspective": "slightly wide smartphone lens perspective",
+      "orientation": "vertical 4:5",
+      "subject_position": "woman positioned slightly toward the center-left while looking directly upward into the lens"
+    },
+    "photographic_quality": {
+      "camera": "modern smartphone camera",
+      "look": "authentic Instagram street-fashion photograph",
+      "color": "warm golden-hour tones with slightly muted blacks and natural skin tones",
+      "texture": "visible fine film grain and realistic asphalt texture",
+      "dynamic_range": "natural contrast with slightly blown warm highlights",
+      "retouching": "minimal, natural skin texture preserved",
+      "depth": "sharp subject with realistic environmental detail"
+    },
+    "negative_prompt": [
+      "studio photography",
+      "artificial posing",
+      "heavy makeup",
+      "beauty filter",
+      "plastic skin",
+      "excessive skin smoothing",
+      "unrealistic body proportions",
+      "extra fingers",
+      "deformed hands",
+      "extra limbs",
+      "distorted sunglasses",
+      "duplicate jewelry",
+      "blurred face",
+      "oversaturated colors",
+      "extreme HDR",
+      "cinematic bokeh",
+      "text",
+      "watermark",
+      "logo"
+    ]
+  }
+}
+```
+
+</details>
+
 <a id="storyboards"></a>
 ## Character sheets & sequences
 
@@ -1634,6 +1723,218 @@ In the foreground and midground, a group of unique, stylistically diverse charac
 
 Setting and Ambience:
 The scene is set in a cluttered, sprawling futuristic alleyway and rooftop bazaar at night, overflowing with party decorations, paper lanterns, neon signs, and strings of colorful fairy lights. Multi-colored strobe and cybernetic lights (pink, cyan, violet, and gold) wash over the packed crowd. A DJ booth is visible in the background, set on an elevated, glowing stage where a performer plays for a dancing, densely packed crowd of varied species and styles \\ realistic). Sky-high futuristic buildings, flying vehicles with light trails, and towering holographic advertisements fill the dark night sky above. The ground is littered with festive confetti and debris, capturing the chaotic, joyful energy of a bustling street festival. Shot with a natural, crowded, and candid perspective, filled with layered details like wires, stalls, and people mingling.
+```
+
+</details>
+
+<a id="eighties-witch-cauldron-film-scene"></a>
+### 1980s Witch and Cauldron Film Scene
+
+1980s Witch and Cauldron Film Scene.
+
+nonameoasis (@nonameoasis) · <a href="https://x.com/nonameoasis/status/2108234166114341071" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![1980s Witch and Cauldron Film Scene](https://media.reeldance.ai/galleries/assets/d4596fdbfcc449db6b06b2f808ebf018cb62abe59ba13a2dea149c42c199ffb9.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+hq quality film scene of a classic blonde witch. 1980s fantasy film, 35 mm film No text, letters, numbers, typography, logos or watermarks.
+```
+
+</details>
+
+<a id="continuous-optical-line-field-topic-grid"></a>
+### Optical Line-Field Topic Grid
+
+Optical Line-Field Topic Grid.
+
+Gadgetify (@Gdgtify) · <a href="https://x.com/Gdgtify/status/2108231697171169618" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Optical Line-Field Topic Grid](https://media.reeldance.ai/galleries/assets/c249b14c5f6ac8a83167764bc47e1ac723724d387ac69229a327a0d1d91220f6.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+2x2 grid, 16:9 Anchor: AI picks topics (e.g., human eye / sunflower / vinyl record / cat's face) 
+
+SUBJECT            ::= infer_most_iconic_visual_form(TOPIC)
+SILHOUETTE         ::= extract_primary_shape(SUBJECT)
+FEATURES           ::= infer_recognition_critical_features(SUBJECT)
+FIELD_TYPE         ::= choose(radial | concentric | wave | vortex | contour | hybrid)
+LINE_DENSITY       ::= high
+COLOR              ::= black_on_white
+STYLE              ::= op_art + moiré + engraved contour illusion
+
+BASE_FIELD ::=
+generate_parallel_or_concentric_lines(
+    spacing = uniform,
+    thickness = constant_or_slightly_variable
+)
+
+DEFORMATION_FIELD(x,y) ::=
+Σ influence(
+    FEATURES,
+    silhouette_boundary,
+    depth_estimate,
+    focal_points
+)
+
+FINAL_LINES :=
+warp(
+    BASE_FIELD,
+    vector_field = DEFORMATION_FIELD
+)
+
+RULES ::=
+- SUBJECT must emerge only through deformation of continuous black lines
+- avoid conventional outlines wherever possible
+- contours bend, compress, expand, spiral, or redirect to reveal form
+- preserve uninterrupted optical rhythm across figure and background
+- high-information regions receive denser curvature changes
+- low-information regions remain smoother
+- negative space may define eyes, highlights, holes, or focal voids
+- all lines remain crisp monochrome vector-like marks
+- no shading except line-frequency shading
+- no gray fills
+- no hardcoded subject
+
+OBJECTIVE :=
+maximize(
+    topic_recognition
+    × optical_illusion_strength
+    × line_continuity
+    × moire_energy
+    × black_white_balance
+)
+```
+
+</details>
+
+<a id="woven-mushroom-moonlit-forest"></a>
+### Woven Mushrooms in a Moonlit Forest
+
+Woven Mushrooms in a Moonlit Forest.
+
+Shine by Nous ✨ (@Shinebynous) · <a href="https://x.com/Shinebynous/status/2108096230211412085" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Woven Mushrooms in a Moonlit Forest](https://media.reeldance.ai/galleries/assets/8c0a296992ec48a436466b8b28aed8aee63ad0d04e7ef61c68a0c3098a6b18cd.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+Mysterious mushroom-shaped creatures, glowing pink spores, a fantasy forest setting at night with moonlight casting shadows, creating an otherworldly atmosphere. This digital painting, in the style of Ruth Asawa, uses vibrant colors and intricate details to capture the mystical ambiance of magic mushrooms in an enchanted woodland environment
+```
+
+</details>
+
+<a id="orbital-gothic-fleet-versus-hive-battle"></a>
+### Gothic Fleet above a Hive World
+
+Gothic Fleet above a Hive World.
+
+Mainstream Madness (@HairnetNation) · <a href="https://x.com/HairnetNation/status/2107999025966330111" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Gothic Fleet above a Hive World](https://media.reeldance.ai/galleries/assets/3185ec117143c640b01e599cb97cac59fdd158236ce9cfbab679c35508c75628.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+Imperial Navy battlegroup against a Tyranid hive fleet above a dark hive world.
+```
+
+</details>
+
+<a id="gothic-street-infantry-versus-alien-swarm"></a>
+### Infantry Last Stand on a Gothic Street
+
+Infantry Last Stand on a Gothic Street.
+
+Mainstream Madness (@HairnetNation) · <a href="https://x.com/HairnetNation/status/2107992135031025750" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Infantry Last Stand on a Gothic Street](https://media.reeldance.ai/galleries/assets/a8a125dfbee02ae981bf116e11143a307c898105cb1ada3a50fc2407a18ffe6a.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+Astra Militarum last stand against a Tyranid swarm on a ruined gothic street at dusk.
+```
+
+</details>
+
+<a id="giant-origami-koi-flooded-shopping-arcade"></a>
+### Giant Origami Koi in a Shopping Arcade
+
+Giant Origami Koi in a Shopping Arcade.
+
+Aki | CuratorOfJoy (@Aki_LIG) · <a href="https://x.com/Aki_LIG/status/2107971985640956014" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Giant Origami Koi in a Shopping Arcade](https://media.reeldance.ai/galleries/assets/fda73aa5d23c81827a7bce7ceb24b56b84aad2f010b41697b7cc6afc54906fc9.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+Photograph an extraordinary original art installation in an empty old Japanese shopping arcade at dawn. A gigantic red and ivory origami koi floats gracefully through the vaulted corridor above a shallow mirror of water. The folded paper scales and angular fins are unmistakably handmade, long rows of closed shop shutters recede into soft haze. Quiet documentary architectural photography, believable paper texture and reflections, striking sense of scale, no readable signs or text.
+```
+
+</details>
+
+<a id="raised-thread-night-train-textile"></a>
+### Embroidered Night Train Textile
+
+Embroidered Night Train Textile.
+
+Aki | CuratorOfJoy (@Aki_LIG) · <a href="https://x.com/Aki_LIG/status/2107842447577321841" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Embroidered Night Train Textile](https://media.reeldance.ai/galleries/assets/c16580706e9ba50b2f5ea7e94a67328ed7581f2bccfa7e7c22394a32b58b8974.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+An exquisite original hand-embroidered textile artwork photographed in rich macro detail: a tiny night train travels through snowy mountains beneath a sky of metallic-thread stars on deep indigo cloth. Satin stitches, raised wool snow, fine gold running stitches for windows, subtle silk-thread aurora; the landscape tells a quiet imaginative story. Warm directional craft-studio light reveals every fiber, sophisticated composition, no words or logos.
+```
+
+</details>
+
+<a id="misty-lake-rowboat-stillness-print"></a>
+### Misty Lake Rowboat Print
+
+Misty Lake Rowboat Print.
+
+Emilio (@EmilioSchwaiger) · <a href="https://x.com/EmilioSchwaiger/status/2107790561126010965" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Misty Lake Rowboat Print](https://media.reeldance.ai/galleries/assets/435e18bf0262fe517d8e5bfcafb3befd85788d2d1450a8871885471341ddccb2.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: "stillness is a place"
+```
+
+</details>
+
+<a id="galaxy-reflection-aurora-lotus-lake"></a>
+### Galaxy Reflection and Aurora Lotus Lake
+
+Galaxy Reflection and Aurora Lotus Lake.
+
+りょう@IT Consultant (@ryoiwa24) · <a href="https://x.com/ryoiwa24/status/2107776204766134593" rel="nofollow noreferrer" referrerpolicy="no-referrer">Original post / 原帖</a>
+
+![Galaxy Reflection and Aurora Lotus Lake](https://media.reeldance.ai/galleries/assets/2d1ddfbbdf220dc5b3470b588156ef788a8165ef440d0542587953c8ef592927.webp)
+
+<details>
+<summary>Complete original prompt</summary>
+
+```text
+銀河が映る鏡のような湖面に佇む幻想的な少女、パステルカラーのオーロラ、浮かぶ玉虫色の蓮の花、シュルレアリスム、超高精細。
 ```
 
 </details>

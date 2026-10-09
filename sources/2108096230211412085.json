@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2108096230211412085",
+  "author": {
+    "handle": "Shinebynous",
+    "name": "Shine by Nous ✨"
+  },
+  "sourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+  "promptSourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+  "mediaSourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/Shinebynous/status/2108096230211412085",
+  "originalPrompt": "Mysterious mushroom-shaped creatures, glowing pink spores, a fantasy forest setting at night with moonlight casting shadows, creating an otherworldly atmosphere. This digital painting, in the style of Ruth Asawa, uses vibrant colors and intricate details to capture the mystical ambiance of magic mushrooms in an enchanted woodland environment",
+  "originalPromptSha256": "7fba06f7c9aabf15c53cd39242034952c7e351578ced561bac251e9b9ad19ae4",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/Shinebynous/status/2108096230211412085",
+      "authorHandle": "Shinebynous",
+      "fullText": "Nano Banana 2.1 prompt:\n\nMysterious mushroom-shaped creatures, glowing pink spores, a fantasy forest setting at night with moonlight casting shadows, creating an otherworldly atmosphere. This digital painting, in the style of Ruth Asawa, uses vibrant colors and intricate details to capture the mystical ambiance of magic mushrooms in an enchanted woodland environment",
+      "fullTextSha256": "dc829dc9ea9b25b39a4fb58b51ab393dded2784c5502313f4e4b4e96f9608c43",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUF2VysXYAAbv_G.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107971985640956014",
+  "author": {
+    "handle": "Aki_LIG",
+    "name": "Aki | CuratorOfJoy"
+  },
+  "sourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+  "promptSourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+  "mediaSourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/Aki_LIG/status/2107971985640956014",
+  "originalPrompt": "Photograph an extraordinary original art installation in an empty old Japanese shopping arcade at dawn. A gigantic red and ivory origami koi floats gracefully through the vaulted corridor above a shallow mirror of water. The folded paper scales and angular fins are unmistakably handmade, long rows of closed shop shutters recede into soft haze. Quiet documentary architectural photography, believable paper texture and reflections, striking sense of scale, no readable signs or text.",
+  "originalPromptSha256": "af8438d74246d34de743a6190b02b24a139336ff91f576e752d54bbcac3b7191",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/Aki_LIG/status/2107971985640956014",
+      "authorHandle": "Aki_LIG",
+      "fullText": "Nano Banana 2.1\n折り紙の鯉とアーケード\n\nプロンプト：\nPhotograph an extraordinary original art installation in an empty old Japanese shopping arcade at dawn. A gigantic red and ivory origami koi floats gracefully through the vaulted corridor above a shallow mirror of water. The folded paper scales and angular fins are unmistakably handmade, long rows of closed shop shutters recede into soft haze. Quiet documentary architectural photography, believable paper texture and reflections, striking sense of scale, no readable signs or text.",
+      "fullTextSha256": "bc1b10c0426e1791307275c5dd07d79cd378c7668919315b54f2074e7eb25334",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCP3LuaUAAuPaj.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107842447577321841",
+  "author": {
+    "handle": "Aki_LIG",
+    "name": "Aki | CuratorOfJoy"
+  },
+  "sourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+  "promptSourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+  "mediaSourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/Aki_LIG/status/2107842447577321841",
+  "originalPrompt": "An exquisite original hand-embroidered textile artwork photographed in rich macro detail: a tiny night train travels through snowy mountains beneath a sky of metallic-thread stars on deep indigo cloth. Satin stitches, raised wool snow, fine gold running stitches for windows, subtle silk-thread aurora; the landscape tells a quiet imaginative story. Warm directional craft-studio light reveals every fiber, sophisticated composition, no words or logos.",
+  "originalPromptSha256": "c52ee4147d276416a551669ee44dc6d89ac96cb367d0edcdf27a3890e54bf12a",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/Aki_LIG/status/2107842447577321841",
+      "authorHandle": "Aki_LIG",
+      "fullText": "Nano Banana 2.1\n刺繍の夜汽車\n\nプロンプト：\nAn exquisite original hand-embroidered textile artwork photographed in rich macro detail: a tiny night train travels through snowy mountains beneath a sky of metallic-thread stars on deep indigo cloth. Satin stitches, raised wool snow, fine gold running stitches for windows, subtle silk-thread aurora; the landscape tells a quiet imaginative story. Warm directional craft-studio light reveals every fiber, sophisticated composition, no words or logos.",
+      "fullTextSha256": "ca6325a82ba11e8632237d7fb2eb31188ab4c787011d70e9bfd23948dc8043da",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCPcm-bUAA-pfw.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}

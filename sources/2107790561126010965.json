@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workId": "x-2107790561126010965",
+  "author": {
+    "handle": "EmilioSchwaiger",
+    "name": "Emilio"
+  },
+  "sourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+  "promptSourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+  "mediaSourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+  "modelEvidence": "Nano Banana 2.1",
+  "modelEvidenceSourceUrl": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+  "originalPrompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"stillness is a place\"",
+  "originalPromptSha256": "5ef797774d1fe723f9508ed7177877eea8c5b76587d4f09847a7373f11cf6146",
+  "pairingEvidence": [
+    {
+      "url": "https://x.com/EmilioSchwaiger/status/2107790561126010965",
+      "authorHandle": "EmilioSchwaiger",
+      "fullText": "Prompt: A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"stillness is a place\"\n\nNano Banana 2.1 https://t.co/oyy0wczEsO",
+      "fullTextSha256": "2273920c49aed3b0710e8a134ff7e344c11aa413d0d886f2841d114d3b12f51b",
+      "textCompleteness": "full-original",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HUBgWGbWgAAbXUJ.jpg",
+          "role": "output"
+        }
+      ]
+    }
+  ],
+  "displayNote": ""
+}
