@@ -10,12 +10,12 @@ LABELS = {'posters': ('Posters & typography', '海报与文字排版'), 'portrai
 
 def render(entries, locale):
     zh = locale == 'zh'
-    lines = [template('intro', locale, entries), '', featured_navigation(entries, locale), '', '## ' + ('分类浏览' if zh else 'Browse categories'), '', '| ' + ('分类 | 作品 |' if zh else 'Category | Works |'), '| --- | ---: |']
+    lines = [template('intro', locale, entries), '', featured_navigation(entries, locale), '', '<a id="browse-categories"></a>', '', '## ' + ('分类浏览' if zh else 'Browse categories'), '', '| ' + ('分类 | 作品 |' if zh else 'Category | Works |'), '| --- | ---: |']
     for key, labels in LABELS.items():
         count = sum(e['category'] == key for e in entries)
         if count:
             lines.append(f'| [{labels[int(zh)]}](#{key}) | {count} |')
-    lines += ['', '## ' + ('作品与完整提示词' if zh else 'Artwork & complete prompts'), '']
+    lines += ['', '<a id="all-prompts"></a>', '', '## ' + ('作品与完整提示词' if zh else 'Artwork & complete prompts'), '']
     config = presentation()
     chosen = config['featured']
     ordered = featured_entries(entries)

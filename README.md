@@ -2,23 +2,42 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
-
-ReelDance is a multi-model AI image and video creation platform. Turn text into images or videos, animate an image, and choose a model for your project.
-
 73 image prompts from 41 creators, from multilingual café menus and editorial portraits to character sheets, product scenes and photo edits. Explore the outputs, copy the complete original prompts and visit the creators’ posts.
 
-<a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Browse the online gallery</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">Explore more inspiration</a>
+Curated by <a href="https://reeldance.ai/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-nano-banana-2-1" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>.
+
+## Table of contents
+
+- [View in web gallery](#web-gallery)
+- [About Nano Banana 2.1](#about)
+- [How to use these prompts](#how-to-use)
+- [Start with these examples](#featured-examples)
+- [Browse categories](#browse-categories)
+- [All prompts](#all-prompts)
+
+<a id="web-gallery"></a>
+
+## View in web gallery
+
+Prefer browsing on the web? <a href="https://reeldance.ai/nano-banana-2-1-prompts?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-nano-banana-2-1&amp;utm_content=gallery" rel="nofollow noreferrer" referrerpolicy="no-referrer">Explore the Nano Banana 2.1 prompt gallery on ReelDance →</a>
+
+The complete collection below keeps each original prompt alongside its artwork and creator sources.
+
+<a id="about"></a>
 
 ## About Nano Banana 2.1
 
 <a href="https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1?hl=en" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1</a> is Google’s image generation and conversational editing model. It supports text-led creation and image references, with improvements to visual quality, character consistency and text rendering.
+
+<a id="how-to-use"></a>
 
 ## How to use these prompts
 
 1. Pick an example and expand its complete original prompt.
 2. Replace subject or location variables; for editing examples, prepare a reference image you have permission to use.
 3. Select the model in a supported tool, paste the prompt, then adapt the composition, wording or style to your project.
+
+<a id="featured-examples"></a>
 
 ## Start with these examples
 
@@ -32,6 +51,8 @@ ReelDance is a multi-model AI image and video creation platform. Turn text into 
 | [Rainy Market with Six Writing Systems](#rainy-market-with-six-writing-systems) | Rain, umbrellas, steam and neon surround six shop signs in different writing systems. The prompt requests exact lettering within a busy night-market scene. |
 
 
+<a id="browse-categories"></a>
+
 ## Browse categories
 
 | Category | Works |
@@ -42,6 +63,8 @@ ReelDance is a multi-model AI image and video creation platform. Turn text into 
 | [Products & object studies](#products) | 6 |
 | [Photo editing](#edits) | 10 |
 | [Styles & scenes](#styles) | 24 |
+
+<a id="all-prompts"></a>
 
 ## Artwork & complete prompts
 

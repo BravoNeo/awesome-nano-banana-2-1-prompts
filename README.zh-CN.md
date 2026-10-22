@@ -2,23 +2,42 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
-
-ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
-
 收集 41 位创作者的 73 个图像作品与提示词，从多语言咖啡菜单、杂志人像到角色设定、产品场景和照片编辑。可以浏览输出作品、复制完整原始提示词，并查看作者原帖。
 
-<a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
+由 <a href="https://reeldance.ai/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-nano-banana-2-1" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理。
+
+## 目录
+
+- [在线作品库](#web-gallery)
+- [关于 Nano Banana 2.1](#about)
+- [如何使用](#how-to-use)
+- [从这些作品开始](#featured-examples)
+- [分类浏览](#browse-categories)
+- [全部提示词](#all-prompts)
+
+<a id="web-gallery"></a>
+
+## 在线作品库
+
+习惯在网页中浏览？<a href="https://reeldance.ai/nano-banana-2-1-prompts?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-nano-banana-2-1&amp;utm_content=gallery" rel="nofollow noreferrer" referrerpolicy="no-referrer">前往 ReelDance 的 Nano Banana 2.1 提示词作品库 →</a>
+
+完整合集见下方，每个案例均保留原始提示词、对应作品和创作者来源。
+
+<a id="about"></a>
 
 ## 关于 Nano Banana 2.1
 
 <a href="https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1?hl=en" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1</a> 是 Google 的图像生成与对话式编辑模型，支持文字创作和图片参考，并改进了画面质量、角色一致性与文字渲染。
+
+<a id="how-to-use"></a>
 
 ## 如何使用
 
 1. 选择一个案例，展开完整原始提示词。
 2. 替换地点、主体等变量；编辑类作品先准备自己有权使用的参考图。
 3. 在支持该模型的工具中选择模型并粘贴提示词，再按你的目标调整构图、文字或风格。
+
+<a id="featured-examples"></a>
 
 ## 从这些作品开始
 
@@ -32,6 +51,8 @@ ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生
 | [六种文字招牌的雨夜街市](#rainy-market-with-six-writing-systems) | 雨水、伞、蒸汽与霓虹围绕六种文字的店铺招牌，提示词在繁忙夜市场景中提出明确的文字要求。 |
 
 
+<a id="browse-categories"></a>
+
 ## 分类浏览
 
 | 分类 | 作品 |
@@ -42,6 +63,8 @@ ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生
 | [产品与物体研究](#products) | 6 |
 | [照片编辑](#edits) | 10 |
 | [风格与场景](#styles) | 24 |
+
+<a id="all-prompts"></a>
 
 ## 作品与完整提示词
 

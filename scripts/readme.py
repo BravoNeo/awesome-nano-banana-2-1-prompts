@@ -27,7 +27,7 @@ def featured_navigation(entries, locale):
     zh = locale == 'zh'
     config = presentation()
     selected = [e for e in featured_entries(entries) if e['slug'] in config['featured']]
-    rows = ['## ' + ('从这些作品开始' if zh else 'Start with these examples'), '',
+    rows = ['<a id="featured-examples"></a>', '', '## ' + ('从这些作品开始' if zh else 'Start with these examples'), '',
             '| ' + ('作品 | 看点 |' if zh else 'Example | What to explore |'), '| --- | --- |']
     for e in selected:
         title = e['title'].get(locale) or e['title']['en']
@@ -50,6 +50,10 @@ def external_links(markdown):
     lines = []
     fence_length = None
     pattern = re.compile(r'(?<!!)\[([^\]\n]+)\]\((https?://[^\s)]+)\)')
+    linked_image = re.compile(r'\[!\[([^\]\n]*)\]\((https?://[^\s)]+)\)\]\((https?://[^\s)]+)\)')
+    def image_anchor(match):
+        alt, src, href = (html.escape(value, quote=True) for value in match.groups())
+        return f'<a href="{href}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{src}" alt="{alt}" /></a>'
     def anchor(match):
         return '<a href="' + html.escape(match[2], quote=True) + '" rel="nofollow noreferrer" referrerpolicy="no-referrer">' + html.escape(match[1]) + '</a>'
     for line in markdown.splitlines(keepends=True):
@@ -62,5 +66,5 @@ def external_links(markdown):
             if fence and len(fence[1]) >= fence_length and not fence[2].strip():
                 fence_length = None
         else:
-            lines.append(pattern.sub(anchor, line))
+            lines.append(pattern.sub(anchor, linked_image.sub(image_anchor, line)))
     return ''.join(lines)
